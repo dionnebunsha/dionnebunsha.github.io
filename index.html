@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dionne Bunsha — Journalist, Activist, Environmentalist</title>
+<meta name="description" content="Dionne Bunsha is an award-winning journalist, activist, and environmentalist covering human rights, social justice, and the climate crisis.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- NAV -->
+<nav id="nav">
+  <div class="inner">
+    <a href="#" class="logo" onclick="showHome(); return false;">Dionne Bunsha</a>
+    <button class="menu-toggle" aria-label="Menu" onclick="document.querySelector('nav ul').classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#book">Book</a></li>
+      <li><a href="#writing">Writing</a></li>
+      <li><a href="#photography">Photography</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-inner fade-in">
+    <p class="subtitle">Journalist &middot; Activist &middot; Environmentalist</p>
+    <h1>Dionne Bunsha</h1>
+    <p>Award-winning journalist covering human rights, social justice, and the climate crisis. Author, documentary storyteller, and advocate for the people and places that need it most.</p>
+    <a href="#about" class="scroll-hint">
+      Explore
+      <span class="arrow">&darr;</span>
+    </a>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+  <div class="container about-grid">
+    <div>
+      <p class="section-label fade-in">About</p>
+      <h2 class="section-heading fade-in">Stories that matter,<br>told with conscience</h2>
+      <div class="about-image fade-in">
+        <img src="images/dionne.jpg" alt="Dionne Bunsha" loading="lazy">
+      </div>
+    </div>
+    <div class="section-text fade-in" id="about-content">
+      <p>Dionne Bunsha is an award-winning journalist and author whose work spans the intersections of human rights, environmental justice, and social change. From the coast of Gujarat to the old-growth rainforests of British Columbia, her reporting gives voice to communities confronting violence, displacement, and ecological destruction.</p>
+      <p>She served as Senior Assistant Editor for <em>Frontline</em> magazine in Mumbai, and her writing has appeared in <em>The Guardian</em>, <em>The Hindu</em>, and <em>New Internationalist</em>. Her book <em>Scarred: Experiments with Violence in Gujarat</em> remains an essential account of communal violence and its lasting aftermath.</p>
+      <p>Bunsha holds a Master's in Resource and Environmental Management from Simon Fraser University and an M.Sc. in Development Studies from the London School of Economics. She is a Knight International Journalism Fellow (Stanford, 2008–09) and recipient of the Ramnath Goenka Excellence Awards, the IFJ Journalism for Tolerance Prize, and the PUCL Journalism for Human Rights Award.</p>
+      <div class="topics">
+        <span onclick="jumpToCategory('Climate Change')">Climate Change</span>
+        <span onclick="jumpToCategory('Human Rights')">Human Rights</span>
+        <span onclick="jumpToCategory('Environment')">Environment</span>
+        <span onclick="jumpToCategory('Gujarat Violence')">Gujarat Violence</span>
+        <span onclick="jumpToCategory('Farm Crisis')">Farm Crisis</span>
+        <span onclick="jumpToCategory('Globalization')">Globalization</span>
+        <span onclick="jumpToCategory('Photography')" >Photography</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BOOK -->
+<section id="book">
+  <div class="container">
+    <p class="section-label fade-in">Book</p>
+    <h2 class="section-heading fade-in">Scarred</h2>
+    <div class="book-card fade-in">
+      <div class="book-cover">
+        <img src="images/Scarred-cover.jpg" alt="Scarred: Experiments with Violence in Gujarat by Dionne Bunsha" loading="lazy">
+      </div>
+      <div class="book-info">
+        <h3>Experiments with Violence in Gujarat</h3>
+        <p class="quote">"In <em>Scarred</em>, Dionne Bunsha takes us back to Gujarat and reveals the awful routine business of everyday fascism."</p>
+        <p class="attribution">— Arundhati Roy</p>
+        <p>A deeply reported account of the 2002 Gujarat violence and its aftermath, <em>Scarred</em> examines how communal hatred is manufactured, sustained, and resisted. Through first-hand reporting and the voices of survivors, Bunsha reveals the human toll of political violence and the quiet courage of those who rebuild.</p>
+        <p style="margin-top: 1rem; font-size: 0.85rem; color: var(--text-lighter);">Penguin India, 2006</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- WRITING -->
+<section id="writing">
+  <div class="container">
+    <p class="section-label fade-in">Writing</p>
+    <h2 class="section-heading fade-in">From the field</h2>
+    <div class="category-filter fade-in" id="category-filters">
+      <!-- Rendered by JS -->
+    </div>
+    <div class="articles" id="article-cards">
+      <!-- Rendered by JS -->
+    </div>
+  </div>
+</section>
+
+<!-- PHOTOGRAPHY -->
+<section id="photography">
+  <div class="container">
+    <p class="section-label fade-in">Photography</p>
+    <h2 class="section-heading fade-in">Seeing the story</h2>
+    <p class="section-text fade-in" style="margin-bottom: 0.5rem;">Documentary photography from the field — communities, landscapes, and the textures of everyday resistance.</p>
+    <div class="photo-grid fade-in">
+      <div class="photo-cell" onclick="openLightbox('images/Sabarkantha.jpg', 'Sabarkantha, Gujarat')">
+        <img src="images/Sabarkantha.jpg" alt="Sabarkantha, Gujarat" loading="lazy">
+        <span class="label">Sabarkantha</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/ClayoquotSound.jpg', 'Clayoquot Sound, British Columbia')">
+        <img src="images/ClayoquotSound.jpg" alt="Clayoquot Sound, British Columbia" loading="lazy">
+        <span class="label">Clayoquot Sound</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/danti4.jpg', 'Coastal Gujarat')">
+        <img src="images/danti4.jpg" alt="Coastal Gujarat" loading="lazy">
+        <span class="label">Coastal Gujarat</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/GangotriMtns.jpg', 'Gangotri Mountains')">
+        <img src="images/GangotriMtns.jpg" alt="Gangotri Mountains" loading="lazy">
+        <span class="label">Gangotri</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/Himalaya.jpg', 'Himalaya')">
+        <img src="images/Himalaya.jpg" alt="Himalaya" loading="lazy">
+        <span class="label">Himalaya</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/Gangotri.jpg', 'Gangotri Glacier')">
+        <img src="images/Gangotri.jpg" alt="Gangotri" loading="lazy">
+        <span class="label">Gangotri Glacier</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/bellabella1.jpg', 'Bella Bella, British Columbia')">
+        <img src="images/bellabella1.jpg" alt="Bella Bella" loading="lazy">
+        <span class="label">Bella Bella</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/himalaya2.jpg', 'Himalayan Landscape')">
+        <img src="images/himalaya2.jpg" alt="Himalaya" loading="lazy">
+        <span class="label">Himalayan Landscape</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/sugarcane1.jpg', 'Sugarcane Fields')">
+        <img src="images/sugarcane1.jpg" alt="Sugarcane Fields" loading="lazy">
+        <span class="label">Sugarcane Fields</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/gangotri2.jpg', 'Gangotri')">
+        <img src="images/gangotri2.jpg" alt="Gangotri" loading="lazy">
+        <span class="label">Gangotri</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/vidarbh1.jpg', 'Vidarbha')">
+        <img src="images/vidarbh1.jpg" alt="Vidarbha" loading="lazy">
+        <span class="label">Vidarbha</span>
+      </div>
+      <div class="photo-cell" onclick="openLightbox('images/beejbachao2.jpg', 'Beej Bachao Andolan — Seed Saving Movement')">
+        <img src="images/beejbachao2.jpg" alt="Beej Bachao Andolan" loading="lazy">
+        <span class="label">Beej Bachao</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <div class="container">
+    <p class="section-label fade-in">Get in Touch</p>
+    <h2 class="section-heading fade-in">Let's connect</h2>
+    <p class="section-text fade-in">For assignments, collaborations, speaking engagements, or just to say hello.</p>
+    <div class="contact-links fade-in">
+      <a href="https://twitter.com/dionnebunsha" target="_blank" rel="noopener">Twitter</a>
+      <a href="https://linkedin.com/in/dionnebunsha" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="mailto:dionne11@gmail.com">Email</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  &copy; 2026 Dionne Bunsha. All rights reserved.
+</footer>
+
+<!-- ARTICLE VIEW (shown when viewing individual article) -->
+<div class="article-view" id="article-view"></div>
+
+<!-- LIGHTBOX -->
+<div class="lightbox" id="lightbox">
+  <button class="close-btn" aria-label="Close">&times;</button>
+  <button class="lb-prev" aria-label="Previous" onclick="event.stopPropagation(); lightboxNav(-1)">&#8249;</button>
+  <img src="" alt="">
+  <button class="lb-next" aria-label="Next" onclick="event.stopPropagation(); lightboxNav(1)">&#8250;</button>
+  <span class="caption"></span>
+  <span class="lb-counter" id="lightbox-counter"></span>
+</div>
+
+<script src="js/site.js"></script>
+
+</body>
+</html>
