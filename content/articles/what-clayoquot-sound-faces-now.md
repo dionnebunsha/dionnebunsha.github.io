@@ -14,7 +14,7 @@ It has been 20 years since Clayoquot witnessed one of the [biggest civil rights
 
 The ‘Summer of 1993’ protests in Clayoquot prompted landmark changes in forestry, not only in Clayoquot Sound, but also influenced land use planning in other regions like the Great Bear Rainforest. In response to the protests, the government of B.C. appointed a scientific panel comprising scientists and First Nations elders to devise sustainable forestry practices. The panel introduced a new approach to land use planning called ecosystem-based management that recognizes the full array of interactions within an ecosystem, including humans, and allocates areas for protection as well as sustainable human use. It led to community-based watershed planning, which incorporated precautionary measures to protect the ecological and First Nations cultural values of Clayoquot’s forests. The watershed plans added a network of reserves, resulting in a total of about 61 per cent of Clayoquot’s forested land base in parks or reserves. As an alternative to clear cutting forests, the panel suggested variable retention, a system in which only a portion of the cut block is logged and the rest is retained in order to preserve environmental values.
 
-![ClayoquotBirdsEye_600px.jpg](images/ClayoquotBirdsEye_600px.jpg)
+![ClayoquotBirdsEye.jpg](images/ClayoquotBirdsEye.jpg)
 
 ***Will First Nations and the B.C. government find a way to protect their intact forests? Photo by [SparkyLeigh](http://www.flickr.com/photos/sparkyleigh/), Creative Commons licensed.***
 
