@@ -6,7 +6,7 @@ publication: "TheTyee.ca"
 description: "A historic opportunity to protect British Columbia old growth forest through new partnerships between First Nations, environmental organizations, and government."
 ---
 
-![Clayoquot Sound, British Columbia](images/ClayoquotBirdsEye.jpg)
+![Clayoquot Sound, British Columbia](images/ClayoquotSound.jpg)
 
 Twenty years after hosting one of Canada's largest civil rights protests against old growth logging, Clayoquot Sound faces a critical moment. The 1993 summer demonstrations drew over 12,000 participants and resulted in more than 800 arrests, yet the ancient forests remain unlogged but legally unprotected.
 
