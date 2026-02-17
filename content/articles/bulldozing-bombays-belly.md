@@ -1,43 +1,50 @@
 ---
-title: "Bulldozing Bombay's Belly"
+title: "Bulldozing Bombay’s Belly"
 date: "2006-10-22"
 categories: ["Mumbai"]
 publication: "Frontline"
-description: "Exposé on Mumbai's municipal demolition campaign targeting street vendors."
+description: "It’s a Rs 1,600 crore street economy that employs 200,000 people. Why is the municipality bent on uprooting Mumbai’s hawkers?"
 ---
 
-## The Campaign
+*It’s a Rs 1,600 crore street economy that employs 200,000 people. Why is the municipality bent on uprooting Mumbai’s hawkers?*
 
-The city's bustling street economy, valued at Rs 1,600 crore and employing 200,000 people, faces systematic destruction as deputy municipal commissioner Chandrakant Rokde implements a decades-old court order banning hawkers from main streets.
+DIONNE BUNSHA
 
-The 1985 Supreme Court ruling prohibits handcarts, tables, vending after 10 p.m., and street food preparation. This threatens Mumbai's iconic vendors selling pau bhaji, bhel puri, vada pau, and chai—symbols of the city's entrepreneurial spirit.
+The buzz on Bombay’s streets is being silenced by bulldozers. As the machines continue to relentlessly tear down the livelihoods of Mumbai’s hawkers, a raging battle is underway between the thousands thrown off the streets and Mumbai’s demolition man- Chandrakant Rokde, deputy municipal commissioner. A man with a mission, Mr Rokde is adamant on implementing a 16-year-old Supreme court (SC) order at any cost. 
 
-Within two months, Rokde removed 5,000 vendors, targeting 20,000 hawkers from 60 major roads. He argues congestion near railway stations and bus diversions justify the crackdown. However, this represents merely 10 percent of the city's hawker population.
+If followed to the letter, the 1985 SC order could drastically change the character of a city that never sleeps, that thrives on enterprise. In many ways, Mumbai’s hawkers symbolise the city’s spirit of ingenuity and drive. The court order bans hawking in the city’s main streets, where business bustles. It does not allow hawkers to have handcarts or tables. Vending after 10 p.m. is not permitted. Nor is cooking or preparing food on the street. It would mark the end of Mumbai’s trademark junk foods – pau bhaji, bhel puri, vada pau – if Rokde had his way. Not to be forgotten are the chaiwallahs that serve tea to thousands of workers as well as offices everyday.
 
-## Individual Impact
+[![](images/mumbai hawkers 1.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/mumbai%20hawkers%201.jpg)
+In the past two months, Mr Rokde has pushed more than 5,000 vendors off the streets. Once he is through, he estimates that 20,000 hawkers will be removed from the city’s busy streets — around 10 per cent of the city’s hawkers. “We are only clearing around 60 of the city’s main roads, particularly near railway stations so that Mumbai’s 70 lakh train commuters can approach the station. Certain streets are so congested with hawkers that public buses have had to divert their routes,” says Mr Rokde. 
 
-Radhika Dhoiphode, a vegetable seller earning Rs 3,000 monthly, faced two-month work bans. Proposed relocation to a five-story Hawking Plaza required Rs 100,000 per stall—impossible for subsistence earners.
+In the process of clearing the streets, he is destroying a section of the economy that employs more than 2 lakh people and has an annual turnover of Rs 1,590 crore. If legalised and regulated, it could provide the deficit-strapped municipal corporation with revenue worth Rs 146 crore every year. Yet, the corporation wants to marginalise them further. Justifying the demolition drive, Mr Rokde says, “We are not taking action against the small hawkers. Only those occupying prime spaces and those who have encroached on public space, running businesses with large turnovers will be removed.”
 
-Bhagita Krishna Gaikwad described brutal raids: "We were all rounded up and put in jail for two days." Municipal security confiscated goods without explaining retrieval procedures. Hawkers face Rs 1,200 fines reclaiming merchandise.
+But Radhika Dhoiphode, who used to sell vegetables at Dadar, could hardly be called a big businesswoman. She earned Rs 3,000 a month. “Even that was not enough to run a house of eight people. For the past two months, they have not allowed us to do business. How will we survive? I am the sole earner in the family,” she says. 
 
-Limju paani vendor Rafiq Mohammed Attar questioned the contradiction: "A government that cannot provide jobs has no right to take away our livelihood."
+The municipal authorities want to shift Dadar’s vendors into a five-storeyed Hawkers Plaza. “We don’t mind shifting to an open market close to the main Dadar station. But if they send us into a building, our business will collapse. Bombay’s commuters don’t have the time to climb five floors to buy a few vegetables,” says Radhika. “Besides, they want us to pay Rs one lakh per stall in the hawking plaza. I don’t have that kind of money. If I did, I wouldn’t be selling on the street,” she adds.
+[![](images/mumbai hawkers 2.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/mumbai%20hawkers%202.jpg)
+But Mr Rokde says Dadar’s hawkers are ‘lucky’. “The municipal corporation has constructed a hawkers plaza for them. Why should illegal people be rehabilitated at the cost of taxpayers?” he asserts. “The other hawkers will have to go to the 131 streets of Mumbai’s 1,000-odd roads that the SC has marked as ‘hawking zones’. We cannot allow these illegal activities to continue or they will convert the roads into slums,” says the adamant Mr Rokde. He admits that these 131 roads would accommodate only around 20,000-40,000 hawkers, leaving no room for the remaining 1.60 lakh. At the roads allocated as ‘hawking zones’, there has been stiff opposition to the hawkers by local residents and shopkeepers associations, all of whom patronise hawkers, but don’t want them in their backyard. 
 
-## Legal and Economic Context
+When asked how the hawkers are supposed to earn a living in the absence of any relocation plan, Mr Rokde replies, “That is not my business. If they have a problem, they should approach the court. They should go back to where they have come from. Why do they come here? There is strong opposition to them from residents and traders. We cannot go against the wishes of the court or the city’s residents.” He forgets that Mumbai’s hawkers are its residents too. This autocratic attitude has prompted the city’s hawkers to nickname him “Mumbai’s Hitler”.
 
-The same 1985 judgment acknowledged hawkers' rights serving public interest. A 1989 Supreme Court decision upheld street vending as a fundamental right under Article 19(1)(g).
+The municipal demolition squad has been brutal during its raids. Bhagita Krishna Gaikwad, a vegetable vendor at Dadar, was put in the lock up for two days. “We were all rounded up and put in jail for two days. They cursed and beat one old woman,” she says, describing the raids two months back. The municipal corporation has hired private security to patrol the streets and ensure the hawkers do not return. “Even now, when we try to go back to the street, the private security guards grab our goods and don’t even tell us where to claim them from. We don’t have the time or resources to keep running between the municipal office and police station to pay them off. I need to keep earning everyday to stay alive,” says Bhagita. 
 
-Historically, Mumbai licensed 14,000 hawkers in 1950. The 1988 'pauti' system collected Rs 146 crore annually through daily cleaning charges before termination in 1998. Municipal authorities now claim those funds converted to bribes.
+Dadar hawkers claim that the police entered a hawker’s house at night and took his goods. Hawkers have to pay a fine of Rs 1,200 to reclaim their goods. On Divali day, two children who were walking around, selling firecrackers, were arrested, says Bombay Hawkers Union leader Suresh Kapile.
 
-The Bombay Hawkers Union estimates 3 lakh street vendors citywide. A 1997 Tata Institute survey documented 1.02 lakh hawkers. Approximately 20 percent were retrenched mill workers forced into the informal sector, comprising 65 percent of Mumbai's workforce.
+“Ask the municipal authorities to step in our shoes for one day and they will know what it is like to stand in the street all day, to keep running away from the police, to rebuild everytime they break our stalls. They are comfortable with their steady jobs and air-conditioned offices,” says Rafiq Mohammed Attar, who has been selling limbu paani (lime juice) in suburban Andheri for the past 20 years, ever since he was 12 years. “A government that cannot provide jobs to its people has no right to take away our only source of livelihood. The police say we are illegal. Are they giving us the right to steal then? What kind of justice is this?” he asks.
 
-## Selective Enforcement
+In fact, the 1985 SC judgement cited by Mr Rokde also states that hawkers have a right to do their business in the interest of the general public, subject to reasonable restrictions, says union leader Suresh Kapile. Another 1989 SC judgement also upheld the hawkers’ right to earn a livelihood as a fundamental right under Article 19 (1)(g) of the constitution which concerns the Right to Trade. 
 
-Critics note the corporation ignores illegal encroachments by Mumbai's elite—buildings, shops, and restaurants in affluent neighborhoods. Ironically, several demanding hawker removals began as street vendors themselves.
+Despite that, hawkers are illegal in Mumbai. They weren’t considered so during the British Raj, and in fact, Mumbai had 14,000 licenced hawkers in 1950. After that, the municipal authorities decided to stop issuing licences. In 1988, it introduced the ‘pauti’ system, whereby hawkers paid the municipality daily cleaning charges (Rs 5-15, later increased to Rs 30-100) in return for a receipt called ‘pauti’. This gave their trade a semblance of legitimacy. However, this system was stopped in 1998 following a high court order. The municipal corporation earned Rs 30 to 40 lakh per day, or Rs 146 crore annually, through the pauti system, says Mr Rokde. That money is now being given as bribes to municipal and police officials. When asked about the regular hafta (bribe) collections by the municipal authorities due to which ‘illegal’ hawkers have been allowed to flourish, Mr Rokde says, “The first offence is with the bribe giver. Anyway, we don’t want their hafta anymore. We want them to go away.”
 
-The central government's 2001 directive requested halting vendor removal until finalizing national policy, which the municipality ignored, prioritizing court compliance over alternative solutions.
+The people he wants to get rid of comprise around 1.6 per cent of Mumbai’s 12 million population. A survey by the Tata Institute of Social Sciences and YUVA in 1997, conducted when the plan to allocate hawking zones was first floated, found that there were 1.02 lakh hawkers in Mumbai. However, those on government and railway land were excluded from the survey. The vendor population is estimated to be over two lakhs. In addition, some hawkers hire workers to help with cooking or serving. Most of them lead a basic subsistence – working, living and sleeping on the streets. Including them, the Bombay Hawkers Union claims the city has three lakh street vendors.
 
-## Quote
+In Mumbai, around 20 per cent of hawkers are retrenched workers from mills or other industries, says Dr Sharit Bhowmick, head of Bombay University’s sociology department. They have been forced into the city’s unorganised sector, which comprises 65 per cent of the workforce. Hawkers serve a large section of Mumbai’s population – selling everything from food to books and clothes. “Where else can I grab a bite on my way back home? It’s so cheap and convenient. They are not blocking the roads, the street is bare without them,” says an office secretary in south Mumbai’s commercial area.
 
-"We are not taking action against the small hawkers. Only those occupying prime spaces and those who have encroached on public space, running businesses with large turnovers will be removed."
+In an effort to organise the street vending business, the central government set up a Task Force on Street Vendors/Hawkers. The central government wrote to the Maharashtra government on 18th October, 2001, asking it to direct all enforcement authorities to stop the removal of hawkers until a national policy on street vendors is finalised. However, Mr Rokde feels that it is more important to uphold the SC judgement or else the municipal authority can be hauled up for contempt of court. But Mr Kapile retorts, “The municipal corporation chooses to implement the SC judgement selectively. If they want to create hawking zones, they should regularise hawking and provide alternative pitches to people before coming at them with bulldozers.”
 
-— Chandrakant Rokde
+While the municipal corporation has chosen the softest target, they have spared the illegal encroachments by Mumbai’s elite and politically powerful. These include buildings, shops and restaurants in the city’s most elite neighbourhoods. Some of the biggest shop owners in Dadar, who are demanding the hawkers be removed, have encroached on the streets. Ironically, a few of them started out as hawkers, selling saris on the street. They are just a few of Mumbai’s many rags to riches stories.
+
+As the demolition squad tries to destroy this spirit of enterprise, and dampen Mumbai’s relentless energy, it is also crushing opportunity and hitting the city’s self-employed straight in the stomach.
+
+*Frontline* Jan. 19 – Feb. 1, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1902/19020940.htm)****

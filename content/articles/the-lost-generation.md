@@ -1,48 +1,62 @@
 ---
-title: "The Lost Generation"
+title: "The lost generation"
 date: "2006-10-22"
 categories: ["Human Rights"]
 publication: "Frontline"
-description: "Documentation of severe malnutrition and preventable child deaths among tribal populations in Maharashtra."
+description: "Nine out of 100 tribal children die of hunger in Maharashtra. Though Adivasis live in the most resource-rich areas, they are India’s most deprived people."
 ---
 
-## The Crisis
+*Nine out of 100 tribal children die of hunger in Maharashtra. Though Adivasis live in the most resource-rich areas, they are India’s most deprived people.*
 
-Nine out of 100 tribal children die of hunger in Maharashtra. Though Adivasis live in the most resource-rich areas, they are India's most deprived people.
+DIONNE BUNSHA 
+*in Nandurbar district, Maharashtra *
 
-The piece documents severe malnutrition and preventable child deaths among tribal populations in Nandurbar district, Maharashtra. Eight-month-old Gomi's case illustrates the crisis—undernourished and constantly ill, she died five days after the journalist's visit.
+Eight-month-old Gomi was at the age when she could crawl. But when we met Gomi and her mother Jatribai Bila Padvi in Kua village, Nandurbar district, she could barely raise her hand. Extremely weak and undernourished, she had been falling ill constantly. “She always has fever or diarrhoea. It’s difficult to keep taking her to the hospital. It’s too far (11 km) and the doctor’s medicines don’t seem to work,” said Jatribai. Besides, Jatribai also had two other children to look after and had to work everyday unloading sand from trucks while her husband had gone in search of work to Gujarat. The local anganwadi (child care centre), which is supposed to provide food to infants everyday, has also failed to deliver the goods. “They don’t give the children anything. What’s the point of taking them there?” she asked. Five days after we met Jatribai, her daughter passed away.
 
-## Key Findings
+“Every hour in Maharashtra, there is an avoidable death of one tribal infant,” says Dr Abhay Shukla, a researcher from the Centre for Enquiry in Health and Allied Themes (CEHAT). “There would be 9,717 less deaths of tribal infants every year if the infant mortality rate among tribal children in Maharashtra were to improve and become the same as that among children in the high standard of living index population.” More than half the families in Maharashtra don’t get enough to eat, says the NSSO 1997.
 
-Researcher Dr. Abhay Shukla notes that "every hour in Maharashtra, there is an avoidable death of one tribal infant." A state government survey found three of four infants in tribal Nandurbar were malnourished, with 57% of malnutrition-related deaths going unreported.
+A recent state government survey carried out this year by the Maharashtra State Tribal Research Institute highlights the alarming levels of hunger and deprivation in the state. It found that three out of four infants in the tribal Nandurbar district were malnourished. The survey also exposed the state’s failure to report 57 per cent of the malnutrition-related infant deaths in Nandurbar’s tribal hamlets. Its findings are confirmed by a two-year survey conducted by SEARCH which found that around 70 per cent of infant deaths in Maharashtra go unrecorded. The findings of these surveys expose the pathetic state of public health services. But, more importantly, they reveal the extent of poverty and deprivation that exists in what is considered one of India’s most developed and prosperous states.
 
-The mortality rate for children under five in tribal areas reaches 92.3 per 1,000—significantly higher than Maharashtra's 69.9 average.
+“The massive contrasts and the number of avoidable child deaths taking place in the tribal population are obvious,” says Dr Shukla. The state’s tribal areas, which have 9.25 of the state’s population, have alarmingly high infant mortality (death) rates. He points out that the mortality rate for children under 5 years in tribal areas is 92.3 in 1,000, much higher than the Maharashtra average of 69.9 (see table). That means nine in 100 tribal children die. 
 
-## Root Causes
+The high death rate in tribal areas reflects the lack of health services here. Health centres are far from the remote hamlets. Where they do exist, most primary health centres (PHCs) are not properly equipped either with medicines or trained personnel. For example, the remote Horaphali primary health centre in Nandurbar is located in the government doctor’s house. “There are no proper facilities for deliveries here. There is neither a bed nor delivery table nor sterilisation facilities,” says a local worker. Each village is supposed to have an auxillary nurse mid-wife (ANMs) to perform deliveries and dispense basic medication, but very few ANMs actually live in these remote areas. The posts of 4,000 multi-purpose health workers, who form the base of the public health system, are lying vacant, says Dr Shukla. 
+Photos: Dionne Bunsha[![](images/2002-05-25 malnutrition pic 2.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/2002-05-25%20malnutrition%20pic%202.jpg)At the Horaphali anganwadi in Nandurbar district. Records at many anganwadis, where the nutritional status of infants is supposed to be monitored, are far from complete
+Government health budgets, which declined with the implementation of structural adjustment programmes, are also a reason for the pathetic state of health services. “Health expenditure in Maharashtra fell from one per cent of state domestic product in the 1980s to 0.6 per cent in 1998-99. As a proportion to total government spending, it dropped from six per cent in the 1980s to 4.5 per cent in 1998-99. As a result, medical expenses for patients have tripled for inpatient care and increased by 50 per cent for outpatient care from 1986-87 to 1995-96,” says Ravi Duggal from CEHAT.
 
-### Health Services
+Getting to the PHCs is itself difficult, due to the rough terrain and the lack of transport here. Ronkabai Vasave’s two-year-old daughter died on March 30th, while they were on the way to the government hospital in Akalkua from their village Kua in Nandurbar. “She was very weak and had severe stomach ache and vomiting. We left at 7 a.m. and reached Khapar at 2 p.m. The people in the dispensary there told us to take her to the hospital. She died while on the way to the hospital,” says Ronkabai. Many of the sick have to be carried across extremely rocky and hilly terrain to the local health centres or hospitals. On the road, we came across two men who were carrying their sick brother across a 30-km distance to the nearest dispensary. They had left their village the evening before at 5 p.m. and still had many miles left to go when we met them the next morning.
 
-Primary health centers lack equipment, trained staff, and accessibility. Many locations are 11+ kilometers from settlements. Anganwadis (child care centers) fail to distribute food to eligible children consistently.
+Besides the health services, preventive childcare is also negligent, although the government infrastructure for anganwadis exists. Many mothers found no benefit from sending their children to the anganwadis because food was not distributed properly. “Around 35 per cent of children eligible for food under the Integrated Child Development Scheme are not receiving the food, according to government estimates. The actual percentage, especially in tribal areas, is likely to be higher,” says Dr Shukla. 
 
-### Economic Deprivation
+Records at the anganwadis, where the nutrition status of infants is supposed to be monitored, are far from complete. This is where the under-reporting on infant deaths and the extent of malnutrition begins. At Kua village, two-year-old Bharat Singh Ramsingh Padvi’s weight recorded in the anganwadi was 7.8 kg, and he was classified as Grade 2 (moderate) malnutrition. However, when we weighed him 10 days after his weight was recorded, he was 6 .2 kg, just short of being classified as grade 4 (severe) malnutrition. Under-reporting has concealed the severity of the situation here. The government survey found that 158 children had died in the 143 families surveyed, but only around half of the deaths were recorded.
 
-Forests have been depleted, leaving tribals unable to cultivate land or gather forest products. Eighty-six percent of surveyed families were food-deficient. Most migrate seasonally to Gujarat's sugar mills, working 14-18 hour days.
+The tale of child deaths and malnutrition is also one of abject poverty and exploitation in Maharashtra’s tribal districts. Forests, the main source of livelihood for adivasis, have been denuded. Most tribals are still considered encroachers in the jungle due to outdated forest laws. “Here in Nandurbar, our forest was wiped out by logging contractors around 40 years back. Forest guards watched as huge trees were hacked and burned. The Satpura hills are absolutely bare now,” says Ranshod Shera Tadvi from Ambabari village. “Yet, we are not allowed to cultivate anything even on this vacant land. Forest officials keep harassing us for bribes. In some places, they have planted trees where people used to grow crops.”
+[![](images/2002-05-25 malnutrition pic 3.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/2002-05-25%20malnutrition%20pic%203.jpg)
+Unemployment here is so severe that most families migrate for around six months to Gujarat’s sugar mills and construction sites. Essentially landless or small tenants, most families are food deficit here. Of the 143 families surveyed by the government, 86 per cent were food deficient, and 78 per cent didn’t have enough food for six months or more. Around one-fourth of the families surveyed were landless and 72 per cent were landless or had less than three acres. “The highly exploitative rent for tenanted land (50 per cent of produce) is an indication of the absence of employment opportunities,” says the government survey by the Maharashtra State Tribal Research Institute.
 
-### Infrastructure Failures
+Many of the landless who have been farming on degraded forest land are now demanding title to the land, citing a 1995 Supreme court judgement that gives tribals tilling denuded forest title to the land. “The government will only give us land if we are criminals,” jokes Ranshod Shera Tadvi, ridiculing the government rule that will only give land title to those who can produce receipts for fines paid to forest officials between the years 1972-76 as proof that they have been farming the land. “They will do anything to prevent us from getting the land,” says Ranshod.
 
-The Employment Guarantee Scheme exists only on paper. Schools rarely function. Health expenditure declined from 1% to 0.6% of state GDP between the 1980s and late 1990s.
+Even those who survive by gathering forest produce are find it harder to come by. “Since there’s hardly any forest left, it’s difficult to find as many tendu leaves as we once used to,” says Hatibai Kirti Padvi, who picks and sells tendu leaves, which are used to make beedis. Women also collect firewood to earn a daily wage. But the trek to find firewood is getting longer and tougher. “We climb more than 6 km uphill and back again to collect wood from the hills. Then, at 2.30 a.m. we leave for the market, carrying around 10-20 kg. We return at around 8 a.m., cook food and leave by around 10 a.m. for the jungle again,” says Mandu Sonilal Tadvi, explaining her daily routine. At the end of the day, she earns anything between Rs 15-30, depending on how much wood she has collected and how much the traders in the market have exploited her.
 
-## Statistics
+The government’s Employment Guarantee Scheme (EGS), meant to provide work on public infrastructure projects to the rural unemployed, provide no work here. “The EGS works exist only on paper. Either contractors don’t execute the work or they get the roads built by machine and manipulate the paperwork,” says local activist Sanjay Mahajan. The government survey in Nandurbar found that although sufficient EGS works exist in government records, they are neither close to tribal settlements nor do they provide work for long enough. “The fact that the EGS is not answering the needs of the tribals is evident from the fact that they continue to migrate to Gujarat to work under harsh conditions. They place themselves at the mercy of contractors, have to work from 14 to 18 hours a day, live in grass shelters, migrate away from their homes, in preference to accepting the employment offered by the government,” says the survey report.
 
-- 65% of tribal children in Maharashtra are undernourished
-- 83% of tribal children are anemic
-- 48.5% of women are anemic
-- 72% of families are landless or own fewer than three acres
+Not only are people in these remote deprived of access to the land and employment, they are also denied their right to basic education. Schools in these remote parts exist mainly on paper. “Look at the school here. The master visits only once a month. There isn’t even a roof,” Pesribai Padvi from Kua village.
 
-## Systemic Issues
+For most tribals, there seems no way out from this cycle of deprivation and exploitation, both in the forest and when they migrate. Yet, government officials use old prejudices to attribute their poor health to ‘tribal lifestyle’. “They are not educated, marry very young, have so many children and don’t bother with hygiene,” said a health worker here. Later, the true reason for her misconceptions was revealed. “We don’t understand their language. It’s difficult to understand what the patients are saying,” she said. As Pesribai Padvi puts it, “They blame us to cover up for their own failings. Many of the women losing their children are over 30 years. How can they say our children die because we marry young?”
 
-Health workers attribute poor outcomes to "tribal lifestyle," yet language barriers and prejudice obscure systemic failures. Land title disputes prevent tribals from cultivating degraded forest areas despite a 1995 Supreme Court judgment supporting their claims.
+It’s more than just prejudices that adivasis in these remote hamlets have to deal with. Systemic exploitation continues to work against them, not only depriving them what is rightfully theirs. But also snatching away the lives of their children. Until their rights are enforced, their lives and forests will continue to be wiped out.
 
-## Conclusion
+[![](images/2002-05-25 malnutrition pic 1.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/2002-05-25%20malnutrition%20pic%201.jpg)
 
-The article concludes that until rights are enforced, cycles of exploitation and preventable child deaths will persist in these remote communities.
+21.2 per cent of Maharashtra’s children have low weight for height.
+
+65 per cent of tribal children in Maharashtra are under-nourished.
+
+76 per cent of children in Maharashtra are anaemic. 
+
+Amongst tribal children, 83 per cent are anaemic.
+
+48.5 per cent of women in Maharashtra are anaemic.
+
+39.7 per cent of women in Maharashtra are underweight.
+
+*Frontline,* May 25 – June 07, 2002[ Also available here](http://www.hinduonnet.com/fline/fl1911/19110460.htm)****

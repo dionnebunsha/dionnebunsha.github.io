@@ -3,29 +3,37 @@ title: "Taking on The Lion of Gujarat"
 date: "2006-11-22"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
-description: "Documentation of Zakia Jafri's complaint against Chief Minister Narendra Modi and 62 others for involvement in 2002 Gujarat violence."
+description: "The wife of slain Member of Parliament Ahsan Jafri files a complaint against Narendra Modi and other top leaders for the pogrom of 2002."
 ---
 
-## The Legal Action
+The wife of slain Member of Parliament Ahsan Jafri files a complaint against Narendra Modi and other top leaders for the pogrom of 2002. 
 
-Zakia Jafri, widow of slain Member of Parliament Ahsan Jafri, filed a complaint against Chief Minister Narendra Modi and 62 others for their alleged involvement in the 2002 Gujarat communal violence. The complaint named VHP leaders, government ministers, MLAs, and police officials.
+DIONNE BUNSHA 
 
-## The Context
+Narendra Modi calls himself the lion of Gujarat. He is best known for the gory communal pogrom of 2002. That was how Gujarat’s Chief Minister was widely seen as having got himself elected to office. By manipulating the Godhra tragedy to stir up communal tension and allowing the mobs to wreak havoc. The outcome – more than 1,000 people dead officially, more than 150,000 homeless and a huge majority in the elections that followed later that year. 
 
-Over four years after the 2002 pogrom that killed more than 1,000 people and displaced 150,000, Jafri took legal action. Her husband was murdered during the attack on Gulbarg Society in Ahmedabad, where approximately 50 others died and women were assaulted.
+Although his collusion in the carnage is common knowledge, why has he not been punished for it? Simple. No one dared file a case against him until now. 
+After more than four years, one of the victims, Zakia Jafri, has taken the bold step of registering a case against Modi and 62 others – for their complicity in the pogrom. Zakia Jafri is the elderly widow of former Member of Parliament Ahsan Jafri who was killed in his home at Gulbarg Society, Ahmedabad. It was one of the most brutal attacks in which around 50 others were killed and several women raped and mauled. Among the others mentioned in the complaint are top Vishwa Hindu Parishad (VHP) leaders (Praveen Togadia, Jaideep Patel and Keka Shastri), 11 Ministers, five Members of the Legislative Assembly (MLAs), and senior police officials and bureaucrats. The first information report (FIR) was sent by registered post on July 8 to the Sector 21 (Vidhan Sabha) police station.
 
-## The Charges
+[![](images/zakia+jafri.JPG)](http://bp3.blogger.com/_gMPVUAVwmpI/Rd7kDuNpNbI/AAAAAAAAAAY/4rfwjH-47rY/s1600-h/zakia+jafri.JPG)**Zakia Jafri, wife of late MP Ahsan Jafri who was murdered in the 2002 communal carnage**
+Zakia Jafri has accused the 63 named in the FIR of aiding and abetting the mass carnage and subverting the Constitution for the past four years. “A mass carnage was orchestrated by the most powerful in the State executive using pressure and connivance of the State administration and law and order machinery,” Jafri said in the FIR. “There has been continued and consistent attempts to further this unlawful and unconstitutional worldview and mandate by using state terror and pressure to intimidate victim survivors, marginalise (socially and economically) the community they hail from, destroy and/or manipulate evidence to influence the course of justice.” The FIR asks for action under Section 302 of the Indian Penal Code (criminal conspiracy) and other sections of laws dealing with human rights. 
 
-The FIR accused the defendants of "aiding and abetting the mass carnage" and claimed "a mass carnage was orchestrated by the most powerful in the State executive."
+Why has Jafri chosen to file the FIR after so many years? “Over the last few years, many police officials submitted affidavits to the Shah-Nanavati Commission (which is inquiring into the violence) that provide sufficient proof that the violence was planned and the police were ordered deliberately to neglect their duty,” says Tanvir Jafri, Zakia’s son. “The government should have used these testimonies in court as proof and filed cases. But since it has not, we have decide to take legal action. There is no doubt of police neglect in almost all the attacks. For instance, why didn’t they save my father when they knew he was in danger 10 hours before he was murdered?” 
 
-## Key Testimony
+“We can’t wait for the judicial commission report. These commissions go on endlessly and have become a convenient escape route for governments to avoid taking action,” said Jafri. Judicial commissions have only the power to recommend that the government take action. They cannot order any legal action. There were eight commissions appointed to probe the causes of the 1984 anti-Sikh riots in Delhi. The final report was released 20 years later, which recommended action against several Congress leaders, including Kamal Nath, H.K.L. Bhagat, Jagdish Tytler and Sajjan Kumar. H.K.L. Bhagat is now dead. The others have not been arrested. The Justice Srikrishna Commission report on the Mumbai riots of 1992-93 indicted several Shiv Sena leaders, but no action has been taken against them. 
 
-Additional Director-General of Police R.B. Sreekumar provided damning testimony, alleging Modi instructed police to "let the mobs vent their anger." Sreekumar documented illegal police instructions and stated that officers preventing violence faced punishment while those permitting it received rewards.
+Jafri’s FIR points out how the initial terms of reference of the Shah-Nanavati Commission did not include inquiring into the role of the Chief Minister and government officials. It was added in 2004 after the Congress-led United Progressive Alliance came to power at the Centre. Yet, several police and government officials have not responded to that aspect in their replies to the Commission. “The State of Gujarat has deliberately constricted the functioning of the Commission by instructing senior police officers not to file second affidavits,” the FIR says.
 
-## Why Direct Legal Action
+The most damning evidence was against Modi and his government is the affidavits filed by Additional Director-General of Police R.B. Sreekumar, the only officer to testify about government and police connivance in the crimes. Sreekumar testified about how Gujarat’s Director-General of Police K. Chakravarty told him of the meeting at the Chief Minister’s office on the day of the Godhra incident. There, according to Sreekumar, Modi instructed Gujarat’s top police officials to let the mobs vent their anger. Despite warnings that it would create trouble, Modi insisted that the VHP should be allowed to bring the bodies of the Godhra victims to Ahmedabad for a procession through the city’s streets. 
 
-Jafri's son, Tanvir, explained the family pursued direct legal action because judicial commissions had become ineffective. He questioned why police failed to protect his father despite ten hours' advance warning.
+Sreekumar also alleged that FIRs were not properly recorded, evidence was suppressed and minority community victims were harassed in police stations across the State. He submitted before the Commission a personal register in which he recorded all the illegal instructions given to the police to prove that “the CM and officials were part of a deliberate design to disturb internal security for the obvious objective of gaining political caption and electoral benefit to the CM and the ruling party”. He gave evidence of how police officers who prevented violence from taking place were punished and those who allowed it to continue were rewarded. Sreekumar has been harassed for telling the truth. The Gujarat government issued a charge-sheet against him for violating service rules. 
 
-## Broader Context
+Several other police officers’ testimonies also provide evidence of deliberate state neglect. The then Superintendent of Police in Bhavnagar, Rahul Sharma, was under pressure for having arrested Sangh Parivar activists involved in the violence. The testimony of K. Mysorewala from Naroda police station is evidence of police neglect in preventing one of the most brutal communal attacks in the country, in which 83 people were massacred and many women raped and assaulted. 
 
-The article noted similar judicial commissions investigating 1984 anti-Sikh riots and 1992-93 Mumbai riots had produced minimal prosecutions decades later.
+Although there is sufficient proof of police neglect, the Gujarat government has not taken action against a single policeman. Only in the Randhikpur mass killing case, the Central Bureau of Investigation (CBI) arrested policemen for concealing evidence and conspiring with the accused. “If you see the state of justice in Gujarat, there is no hope for us. All the public prosecutors are VHP supporters and are conspiring to protect the accused. Our only hope is the Supreme Court,” said Tanvir Jafri. 
+
+There is a big risk to the lives of the Jafri family. They are the only people in Gujarat who have dared to prosecute the most powerful. Anyone who has dared to speak out has been harassed. Why is an elderly woman taking such a great risk? “We know that anything can happen to us any time. The same hostile mindset in Gujarat still exists. But we have no other option. It’s better than not doing anything,” said Tanvir. “We have already lost. Now we can only gain by trying to get justice,” he added. 
+
+It takes guts to take on a lion. 
+
+Frontline, Jul. 15 – 28, 2006 [ Also available here](http://www.frontline.in/stories/20060728002803400.htm)****

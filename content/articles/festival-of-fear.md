@@ -2,53 +2,48 @@
 title: "Festival of Fear"
 date: "2006-11-22"
 categories: ["Gujarat Violence"]
-description: "Examination of the Shabari Kumbh Mela as part of campaign to intimidate Christian Adivasis and appropriate tribal lands."
+publication: "Frontline"
+description: "After all the hype and anti-Christian propaganda, the Shabari Kumbh Mela may have been a damp squib, with more outsiders ferried here for a day-out while fearful locals stayed home.  But is this th..."
 ---
 
-## Opening Scene
+*After all the hype and anti-Christian propaganda, the Shabari Kumbh Mela may have been a damp squib, with more outsiders ferried here for a day-out while fearful locals stayed home.  But is this the start of a larger hate campaign?*
 
-Outside Jarsol village, celebrations unfold while residents remain fearful indoors. Jiva Powar, an Adivasi Christian, watches pilgrims from his home surrounded by paramilitary troops, deeply uneasy about the festival's implications.
+Dionne Bunsha
+*In Dang, Gujarat*
 
-## Threats and Displacement
+Just outside Jarsol village there’s a celebration. Inside, there’s an eerie silence. Jiva Powar (name changed) keeps a watch over the crowd of pilgrims outside his house. Paramilitary troops sit next to him. Yet he is uneasy. 
 
-Sangh activists warned Christians that the Kumbh would involve forced purification rituals and conversion to Hinduism. Many families fled villages preemptively. The Shabari Kumbh Trust forcibly seized Jiva's land on the Pampa Sarovar, constructing stalls and shelters without permission. He fears the government will ultimately declare the land trust property.
+In the build-up to the Vishwa Hindu Parishad’s newly created Shabari Kumbh Mela, Adivasi Christians like Jiva have been threatened. That’s why many have fled.  “Sangh activists came to people’s houses and warned them that during the Kumbh we will make you bathe, purify you and make you Hindu,” says Jiva. “One family has left the village till the Kumbh ends. Another farmer has sent his wife and children to her parent’s home.” 
 
-In Mukkamal village, Manad Powar sold one acre to the trust but they seized his entire 3.5-acre farm to build the Shabari temple.
+Jiva is also guarding his land on the ‘Pampa Sarovar’ (a small pond which the Sangh claims is the place where Shabari’s guru sat), where pilgrims bathe. The Shabari Kumbh trust has forcibly taken it over and put up stalls and shelters there. “They are trying to take away all our rights. Without asking, they’ve set up all this on my land. Initially, they wanted to build a garden, but I argued with the officials who came to survey the land. Soon the trust will start claiming that the land is theirs and the government will let them take it,” he says. 
 
-## Religious and Political Context
+Jiva isn’t the only person whose land has been taken. In Mukkamal village, Manad Powar (name changed) sold one acre of his 3.5 acre farm land to the Shabari trust, but they grabbed the entire plot to build the Shabari temple (see: Creating A Kumbh, Frontline, 10 Feb 2006). 
 
-The VHP created this fifth Kumbh Mela based on sant Morari Bapu's claims that the location was where the tribal saint Shabari fed Lord Ram berries. Using an Adivasi figure to promote Brahmanical Hinduism makes the concept accessible to tribals whose traditions center on nature worship. One Dang Raja reportedly reconverted from Christianity to Hinduism.
+The Shabari Kumbh Mela wasn’t just an innocuous religious festival. It’s been organised to create a new religious tourism site and to intimidate Christians. 
 
-## Anti-Christian Propaganda
+[](http://photos1.blogger.com/blogger2/480/4442/1600/2006-02-25%20dang%20kumbh%20pic%201.jpg)**The new Shabari Dham temple built on Manad Powar’s land.**
+Traditionally, there are four Kumbh melas. But the VHP started a fifth one in Subir and Jarsol villages in Dang, based purely on the wish of the famous sant Morari Bapu. He came here in 2002 and said that a Kumbh should be organised because this was the place where the adivasi Shabari fed Lord Ram berries while he was in the forest looking for Sita. The Sangh’s use of Shabari, an adivasi, makes it easier for tribals to identify with Brahmanical Hinduism. The traditional Adivasi religion is based on nature worship. The VHP hopes the Kumbh will lead to a “Hindu awakening” and “re-convert” Christian adivasis. “Even one of the five Dang Rajas who had become Christian has returned to Hinduism,” boasted a Sangh activist. 
 
-The official website contains extensive hostile rhetoric, stating that the Christian Church targets India through conversion and that "Christian activism" made it unsafe for Hindus to venture outdoors after dark.
+The Shabari Kumbh website is has strong anti-Christian propaganda: “For long, Bharat has been a special target of the Christian Church worldwide. To the Church, the Hindus represent the greatest stumbling block in their grand design to establish Christ’s kingdom on earth. The poor, illiterate, mild Vanvasi Hindu is an obvious target in this nefarious scheme. For years, under the garb of social service, the Church has been spreading its tentacles in far-flung, tribal regions of our country. These converted Vanvasis become alienated from their customs and traditions. They get uprooted from their cultural milieu. Conversion to Christianity is invariably associated with separatism and terrorism as is evident in North-East Bharat…The process of self-alienation and separatism, which inevitably accompanies conversion, had become visible in Dang. Makeshift, illegal churches had mushroomed in cowsheds and residential areas. These churches were unregistered and illegal. Such was the terrorism of Christian activists that it had become unsafe for Hindus to move out of their houses after dusk.” 
 
-## Ground Reality
+The ground reality is very different from the picture painted by the Shabari Kumbh website. There aren’t any involuntary conversions. Rather, Adivasi Christians are scared to move freely in the atmosphere created during the Kumbh. 
 
-No involuntary conversions occur; instead, Christian Adivasis restrict their movement due to the hostile atmosphere created during the festival. On the final day, reports emerged of a mob destroying tombs in a Christian cemetery in Ghumadia village, though the district collector dismissed these accounts as rumors.
+On the last day of the mela, there were reports that a mob destroyed tombs a Christian cemetery in Ghumadia village. A complaint was filed with the police and the collector. But when contacted by Frontline, R.M. Jadhav, the district collector denied any knowledge of the incident and dismissed it as a rumour. 
 
-## Administrative Complicity
+Here, the district administration seems to be working for the Shabari Trust. Journalists at the festival were surprised to see top district officials including the collector and secretary in charge of the district holding a press conference under the banner of the Kumbh mela and hosted by the Shabari trust. In this deprived area, any development work was unheard of.  Suddenly, in a matter of a few months, 22 check dams and roads were constructed at break neck speed before the Kumbh. Government funds for development of tribal areas are being used to provide infrastructure for the mela. 
 
-District officials, including the collector and secretary, held a press conference under the Kumbh's banner, signaling state backing. Development funds designated for tribal areas funded festival infrastructure. Twenty-two check dams and roads were constructed rapidly before the event.
+Around six lakh pilgrims were expected to visit this forest district that has a total population of less than two lakh. The environmental damage caused prompted the Central ministry of environment and forest to conduct an investigation. A public interest case has been filed in the Supreme Court (SC) against the illegal non-forest activity inside a protected forest. Another petition against the Shabari Kumbh video CD has also been filed in the SC. The CD contains communally inflammatory remarks against Christians. (See: Creating A Kumbh, Frontline, 10 Feb 2006). 
 
-## Environmental and Legal Concerns
+Most pilgrims were from outside Dang district – from Surat, Ahmedabad, Madhya Pradesh, Uttar Pradesh, Maharashtra. They came by the busload, mobilised by the Sangh. “We have come for the ride,” said Tarachand Patidar, a farmer from Ujjain, M.P. and RSS activist. “The Sangh has organised this because people here have changed their religion. Those who switch their religion become enemies of the nation.” Locals were a bit apprehensive to speak. Most said that they were happy that so many people were visiting their village. “But we haven’t got any work during this mela. People from outside have been brought here to work,” said an adivasi from Subir. 
+[![](images/2006-02-25 dang kumbh pic 2.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/2006-02-25%20dang%20kumbh%20pic%202.jpg)**A sadhu with a pilgrim.**Photo: Ashima Narain
+During their speeches, leaders continued their tirade the Christians. Morari Bapu quoted from the Bible and said that Christ was against conversions. “Today, plane-loads from the Vatican can come here and convert people, but if we organise a ghar vaapsi (return home ceremony), it is bad? This programme is about peace and tolerance, which is part of Hinduism. No one shall be scared of this,” he said. 
 
-Anticipated six lakh pilgrims threatened a district of fewer than two lakh residents. Environmental damage prompted the Central Ministry of Environment and Forest to investigate. Public interest cases were filed in the Supreme Court against illegal activity in a protected forest and the Kumbh's inflammatory video CD.
+Chief minister Narendra Modi warned, “Mahatma Gandhi fought conversions. Our Constitution disapproves of them, and yet some people turn a blind eye. Let me warn everyone, it is my constitutional duty to prevent conversions.”‘ Explaining his vision to make the Shabari Kumbh a tourist destination, the chief minister said, “I see Shabari Kumbh as a Vikas Yatra (path to development). Every Indian should have a desire to visit this place during their lifetime. If that happens, poverty will be removed. And the local culture will flourish.” 
 
-## Outsider Participation
+But locals are not buying into his dream. They don’t want to meet the same fate as the refugees from Saputara, a village 65 km away that was converted into a hill station. “The government forced 40 families to leave. They jailed us and forced us to surrender our land documents as bail. They cheated and settled us in a village near the Maharashtra border,” says Pandubhai Choudhari, a journalist and shop keeper from Saputara. “We were promised farm land but never given any. These 40 families were settled on 10 acres of land. Our village stretched across 300 acres. Today, people are still roaming as casual labourers searching for work or washing dishes in hotels there.” 
 
-Most pilgrims came from Surat, Ahmedabad, Madhya Pradesh, Uttar Pradesh, and Maharashtra via Sangh-organized buses. A farmer from Ujjain stated they came "for the ride," attributing the event to religious switching making residents "enemies of the nation." Local Adivasis reported no employment opportunities; outside workers filled positions.
+Adivasis in the villages surrounding the site of the Kumbh mela know that the end of the festival doesn’t mean they can breathe easy. “The organisers have paid villagers Rs 300 and taken their thumb impressions on a blank piece of paper. Who knows what they will do with that paper? The government will let them do anything,” said Jiva. “Will they take away our land like they did in Saputara?”
 
-## Political Rhetoric
+The Shabari Kumbh Mela is just the start of the Sangh’s work in Dang. Hill stations, intimidation…Locals fear there’s much more to follow.
 
-Morari Bapu cited scripture opposing conversions, while Chief Minister Narendra Modi warned that preventing conversions was his constitutional duty. Modi framed the Kumbh as a development path that would eliminate poverty and preserve local culture.
-
-## Long-term Concerns
-
-Locals fear the festival represents the beginning of larger changes. In Saputara, a village converted into a hill station, government forced 40 families to surrender land through imprisonment and coerced document surrender as bail. Those families received 10 acres instead of promised farmland from their original 300-acre village, subsequently working as casual laborers.
-
-The Shabari Kumbh Trust obtained thumbprints from villagers on blank papers—a practice that troubled residents who questioned potential misuse with government connivance.
-
-## Conclusion
-
-Bunsha identifies the Kumbh as the opening phase of the Sangh's broader Dang expansion, warning that intimidation and development projects will likely follow the festival's conclusion.
+*Frontline,* Feb. 25 – Mar. 10, 2006 [ Also available here](http://www.hinduonnet.com/fline/fl2304/stories/20060310002803900.htm)****

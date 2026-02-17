@@ -1,0 +1,39 @@
+---
+title: "Their only voice is their vote"
+date: "2006-11-17"
+categories: ["Gujarat Violence"]
+publication: "Frontline"
+description: "The Muslims may have been broken and silenced. But they still have the most powerful democratic weapon—the vote. And they are determined to wield it."
+---
+
+*The Muslims may have been broken and silenced. But they still have the most powerful democratic weapon—the vote. And they are determined to wield it.*
+
+DIONNE BUNSHA 
+ 
+“*Musalmano ko kaat dalo, maar dalo *(Cut the Muslims, kill them).” That’s the friendly welcome Madina Maleik received when she returned to her village Pavagad a few months back. Madina immediately fled back to her relative’s home at Halol town in Panchmahal district. 
+
+“When we went back, we had sleepless nights. They shouted slogans against us,” says Madina. Pavagad is a historic religious site, which attracts several pilgrims and tourists. Most shops here were owned by Muslims. The violence was used to drive them out and taking over their shops. “They razed all our shops, captured the land and set up their own business there. Muslims who drive taxis are not allowed to enter the village. No one in the village is allowed to talk to us,” says Madina, explaining the boycott against Muslims in her village.
+
+They dare not go back to their homes. They can’t dream of re-starting their shops. They don’t know where they will live. Or where their next meal will come from. But there’s one thing they are sure of – they will definitely vote in the elections. “The police has promised to escort us to the booth. If they take us, we will go to vote,” says Madina. 
+
+The Election Commission’s efforts seem to have paid off. Muslims are determined to go out and vote. They comprise nine per cent of Gujarat’s population. A community that was persecuted during the communal violence now wants to make its voice heard. And, there are no prizes for guessing who they are determined to vote out. 
+
+“Even if the Congress puts up a crook, we will vote for him. And, even if the BJP nominates a God, we will chase him off,” says Rashid, a paan vendor from Maninagar, chief minister Narendra Modi’s constituency in Ahmedabad. “The BJP has sown so much poison and destroyed so many lives that even little kids feel the Hindu-Muslim divide,” he adds.
+
+However, some voters in central Gujarat’s tribal belt, a traditional Congress stronghold, are wary of the party. But they seem to be left with no other choice. “The BJP started it all. But Congress leaders here did nothing to protect us. It makes no difference who we give our vote to. No one helps us,” Rafiq Gudala, a shopkeeper in Fatehgunj, Dahod district, whose house and shop were burned during the violence. Many Muslims are in a dilemma similar to Rafiq’s. Although unhappy with the Congress, it is their only choice. For instance, in Godhra, several Muslims don’t want to vote for the Congress candidate, sitting MLA Rajendrasinh Patel. Many of them allege that he participated in the riots. 
+
+Most refugees have returned to their homes. But some are still being hounded out wherever they go. Two were killed when violence broke out as recently as November 11th in Dasaj village in Mehsana district. Local Patels are determined to drive away the 100-odd families from other villages who have sought shelter here. While both communities blame the other for attacking first, the reason for the clash is clear. “We don’t want outside Muslims to settle here. Their majority keeps increasing. Around 184 new Muslim voters are now registered here,” says Hasmukh Patel, a local landowner. “In July, we held a Hindu Sammelan in the village, during which we decided to cut all ties with them. We took back the land that we had given them to till as sharecroppers. Maybe that’s why they decided to get back at us.”
+
+The Muslims, whose houses were burned, have a different story to tell. “They had been planning this for a long time,” says Sattarbhai Khatri, a refugee from Unjha village. “We were attacked at the end of a three-day festival organized for the installation of a temple in the village. Thousands of people had come from outside.” Sajid Khan, a long-time Dasaj resident, adds, “The local Rabadis (lower caste) had warned us that we would be attacked at 9 p.m.” Houses were burned during the attack, mainly in the basti where refugees had settled. “The refugees have been registered as voters here. But Muslims will only vote if the collector’s office organizes a separate booth for us. We cannot go into their basti. It’s too dangerous. Our children can’t even go to the secondary school, which is located there,” says Sajid.
+
+The EC found that around four crore voters had shifted after the communal riots. Of these voters, it is not yet clear that how many were displaced due to the riots and how many migrated for other reasons. Around 1.71 crore have already been traced at their new homes, while 2.29 crore are yet to be found. Those who have been traced, like the refugees in Dasaj, have been registered in their new neighbourhood. Even those living in relief camps are listed as voters in the location of the relief camp. 
+
+At the relief camp at Vadali in Sabarkantha district, refugees have been added to the rolls. “We have asked for a special booth here,” says camp organizer Amanullah Khan Pathan. The camp houses around 150 families who have been prevented from returning to their homes in Khed Brahma, Lakshmipura, Kariada, Derol and surrounding villages. “Its not safe for us to go back. Even those who returned to their homes keep running back to the camp whenever there is any rally or Gaurav Yatra. They don’t want us back. They even chased away a charitable trust that wanted to re-build our houses,” says Nooriben Mansoori from Lakshmipura. The fear that the smallest provocation could spark trouble exists both in the cities as well as the villages. However, the terror is far greater in rural areas. Most people involved in the riots still seem to have the upper hand and are keeping the fear alive.
+
+“Even now, certain Bajrang Dal members are holding meetings all over the district and making inflammatory speeches against Muslims. This could ignite trouble, especially when the atmosphere is so volatile,” says Mehboob Sheikh, a camp organizer in Halol. Those who have returned to their homes are so isolated that they cannot even buy rations. Going to vote is another story. “Until recently, we were still providing milk powder to the surrounding villages like Kariadra, where people still face a boycott. No one is willing to sell them groceries. They have to travel 15 km to buy their rations. In such a situation, of course, there is bound to be fear during the elections,” says Amanullah Pathan, organiser of the Vadali camp.
+
+Some involved in the riots have even been rewarded with tickets. The most prominent is Mayaben Kodnani, MLA from Naroda. Within her constituency falls Naroda Patiya, where the most ghastly massacres occurred in which 83 were murdered. Several victims named Kodnani in their police statements, but her name has not been mentioned in the FIRs. “Of course Mayaben was involved in the attack here. She is very powerful here,” says Basubhai Sayyed, a Naroda Patiya resident. “Mayaben never comes here or does anything for us. She only campaigns within her own community.” Another controversial BJP candidate is Jitu Vaghela, who was behind bars for more than a month for rioting in Gomtipur.
+
+The communal carnage has been a wake-up call for the Muslim community. This time, they are braving the threats to vote for their survival. They are determined not to waste a single vote. As Rashid from Maninagar puts it, “This time, we don’t care. Even if our houses are burning, we will go to cast our vote.”
+
+*Frontline,* December 7 – 20, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1925/stories/20021220007301300.htm)****

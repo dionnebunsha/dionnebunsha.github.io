@@ -1,25 +1,31 @@
 ---
 title: "What Clayoquot Sound Faces Now"
 date: "2013-10-17"
-categories: ["Environment", "Featured", "Human Rights", "First Nations"]
-publication: "TheTyee.ca"
-description: "A historic opportunity to protect British Columbia old growth forest through new partnerships between First Nations, environmental organizations, and government."
+categories: ["Environment", "Human Rights"]
+publication: "Frontline"
+description: "A historic opportunity to protect BC old growth forest, through new partnerships."
 ---
 
-![Clayoquot Sound, British Columbia](images/ClayoquotSound.jpg)
+**A historic opportunity to protect BC old growth forest, through new partnerships.**
 
-Twenty years after hosting one of Canada's largest civil rights protests against old growth logging, Clayoquot Sound faces a critical moment. The 1993 summer demonstrations drew over 12,000 participants and resulted in more than 800 arrests, yet the ancient forests remain unlogged but legally unprotected.
+By [Dionne Bunsha](http://thetyee.ca/Bios/Dionne_Bunsha/), 19 Aug 2013, TheTyee.ca
 
-Located on Vancouver Island's west coast, Clayoquot Sound retains "some of the last remaining rare intact watersheds and old growth temperate rainforests" in the region. The protests sparked significant forestry reforms, introducing ecosystem-based management approaches that prioritize ecological preservation alongside sustainable human use. These changes led to approximately 61 percent of Clayoquot's forested lands being designated as parks or reserves.
+It has been 20 years since Clayoquot witnessed one of the [biggest civil rights protests](http://thetyee.ca/Life/2013/08/10/BC-Woods-Roar-Back/) in Canada’s history against the logging of old growth forests. Clayoquot Sound, on the west coast of Vancouver Island, is one of British Columbia’s most popular tourist destinations, with white surf, long stretches of beaches and towering rainforests. In the summer of 1993, over 12,000 participated in the historic protests and more than 800 people were arrested. The protests were accompanied by an international campaign to boycott timber from B.C. Today, efforts to protect Clayoquot’s intact watersheds continue. The old growth forests haven’t yet been logged, but they are still not legally protected. Clayoquot Sound is considered important for conservation because it has some of the last remaining rare intact watersheds and old growth temperate rainforests in Vancouver Island.
 
-## The Landmark Shift
+The ‘Summer of 1993’ protests in Clayoquot prompted landmark changes in forestry, not only in Clayoquot Sound, but also influenced land use planning in other regions like the Great Bear Rainforest. In response to the protests, the government of B.C. appointed a scientific panel comprising scientists and First Nations elders to devise sustainable forestry practices. The panel introduced a new approach to land use planning called ecosystem-based management that recognizes the full array of interactions within an ecosystem, including humans, and allocates areas for protection as well as sustainable human use. It led to community-based watershed planning, which incorporated precautionary measures to protect the ecological and First Nations cultural values of Clayoquot’s forests. The watershed plans added a network of reserves, resulting in a total of about 61 per cent of Clayoquot’s forested land base in parks or reserves. As an alternative to clear cutting forests, the panel suggested variable retention, a system in which only a portion of the cut block is logged and the rest is retained in order to preserve environmental values.
 
-A landmark shift occurred when the major forestry operator sold its Tree Farm Licenses to five local First Nations—Tla-o-qui-aht, Ahousaht, Hesquiaht, Yuutuʔitʔath, and Toquaht—who established Iisaak Forest Resources Ltd. in 1999. "Iisaak" translates to "respect" in the Nuu-chah-nulth language. The company committed to avoiding intact watershed logging and pursuing Forest Stewardship Council certification, with environmental groups pledging support in exchange.
+![ClayoquotBirdsEye_600px.jpg](images/ClayoquotBirdsEye_600px.jpg)
 
-However, Iisaak struggles balancing ecological stewardship with financial obligations. The company carries substantial debt from acquiring the licenses and has faced pressure to generate returns. A 2011 proposal to log Flores Island—an intact watershed—prompted fierce opposition from environmentalists and some community members, forcing abandonment of those plans.
+***Will First Nations and the B.C. government find a way to protect their intact forests? Photo by [SparkyLeigh](http://www.flickr.com/photos/sparkyleigh/), Creative Commons licensed.***
 
-## Conservation Initiatives
+The major forestry company operating in Clayoquot sold its Tree Farm Licenses (forestry licenses) to the five First Nations in the area — the Tla-o-qui-aht, Ahousaht, Hesquiaht, Yuutuʔitʔath and Toquaht — who formed Iisaak Forest Resources Ltd., a pioneering First Nations-owned forestry company. “Iisaak” means respect in the Nuu-chah-nulth language, and the company has avoided logging in the intact forests so far despite severe monetary pressures. In 1999, Iisaak signed a Memorandum of Understanding with environmental organizations in which it agreed not to log in Clayoquot’s ecologically intact watersheds, and to adopt the international Forest Stewardship Council certification. In exchange, the environmental groups agreed to endorse Iisaak Forest Resources Ltd. as a model of ecologically sustainable forestry, assist in its development and help market its products.
 
-Currently, an alliance including Friends of Clayoquot Sound, ForestEthics Solutions, and Greenpeace negotiates "conservation finance" agreements with First Nations leadership. These initiatives aim to raise funds for debt repayment while establishing permanent watershed protection. Resource worker Saya Masso advocates for reformed forestry tenure law, proposing "conservation tenure" options that would reduce logging pressure and enable alternative revenue sources like carbon credits.
+**Big debt to chop down**
 
-The article concludes by questioning whether First Nations and the B.C. government can ultimately protect Clayoquot's remaining intact forests.
+However, it has been difficult for Iisaak to balance sustainable forestry and economic viability, a challenge that some of the world’s biggest forestry companies shied away from in this controversial region. The company has to service a debt that it incurred to buy the Tree Farm Licenses from the large forestry companies. Under pressure to show financial returns, Iisaak toyed with the idea of logging Flores Island in 2011, one of the intact watersheds. The plan prompted opposition from environmentalists and some First Nations members, and was not executed. “It would be tragic if the intact forests were cut just to pay off the banks, with no benefit to the communities,” said an environmental activist.
+
+An alliance of environmental organizations including the Friends of Clayoquot Sound, ForestEthics Solutions and Greenpeace have been working with Iisaak and the region’s First Nations leadership towards solutions to protect intact watersheds. Along with philanthropic organizations, they are trying to negotiate a “conservation finance” agreement with the First Nations that own Iisaak. The alliance is trying to raise money to pay off Iisaak’s debt and to fund sustainable economic projects in return for an agreement that the B.C. government and the region’s First Nations through Iisaak will protect Clayoquot’s remaining intact watersheds. To accompany this agreement, Saya Masso, a resource worker for the Tla-o-qui-aht First Nation, feels that the B.C. government needs to reform forestry tenure law to give Tree Farm License owners the option of having a “conservation tenure.” This would ease the pressure on tenure owners to log and pay high rents to the government and allow sustainable options like carbon credits.
+
+Several First Nations members have fought to preserve Clayoquot’s old growth forests. Some leaders were part of the summer of 1993 protests. Prior to the protests, First Nations led historic demonstrations against plans to log intact Meares Island and won a landmark Supreme Court case in 1985 that declared an injunction against logging there. Now, the fate of Clayoquot’s forests is in their hands. Will the First Nations and the B.C. government find a way to protect their intact forests?
+
+[The Tyee, 19 August 2013.](http://thetyee.ca/Opinion/2013/08/19/Clayoquot-Faces-Now/)

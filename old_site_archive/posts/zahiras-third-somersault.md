@@ -1,0 +1,37 @@
+---
+title: "Zahira’s third somersault"
+date: 2006-11-18
+slug: zahiras-third-somersault
+wp_id: 604
+---
+
+*For the second time Zahira Sheikh, prime witness of the Best Bakery case, has turned hostile. And this, after appealing for a retrial. What is going on here?*
+
+DIONNE BUNSHA 
+ 
+BEYOND a point, it is immaterial how much eye-witness Zahira Sheikh’s family was allegedly paid to keep silent during the re-trial of the Best Bakery case. The moot question is: how will their silence affect the outcome of the case? Now that five of the Sheikh family witnesses have turned hostile, will it be easier for the accused to get away? 
+[![](images/2005-01-01%20Zaheera%20-%20The%20price%20of%20silence%20photo%201.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/594781/2005-01-01%20Zaheera%20-%20The%20price%20of%20silence%20photo%201.jpg)**Zahira Sheikh comes out of the Special Court after deposing for the third day in Mumbai on December 23.**
+On the night of March 1, 2002, a mob attacked the Best Bakery building owned by the Sheikh family in Hanuman Tekdi, Vadodara. The assailants were armed with stones, swords, torches and sticks. The attack was part of the anti-Muslim pogrom that swept Gujarat after a mob allegedly set fire to a compartment of the Sabarmati Express carrying Hindu pilgrims at Godhra station, killing 59. 
+
+The mob outside the Best Bakery first burned an adjacent warehouse and then set fire to the bakery on the ground floor of the building. The Sheikh family, which owned the bakery, lived on the floor above, and on top of their home was a terrace. When the fire started, all the inhabitants of the building ran to the terrace – bakery workers, the Sheikh family members and their neighbours. The attack ended only the next morning when the police came to rescue the survivors. 
+
+Zahira Sheikh lodged the first information report in which she and her family members identified people from their locality in the mob. She lost her uncle and sister in the tragedy. Four children in her neighbour’s home also died in the fire. 
+Until a month before the trial, Zahira was one of the most strident fighters for justice. When she and her family went back on their police statement in the Vadodara court in May 2003, saying they saw nothing, it stirred a huge controversy. Soon after, the Vadodara Sessions court acquitted the 21 accused. Then, Zahira and her mother Sehrunissa came out of hiding saying that they had lied in court because they were threatened by Bharatiya Janata Party Member of the Legislative Assembly Madhu Shrivastav and his cousin Bhattoo Shrivastav, a municipal corporator belonging to the Congress. 
+
+The social activist Teesta Setalvad brought Zahira’s family to Mumbai and offered them help and protection in their quest for justice. They approached the National Commission for Human Rights, which appealed to the Supreme Court for a retrial of the case outside Gujarat. In an unprecedented move, the court ordered a retrial in Mumbai, which is now under way in the Mazgaon court. However, in the retrial too, the Sheikh family recanted on their statements in the Supreme Court. They said that it was too dark for them to see what happened. 
+
+While allegations of pay-offs are flying thick and fast, the crux of the issue is not the compromise deal but whether there will be any justice for the victims of the Best Bakery attack. Besides the five Sheikh family members (Zahira, Sehrunissa, Zahira’s older brother Nafitullah, her younger brother Nasibullah and her sister Sahira) who were eyewitnesses, there were also five other eyewitnesses – her sister-in-law Yasmin and bakery workers – who have identified several of the accused during the trial. All of the 21 accused have been identified by one or more than one of the witnesses. However, the fact that five of the main witnesses turned hostile is bound to weaken the evidence against the accused.  
+
+There are several glaring discrepancies between the statements given by the Sheikh family and that of other witnesses. The Sheikh family members said it was too dark to see anything. However, the other witnesses were able to identify most of the accused. The next morning, the other witnesses say, the mob allowed them and the Sheikh family to come down a narrow ladder and then tied the limbs of the men (including Nafitullah and Nasibullah), poured kerosene on them and set them on fire, and threatened to rape the women. However, Zahira, her sister and her mother say they were too shocked to remember anything, while her two brothers claim they were unconscious that night itself and do not know how they landed up in hospital. In the Mumbai court, Sahira even denied that her uncle Kauserali, who died during the attack, was present during the incident. 
+[![](images/2005-01-01%20Zaheera%20-%20The%20price%20of%20silence%20photo%202.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/511981/2005-01-01%20Zaheera%20-%20The%20price%20of%20silence%20photo%202.jpg)**Zahira’s brothers Nafitullah (left) and Nasibullah (right), prime eyewitnesses in the Best Bakery Case, arriving at the Mazgaon Sessions Court. **
+Nafitullah fell out with his wife Yasmin and married another woman. The family denies that Yasmin was present at Best Bakery at the time of the incident. Yasmin, however, had given her eyewitness testimony to the police a few months after the incident and also identified the accused in court. The police have also videotaped evidence from the scene of the crime, which proves that both Yasmin and Zahira’s grandmother were there. So far, the grandmother, who lives in Uttar Pradesh, has not been called to testify. 
+
+Questions about the payoffs to the Sheikh family remain. Who is funding these alleged deals? Is it the families of the neighbourhood goons who are accused in the case or are there powerful people behind it? What are their motives? Who are the lawyers who brought Zahira back to Vadodara to file a case against Teesta Setalvad? Who are they linked to? Atul Mistry, the lawyer now representing Zahira, is a junior of Rajendra Trivedi, who defended the Best Bakery accused in the Vadodara Sessions court. Jal Unwala, another lawyer who supported her at a recent press conference in Vadodara, is a junior of Gujarat High Court lawyer K.J. Sethna, whose elder brother, Justice B.J. Sethna, upheld the acquittal of the Best Bakery accused by the Sessions Court. 
+
+“The Best Bakery case is not the only one in which witnesses are asked to compromise. It tends to happen not only in most riot cases, but in most legal matters,” said an Ahmedabad-based lawyer. “It’s only because the Best Bakery case gets so much attention that suddenly this has become an issue. Our legal system is so slow and expensive that victims prefer to get on with their lives than bother with court cases.” 
+
+Behind the Sheikh family’s constant shifts between fact and fiction seems to be not only money but also a tussle between their quest for justice and the risk to their own lives if they spoke against those who have the upper hand. They have to keep quiet if they want to return home. And yes, money is needed to rebuild a life that has been burned to cinders. 
+
+The grand irony would be if, in this tangled mess of contradictions, the accused are freed, and the Sheikhs are jailed for perjury. 
+
+*Frontline,* Jan. 1 – 14, 2005 [ Also available here](http://www.hinduonnet.com/fline/fl2201/stories/20050114005801700.htm)****
