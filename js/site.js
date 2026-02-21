@@ -125,15 +125,21 @@ function markdownToHtml(md) {
   // Wrap consecutive <li> in <ul>
   html = html.replace(/((?:<li>.*<\/li>\n?)+)/g, '<ul>$1</ul>');
 
+  // Ensure images (standalone or linked) are in their own blocks
+  // This separates captions and body text that were on the same line as images
+  html = html.replace(/(<a\s[^>]*><img\s[^>]*><\/a>|<img\s[^>]*>)/g, '\n\n$1\n\n');
+  html = html.replace(/\n{3,}/g, '\n\n').trim();
+
   // Wrap paragraphs (lines not already tagged)
   html = html.split('\n\n').map(block => {
     block = block.trim();
     if (!block) return '';
     if (block.startsWith('<h') || block.startsWith('<ul') || block.startsWith('<blockquote') ||
       block.startsWith('<hr') || block.startsWith('<img')) return block;
-    // Only wrap if not already an HTML block
-    if (!block.startsWith('<')) return `<p>${block.replace(/\n/g, '<br>')}</p>`;
-    return block;
+    // Linked images should not be wrapped in <p>
+    if (block.startsWith('<a') && block.includes('<img')) return block;
+    // Everything else (including inline HTML like <strong>) gets wrapped in <p>
+    return `<p>${block.replace(/\n/g, '<br>')}</p>`;
   }).join('\n');
 
   // Merge adjacent blockquotes
