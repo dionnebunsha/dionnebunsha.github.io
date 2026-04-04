@@ -192,7 +192,7 @@ function renderArticleCards(filter = 'All') {
       <div class="card-body">
         <span class="tag">${a.categories[0]}</span>
         <h3>${a.title}</h3>
-        <p>${a.description}</p>
+        ${a.cardDescription ? `<p>${a.cardDescription}</p>` : ''}
         <span class="meta">${formatDate(a.date)}</span>
       </div>
     </div>
