@@ -278,6 +278,18 @@ footer {
   font-family: var(--serif); font-style: italic; font-size: 1.1rem;
   color: var(--text-light); margin: 1.5rem 0;
 }
+.article-view .article-content figure {
+  margin: 2rem 0; padding: 0;
+  background: var(--bg-card); border: 1px solid var(--border); border-radius: 6px;
+  overflow: hidden; width: 100%;
+}
+.article-view .article-content figure img {
+  display: block; width: 100%; height: auto;
+}
+.article-view .article-content figure figcaption {
+  padding: 0.75rem 1.2rem; font-size: 0.85rem; color: var(--text-light);
+  font-family: var(--sans); line-height: 1.5; border-top: 1px solid var(--border);
+}
 .article-view .article-content img {
   display: block; max-width: 100%; height: auto; border-radius: 4px; margin: 1.5rem 0;
 }
