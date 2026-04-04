@@ -131,16 +131,32 @@ function markdownToHtml(md) {
   html = html.replace(/\n{3,}/g, '\n\n').trim();
 
   // Wrap paragraphs (lines not already tagged)
-  html = html.split('\n\n').map(block => {
-    block = block.trim();
-    if (!block) return '';
-    if (block.startsWith('<h') || block.startsWith('<ul') || block.startsWith('<blockquote') ||
-      block.startsWith('<hr') || block.startsWith('<img')) return block;
-    // Linked images should not be wrapped in <p>
-    if (block.startsWith('<a') && block.includes('<img')) return block;
-    // Everything else (including inline HTML like <strong>) gets wrapped in <p>
-    return `<p>${block.replace(/\n/g, '<br>')}</p>`;
-  }).join('\n');
+  const blocks = html.split('\n\n').map(block => block.trim()).filter(Boolean);
+  const result = [];
+  for (let i = 0; i < blocks.length; i++) {
+    const block = blocks[i];
+    const isImage = block.startsWith('<img') ||
+      (block.startsWith('<a') && block.includes('<img'));
+    if (isImage) {
+      // Check if next block is a caption (plain text, not another tag/image)
+      const next = blocks[i + 1];
+      const nextIsTag = next && (next.startsWith('<h') || next.startsWith('<ul') ||
+        next.startsWith('<blockquote') || next.startsWith('<hr') ||
+        next.startsWith('<img') || (next.startsWith('<a') && next.includes('<img')));
+      if (next && !nextIsTag) {
+        result.push(`<figure>${block}<figcaption>${next.replace(/\n/g, '<br>')}</figcaption></figure>`);
+        i++; // skip caption block
+      } else {
+        result.push(`<figure>${block}</figure>`);
+      }
+    } else if (block.startsWith('<h') || block.startsWith('<ul') || block.startsWith('<blockquote') ||
+      block.startsWith('<hr')) {
+      result.push(block);
+    } else {
+      result.push(`<p>${block.replace(/\n/g, '<br>')}</p>`);
+    }
+  }
+  html = result.join('\n');
 
   // Merge adjacent blockquotes
   html = html.replace(/<\/blockquote>\s*<blockquote>/g, '<br>');
