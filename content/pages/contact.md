@@ -7,5 +7,4 @@ description: "Get in touch with Dionne Bunsha"
 
 dionne11@gmail.com
 
-- [Twitter](https://twitter.com/dionnebunsha)
 - [LinkedIn](https://linkedin.com/in/dionnebunsha)
