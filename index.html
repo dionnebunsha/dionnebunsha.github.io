@@ -174,8 +174,16 @@
     <p class="section-text fade-in">For assignments, collaborations, speaking engagements, or just to say hello.</p>
     <div class="contact-links fade-in">
       <a href="https://linkedin.com/in/dionnebunsha" target="_blank" rel="noopener">LinkedIn</a>
-      <a href="mailto:dionne11@gmail.com">Email</a>
     </div>
+    <form class="contact-form fade-in" action="https://formspree.io/f/xaewvbrk" method="POST">
+      <div class="form-row">
+        <input type="text" name="name" placeholder="Your name" required>
+        <input type="email" name="email" placeholder="Your email" required>
+      </div>
+      <textarea name="message" placeholder="Your message" rows="5" required></textarea>
+      <button type="submit">Send message</button>
+      <p class="form-success" style="display:none;">Thank you — your message has been sent.</p>
+    </form>
   </div>
 </section>
 

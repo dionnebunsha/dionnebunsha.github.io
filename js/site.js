@@ -406,6 +406,23 @@ document.addEventListener('DOMContentLoaded', () => {
   }, { threshold: 0.15 });
   document.querySelectorAll('.fade-in').forEach(el => io.observe(el));
 
+  // Contact form — AJAX submission so page doesn't redirect to Formspree
+  var contactForm = document.querySelector('.contact-form');
+  if (contactForm) {
+    contactForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var data = new FormData(contactForm);
+      fetch(contactForm.action, { method: 'POST', body: data, headers: { 'Accept': 'application/json' } })
+        .then(function(r) {
+          if (r.ok) {
+            contactForm.reset();
+            var msg = contactForm.querySelector('.form-success');
+            if (msg) msg.style.display = 'block';
+          }
+        });
+    });
+  }
+
   // Nav shadow
   window.addEventListener('scroll', () => {
     document.getElementById('nav').classList.toggle('scrolled', window.scrollY > 20);
