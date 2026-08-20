@@ -222,7 +222,8 @@ section { padding: 6rem 2rem; }
 }
 .gallery-slide {
   position: absolute; inset: 0;
-  background-size: cover !important; background-position: center center !important; background-repeat: no-repeat !important;
+  background-size: contain !important; background-position: center center !important; background-repeat: no-repeat !important;
+  background-color: #0d0d0d;
   opacity: 0; transition: opacity 1.4s ease;
 }
 .gallery-slide.active { opacity: 1; }
