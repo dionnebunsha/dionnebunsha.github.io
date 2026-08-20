@@ -216,6 +216,52 @@ section { padding: 6rem 2rem; }
 }
 @media (max-width: 600px) { .photo-grid { grid-template-columns: repeat(2, 1fr); } }
 
+/* ── GALLERY HERO SLIDESHOW ── */
+#photo-gallery-hero {
+  position: relative; width: 100%; height: 100vh; overflow: hidden;
+}
+.gallery-slide {
+  position: absolute; inset: 0;
+  background-size: cover; background-position: center;
+  opacity: 0; transition: opacity 1.4s ease;
+}
+.gallery-slide.active { opacity: 1; }
+.gallery-slide::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(to bottom, transparent 55%, rgba(0,0,0,0.5) 100%);
+}
+.gallery-caption {
+  position: absolute; bottom: 5.5rem; left: 3rem; z-index: 2;
+  color: rgba(255,255,255,0.9);
+  font-family: var(--serif); font-style: italic; font-size: 1.1rem;
+  letter-spacing: 0.02em; text-shadow: 0 1px 6px rgba(0,0,0,0.5);
+}
+.gallery-dots {
+  position: absolute; bottom: 2.2rem; left: 50%; transform: translateX(-50%);
+  display: flex; gap: 0.6rem; z-index: 10;
+}
+.gdot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: rgba(255,255,255,0.4); cursor: pointer;
+  transition: background 0.3s, transform 0.3s; border: none; padding: 0;
+}
+.gdot.active { background: rgba(255,255,255,0.95); transform: scale(1.25); }
+.gallery-arrow {
+  position: absolute; top: 50%; transform: translateY(-50%);
+  background: none; border: none; color: rgba(255,255,255,0.7);
+  font-size: 3.5rem; line-height: 1; cursor: pointer;
+  padding: 0.5rem 1.2rem; z-index: 10;
+  opacity: 0; transition: opacity 0.25s, color 0.2s;
+}
+#photo-gallery-hero:hover .gallery-arrow { opacity: 1; }
+.gallery-arrow:hover { color: white; }
+.gallery-prev { left: 0.3rem; }
+.gallery-next { right: 0.3rem; }
+@media (max-width: 700px) {
+  .gallery-caption { left: 1.5rem; bottom: 4.5rem; font-size: 0.95rem; }
+  .gallery-arrow { display: none; }
+}
+
 /* ── CONTACT ── */
 #contact { text-align: center; }
 #contact .section-text { margin: 0 auto 2.5rem; }
