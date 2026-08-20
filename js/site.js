@@ -1,3 +1,28 @@
+// ── Photo Gallery Slideshow ──
+(function() {
+  const slides = document.querySelectorAll('.gallery-slide');
+  const dots = document.querySelectorAll('.gdot');
+  if (!slides.length) return;
+  let current = 0, timer;
+
+  function goto(n) {
+    slides[current].classList.remove('active');
+    dots[current].classList.remove('active');
+    current = (n + slides.length) % slides.length;
+    slides[current].classList.add('active');
+    dots[current].classList.add('active');
+  }
+
+  function startTimer() {
+    timer = setInterval(() => goto(current + 1), 5000);
+  }
+
+  window.galleryGoto = function(n) { goto(n); clearInterval(timer); startTimer(); };
+  window.galleryNav  = function(d) { goto(current + d); clearInterval(timer); startTimer(); };
+
+  startTimer();
+})();
+
 // ── Article Data ──
 // This manifest maps slugs to metadata. Content is loaded from markdown files.
 const ARTICLES = [
