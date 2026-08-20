@@ -1,24 +1,38 @@
 // ── Photo Gallery Slideshow ──
 (function() {
-  const slides = document.querySelectorAll('.gallery-slide');
-  const dots = document.querySelectorAll('.gdot');
-  if (!slides.length) return;
-  let current = 0, timer;
+  var GALLERY = [
+    { src: 'images/ClayoquotSound.jpg',  caption: 'Clayoquot Sound, British Columbia' },
+    { src: 'images/Himalaya.jpg',        caption: 'Himalaya' },
+    { src: 'images/GangotriMtns.jpg',    caption: 'Gangotri' },
+    { src: 'images/danti4.jpg',          caption: 'Coastal Gujarat' },
+    { src: 'images/himalaya2.jpg',       caption: 'Himalayan Landscape' },
+    { src: 'images/sugarcane1.jpg',      caption: 'Sugarcane Fields' },
+  ];
+  var slide = document.querySelector('.gallery-slide');
+  var captionEl = slide && slide.querySelector('.gallery-caption');
+  var dots = document.querySelectorAll('.gdot');
+  if (!slide) return;
+  var current = 0, timer;
 
   function goto(n) {
-    slides[current].classList.remove('active');
-    dots[current].classList.remove('active');
-    current = (n + slides.length) % slides.length;
-    slides[current].classList.add('active');
-    dots[current].classList.add('active');
+    var next = (n + GALLERY.length) % GALLERY.length;
+    slide.style.opacity = '0';
+    setTimeout(function() {
+      slide.style.backgroundImage = "url('" + GALLERY[next].src + "')";
+      if (captionEl) captionEl.textContent = GALLERY[next].caption;
+      if (dots[current]) dots[current].classList.remove('active');
+      current = next;
+      if (dots[current]) dots[current].classList.add('active');
+      slide.style.opacity = '1';
+    }, 600);
   }
 
   function startTimer() {
-    timer = setInterval(() => goto(current + 1), 5000);
+    timer = setInterval(function() { goto(current + 1); }, 5500);
   }
 
-  window.galleryGoto = function(n) { goto(n); clearInterval(timer); startTimer(); };
-  window.galleryNav  = function(d) { goto(current + d); clearInterval(timer); startTimer(); };
+  window.galleryGoto = function(n) { clearInterval(timer); goto(n); startTimer(); };
+  window.galleryNav  = function(d) { clearInterval(timer); goto(current + d); startTimer(); };
 
   startTimer();
 })();
