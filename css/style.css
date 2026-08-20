@@ -369,6 +369,7 @@ footer {
 }
 
 /* Hide main content when viewing article */
+body.viewing-article #photo-gallery-hero,
 body.viewing-article .hero,
 body.viewing-article #about,
 body.viewing-article #book,
