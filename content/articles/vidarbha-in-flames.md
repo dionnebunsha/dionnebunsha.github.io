@@ -56,7 +56,11 @@ As Vijay Javandhia puts it, “In my next life, I would rather be a cow in Europ
 
 It seemed like a normal meagre meal for Dharmi Rathod when suddenly her husband Ramesh started vomiting. He had barely eaten anything. He was choking on the pesticide he swallowed. His friends rushed him to hospital, but he died there on 10th November 2005. Dharmi was left stunned… and without a single paisa with her.
 
-Her village Bongavan in Yavatmal collected money for his funeral. They helped her with food and money. One month later, Dharmi is still reeling from the shock. “I have no idea how much he owed and how many loans he had taken. All I know is that the day before he died, bank officials had come to our hut.” For the last month, the trauma has taken its toll on Dharmi. She is constantly ill and has visited the hospital thrice.[![](images/2005-12-17+Vidarbha+suicides+pic+2+-+dharmi+rathod.jpg)](http://bp0.blogger.com/_gMPVUAVwmpI/Rg5NNnpOvoI/AAAAAAAAAD4/8cuYdZG06yY/s1600-h/2005-12-17+Vidarbha+suicides+pic+2+-+dharmi+rathod.jpg)**Dharmi Rathod with her children****Photo: Dionne Bunsha**
+Her village Bongavan in Yavatmal collected money for his funeral. They helped her with food and money. One month later, Dharmi is still reeling from the shock. “I have no idea how much he owed and how many loans he had taken. All I know is that the day before he died, bank officials had come to our hut.” For the last month, the trauma has taken its toll on Dharmi. She is constantly ill and has visited the hospital thrice.
+
+[![](images/vidarbha-dharmi-rathod.jpg)](images/vidarbha-dharmi-rathod.jpg)
+
+Dharmi Rathod with her children. Photo: Dionne Bunsha
 
 How does Dharmi manage to look after herself and her two children? “My son works as a farm hand every weekend. From that money, we go to the market,” she says. Even when Ramesh was alive, Dharmi and Ramesh both worked as farm labour earning Rs 20 and Rs 40 per day respectively. They could not survive only by tilling their four acre farm. This season, it will yield less than a quintal of cotton. And, Dharmi doesn’t know the first thing about managing a farm. Unable to cope, she has called her relatives to help her sort out her life.
 
