@@ -299,6 +299,8 @@ async function showArticle(slug) {
 
     document.body.classList.add('viewing-article');
     view.classList.add('active');
+    const gallery = document.getElementById('photo-gallery-hero');
+    if (gallery) gallery.style.display = 'none';
     window.scrollTo(0, 0);
   } catch (e) {
     console.error('Failed to load article:', e);
@@ -311,6 +313,8 @@ function showHome(scrollTo) {
   document.body.classList.remove('viewing-article');
   const view = document.getElementById('article-view');
   if (view) { view.classList.remove('active'); view.innerHTML = ''; }
+  const gallery = document.getElementById('photo-gallery-hero');
+  if (gallery) gallery.style.display = '';
   if (scrollTo) {
     const target = document.getElementById(scrollTo);
     if (target) target.scrollIntoView({ behavior: 'smooth' });
