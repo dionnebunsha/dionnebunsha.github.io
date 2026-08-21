@@ -28,7 +28,9 @@ Ironically, the police say there is not enough proof against the accused. “We 
 
 It has been a year since communal violence was unleashed in Gujarat, killing more than 1,000 people and leaving 1.5 lakh homeless. Yet, not much has been done to bring the guilty to book. Of the total 4,252 cases filed, the police have closed half the cases, citing lack of evidence. Another 118 cases are pending investigation. In the remaining 2,014 cases, the police have filed charge-sheets. 
 In districts where the worst violence occurred, the number of cases closed without charge-sheets being filed is larger than the number of cases in which charge-sheets were filed. For instance, in Sabarkantha district, 289 cases were closed, while charge-sheets were filed for only 178 (see table). In Bhavnagar, charge-sheets were filed in only 15 per cent of the cases filed. 
+
 [![](images/2003-03-15 Blocking of justice table.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/521855/2003-03-15%20Blocking%20of%20justice%20table.jpg)
+
 But the statistics only begin to tell the story. Even cases with sufficient proof are being closed. Names have disappeared from charge-sheets. Many witnesses complain that the police have not recorded their testimonies. While recording statements of witnesses, the police have left out names or vital facts. 
 
 Witnesses who testified against powerful politicians have been put in jail, while the real criminals roam about free. Twelve residents of Naroda Gaam in Ahmedabad testified to the role of Bharatiya Janata Party legislator Dr. Maya Kodnani and VHP president Dr. Jaideep Patel in the worst massacre in Gujarat. Six months later, in September, the police jailed these 12 witnesses as accused in a case of murder, which occurred in March 2002. When the case was filed, the names of the deceased or the accused were not known. Suddenly, six months later, the 12 witnesses were jailed for this murder. They still have not been able to get bail. 

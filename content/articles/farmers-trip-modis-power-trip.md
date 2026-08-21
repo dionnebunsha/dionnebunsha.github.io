@@ -18,7 +18,9 @@ But Gujarat witnessed an unusual sight over the last 15 days. An RSS pracharak, 
 The BKS has been at loggerheads with Modi’s government since last June when it raised power tariffs from Rs 500 to Rs 1,260 per horsepower. Farmers have also been against the Gujarat Electricity Board’s effort to install meters on farms. With the BKS agitation gaining support, the government reduced the tariff to Rs 900 per horsepower in October last year.
 
 But the farmers were not satisfied. They continued with their agitation. That irked Modi. He got the BKS forcibly evicted from their office in a government flat in Gandhinagar. Then Laljibhai joined the BKS agitation, an organisation of which he is co-founder. After two weeks of resistance, negotiation and intervention from Arun Jaitley, they reached a compromise on 4th February. Lalji called off his fast. But all the farmers got in return was a mere Rs. 50 per horsepower reduction in tariff.
+
 [![](images/2004-06-05 BKS photo.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/832946/2004-06-05%20BKS%20photo.jpg)**Gujarat Chief Minister Narendra Modi with party leader L.K. Advani in Ahmedabad, during the latter’s Bharat Uday Yatra at the height of the campaign for the general elections.**Photo: Divyakant Solanki/AP
+
 Gujarat Chief Minister Narendra Modi with party leader L.K. Advani in Ahmedabad, during the latter’s Bharat Uday Yatra at the height of the campaign for the general elections. 
 
 This temporary truce may have saved Modi from embarrassment. But it will be a long way before the problems faced by Gujarat’s farmers are resolved. The power problem is closely linked to the acute water shortage that the state confronts. With no other source of irrigation, farmers pump ground water. Groundwater supplies around 85% of Gujarat’s irrigated land, as compared to 60% in India. This has adversely affected agriculture. 

@@ -7,6 +7,7 @@ description: "![](http://photos1.blogger.com/blogger2/480/4442/1600/qutubuddin.j
 ---
 
 [![](images/qutubuddin.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/qutubuddin.jpg)
+
 DIONNE BUNSHA
 
 The face of Gujarat riots has left. For the opposite end of the country – Kolkota.

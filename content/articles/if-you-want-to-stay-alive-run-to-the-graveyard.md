@@ -19,6 +19,7 @@ Packed with people, relief camps have emerged as the only shelter for the thousa
 Camps situated in Ahmedabad’s slums are far more accessible. People fleeing their homes have run to the local masjids or schools nearby. However, the conditions here are far more cramped due to the space shortage in slums. Hundreds of people are packed in a small school or tent. At Pir Kasamshak ki Roza in Ahmedabad’s Gomatipura area, people are actually living inside a graveyard. Better to be on a graveyard than under it, is probably what most refugees here have figured. “We have no other security. When bullets start flying, we rush here. There was a camp set up here during the 1985, 1990 and 1992 riots as well,” says Munni Bibi Rasul, whose son was killed in police firing.
 
 [![](images/2002-03-16 guj 1 relief camp.0.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/2002-03-16%20guj%201%20relief%20camp.1.jpg)
+
 **Relief camp at the graveyard in Gomtipur.**
 
 Only Muslim charities have set up camps, by pooling contributions from within the community. Neither the government nor non-governmental organisations (NGOs) have taken the initiative. The state government announced compensation of Rs one lakh to the families of those killed in riots, as compared to Rs two lakh for the families of those killed in the Sabarmati Express attack, a telling statement on the ruling party’s prejudices. The morsels of relief that government is handing out was also delayed. One week after the violence began, the collector’s offices started supplying provisions to the camps. 
@@ -28,6 +29,7 @@ The flurry of sympathy, aid and NGOs that rushed to Kutch after the earthquake l
 In fact, Muslim charities, which managed to mobilise resources during riots, are finding it difficult to raise funds this time since even middle class Muslims have been economically destroyed. They are somehow able to provide basic services in camps. The NGOs co-ordination group has just started mobilising nursing and counselling services. The level of sensitisation to such issues, especially in rural Gujarat, is evident in Fatima’s case. She was prompted to speak about her gang rape to press reporters while a room full of strange men listened. It was only when the men were asked to leave, that she felt more comfortable to speak. Moreover, she was made to narrate her horrific story twice or thrice a day, depending on how many visitors came.
 
 [![](images/2002-03-16 guj 1 relief camp pic.0.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/2002-03-16%20guj%201%20relief%20camp%20pic.0.jpg)
+
 **At the Dariya Khan Ghummat camp**
 
 While medical facilities are basic – confined to check-ups by volunteer doctors and nurses, refugees are afraid to be taken for treatment to the hospitals. “Many pregnant women are expected to conceive soon, but they refuse to go to the hospital. They insist on delivering the baby in the camp itself,” says Fr. Victor Moses, who is co-ordinating the Citizen’s Initiative. He is also concerned about hygiene conditions at the camps. With around a few toilets being shared by 800 to 900 people, sanitation is impossible to maintain.

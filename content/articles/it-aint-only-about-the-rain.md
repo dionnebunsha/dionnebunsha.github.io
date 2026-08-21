@@ -23,7 +23,9 @@ Left with no other choice, several land owners have left their fields fallow. Th
 After slogging it out in the fields, she does not want to be paid in cash. “Seeds would be a better option. At least our land will not lie fallow in the coming season,” says Kausalya, whose family owns five acres.
 
 Chief minister Manohar Joshi visited Kausalya’s village to hand over a cheque of Rs 1 lakh to the family of a suicide victim. “But he left in his helicopter immediately after, without bothering to speak to anyone else,” complains Chabbulal Jaiswal, Kausalya’s employer.
+
 [![](images/1998-07-01 Bitter Harvest 2.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/1998-07-01%20Bitter%20Harvest%202.jpg)
+
 While Kausalya’s family was able to hold on to its land, several others were forced to sell off their agricultural properties to pay off their debts. Gajanan Bhomle from Waiphad village in Wardha sold off his two-acre plot to repay his loans amounting to Rs 80,000 borrowed for crops, constructing a well and to conduct his sister’s wedding.
 
 “Now I look for work in others’ fields. The daily wage rate for agricultural labour has reduced from Rs 50 to Rs 35 for men and from Rs 35 to Rs 20 for women. Employers cannot afford to pay the full wages. You either take it or leave. There are many others looking for work,” says Gajanan.

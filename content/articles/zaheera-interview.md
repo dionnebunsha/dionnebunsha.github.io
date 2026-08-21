@@ -7,6 +7,7 @@ description: "![](http://photos1.blogger.com/blogger2/480/4442/1600/zaheera%20in
 ---
 
 [![](images/zaheera interview.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/zaheera%20interview.jpg)
+
 ***Zahira Sheikh**, the prime witness in the Best Bakery case, is the most visible and controversial riot victim from Gujarat. She has changed her stand thrice. After describing the massacre on her house in detail in her police statement and to the National Human Rights Commission, she turned hostile in the Vadodara Sessions court. The accused were convicted. 
 Soon after, she appealed to the Supreme court asking for a re-trial outside Gujarat. She lied in court because she was threatened by local BJP MLA Madhu Shrivastav. During the re-trial in Mumbai, Zaheera turned hostile once again. In this interview with Zaheera just before she appealed to the Supreme court for a re-trial, she talked of the threats to her family and the risks of being a witness against the powerful.*
 
