@@ -38,8 +38,9 @@ Farmers get a very small part of the revenue. Sugar sells at Rs12 ($0.26) per ki
 ‘The co-operatives are run by those who have no stake in it at all. It should not be the side-business of politicians,’ says Madhav Godbole, a former bureaucrat who has suggested stopping government involvement in this sector.
 
 But who’s listening? So far, a bankrupt state government has shelled out Rs65 million ($1.41 million) to pay off the co-operatives’ bad debts. There’s another Rs4,000 million ($86.96 million) in guarantees yet to be paid.
-[![](images/2003-12-01+Sugar+Daddies+pic+3.jpg)](http://bp1.blogger.com/_gMPVUAVwmpI/Rg4n33pOvhI/AAAAAAAAADA/jsBFf8cV_J0/s1600-h/2003-12-01+Sugar+Daddies+pic+3.jpg)**The long wait for bullock carts delivering to the Ambejogai sugar
-mill****Photo: Dionne Bunsha**
+
+[![](images/2003-12-01+Sugar+Daddies+pic+3.jpg)](http://bp1.blogger.com/_gMPVUAVwmpI/Rg4n33pOvhI/AAAAAAAAADA/jsBFf8cV_J0/s1600-h/2003-12-01+Sugar+Daddies+pic+3.jpg)**The long wait for bullock carts delivering to the Ambejogai sugar mill. Photo: Dionne Bunsha**
+
 Farmers have also felt the blow. ‘The co-operative is ours. But we have no say in the way it is run,’ says Ramgonda Patil. ‘Yes, we have elected the directors. But what choice do we have? They use money and muscle power during the elections.’ Any attempts to challenge their authority are nipped in the bud. ‘If anyone dares to ask a question at the cooperative meetings, he is taken out by their thugs. The directors of the factory run their own goonda raj (gangster rule) here.’
 
 Cane growers are being squeezed from both ends. Sugarcane prices offered by factories have fallen by around 25 per cent in the past five years. Around a third of factories haven’t even paid farmers the Indian Government’s minimum price of Rs695 ($15.1) per tonne. In the season that started in October, industry experts estimate that only five per cent of the factories will be able to pay farmers the minimum price. And even this minimum price is not sufficient to meet farmers’ expenses.
@@ -55,7 +56,9 @@ Neglect
 Peasants in other parts of Maharashtra still protest about being the neglected stepchildren. Their complaints are not unjustified. For example, although sugarcane is grown on only four per cent of Maharashtra’s total cropped area, 60 per cent of irrigated water goes to this crop alone. Bank credit, dairies and other facilities are far more accessible here than in the rest of rural Maharashtra.
 
 It’s from these neglected areas in central Maharashtra that workers migrate to the lush sugarcane belt during the six month harvesting season. Contractors hired by the factory bring them in groups. Some factories haven’t paid contractors’ bills, so these migrants haven’t got their full wages either. Their exploitation is double-edged – both by the factories and by the contractors.
-[![](images/2003-12-01+Sugar+Daddies+pic+4.JPG)](http://bp2.blogger.com/_gMPVUAVwmpI/Rg4ozHpOviI/AAAAAAAAADI/kGVb3hyVYwE/s1600-h/2003-12-01+Sugar+Daddies+pic+4.JPG)**migrant labourers camp out in the plantations****Photo: Dionne Bunsha**
+
+[![](images/2003-12-01+Sugar+Daddies+pic+4.JPG)](http://bp2.blogger.com/_gMPVUAVwmpI/Rg4ozHpOviI/AAAAAAAAADI/kGVb3hyVYwE/s1600-h/2003-12-01+Sugar+Daddies+pic+4.JPG)**Migrant labourers camp out in the plantations. Photo: Dionne Bunsha**
+
 Many, like Shivaji, barely get a few hours’ sleep during the cutting season. Yet, after labouring round the clock, Shivaji may not be able to work off the advance he took from the contractor. Before leaving their village in Beed, around 200 kilometres away from the factory, the contractor gave his family Rs20,000 ($435). This is offset against the amount of sugarcane they cut. Like most migrants, Shivaji may return to his village with a debt to repay. ‘If, at the end of the season, we haven’t cut enough cane to offset the advance given to us, we have to pay back the rest. The interest rate is 60 per cent per year,’ he says.
 
 Trapped in a cycle of loans, workers keep coming back to the sugar factories every year. The need for a lump-sum advance for consumption, to marry their children or pay medical bills, makes workers approach the contractor. Families repay the advances by cutting between one to two tonnes of cane per day, at the rate of Rs100-115 ($2.5) per tonne for bullock-cart owners and Rs65 ($1.41) for tractor workers. Often workers are given less, as their unpaid loans are offset against this advance.
