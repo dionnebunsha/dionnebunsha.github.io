@@ -1,7 +1,7 @@
 // ── Photo Gallery Slideshow ──
 (function() {
   var GALLERY = [
-    { src: 'images/ClayoquotSound.jpg',  caption: 'Clayoquot Sound, British Columbia' },
+    { src: 'images/ClayoquotSound.jpg',  caption: 'British Columbia' },
     { src: 'images/Himalaya.jpg',        caption: 'Himalaya' },
     { src: 'images/GangotriMtns.jpg',    caption: 'Gangotri' },
     { src: 'images/himalaya2.jpg',       caption: 'Himalayan Landscape' },
