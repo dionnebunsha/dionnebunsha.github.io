@@ -46,5 +46,4 @@ The nexus was clear when we met the city engineer. Within ten minutes of knowing
 
 The people of Chandrapur weren’t given a choice between public or private irregularities. They can only decide who they will borrow water from today. 
 
-*Frontline,* April 8 – 21, 2006 <a href=”http://www.hinduonnet.com/fline/fl2307/stories/20060421007101000.htm
-“>Also available here****
+*Frontline,* April 8 – 21, 2006****

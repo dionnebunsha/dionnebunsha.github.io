@@ -46,5 +46,4 @@ At what cost? Was there another, less destructive way possible?  “In India, fi
 
 Yet, with no other alternative, many Adivasis like those in Pipalbawdi, would prefer to break the law rather than break rocks.
 
-*Frontline,* May 21 – June 3, 2005 <a href=”http://www.hinduonnet.com/fline/fl2211/stories/20050603002308300.htm
-“>Also available here****
+*Frontline,* May 21 – June 3, 2005****

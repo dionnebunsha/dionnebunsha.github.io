@@ -62,4 +62,4 @@ How does Dharmi manage to look after herself and her two children? “My son wor
 
 Ramesh seems to have left Dharmi with a fate worse than death.
 
-*Frontline,* Dec. 17 – 30, 2005 [ Also available here](http://www.flonnet.com/fl2226/stories/20051230006313300.htm)****
+*Frontline,* Dec. 17 – 30, 2005****

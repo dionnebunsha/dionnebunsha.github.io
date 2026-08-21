@@ -40,5 +40,4 @@ It’s not only the Pandharvada case, but in several others too, the police have
 
 There are many like Ameena and Sabira in Gujarat who are still waiting for the police’s cover-ups to be unearthed.
 
-*Frontline,* Jan. 14 – 27, 2006 <a href=”http://www.flonnet.com/fl2301/stories/20060127003103600.htm
-“> Also available here****
+*Frontline,* Jan. 14 – 27, 2006****

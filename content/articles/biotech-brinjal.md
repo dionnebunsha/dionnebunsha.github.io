@@ -44,4 +44,4 @@ Field studies by the Deccan Development Society disproved many of the claims mad
 
 The government is racing headlong into the genetic engineering maze, though agricultural studies are showing that natural processes are more effective. In just four years of GM technology, we have seen many disastrous results. Will no one listen as nature strikes back?
 
-Frontline, June 17-30, 2006 [Also available here](http://www.hinduonnet.com/fline/fl2312/stories/20060630004902400.htm)
+Frontline, June 17-30, 2006

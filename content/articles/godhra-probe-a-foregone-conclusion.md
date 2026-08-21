@@ -58,5 +58,4 @@ Godhra, February 27, 2002. **
 
 8-25 a.m.: The police arrive and open fire to disperse the mob. 
 
-*Frontline,* July 20 – August 2, 2002 <a href=”http://www.hinduonnet.com/fline/fl1915/19150110.htm
-“>Also available here****
+*Frontline,* July 20 – August 2, 2002****

@@ -54,4 +54,4 @@ Contrary to the Sangh’s myth, adivasis are not being forcibly converted. Most 
 
 But regardless of facts, the myths continue to be propagated. The show will go on. The swamis and Sanghis are all set to take Dang by storm next month. It may not be as innocuous as just a dip in the pond.
 
-*Frontline,*  Jan. 28 – Feb. 10, 2006 [ Also available here](http://www.flonnet.com/fl2302/stories/20060210003403700.htm)****
+*Frontline,*  Jan. 28 – Feb. 10, 2006****

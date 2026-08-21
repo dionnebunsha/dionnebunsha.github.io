@@ -82,4 +82,3 @@ FIR clubbed with three other cases that occurred in three separate places: Kalol
 Witness is a woman whose daughter was raped and killed. Has asked for ‘absconding’ to be arrested and for names to be included in the chargesheet. Judge will not proceed until all 32 witnesses are present at same time in court.
 
 *Frontline,* July 19 – August 1, 2003
-[Also available here](http://www.flonnet.com/fl2015/stories/20030801004702500.htm)****

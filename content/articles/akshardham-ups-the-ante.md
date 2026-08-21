@@ -43,5 +43,4 @@ Both Vajpayee and Congress(I) chief Sonia Gandhi visited Akshardham at the same 
 
 Post- Akshardham the Gujarat BJP has latched on to the anti-Pak bandwagon. It is pointing the finger outside, to deflect attention from what lies within. Just before a crucial election, the party had no achievements to speak of. It will now use the anti-terrorism stand to shift focus from its government’s failures as well as its hand in the cycle of violence. With every new outbreak of violence, the politicians keep counting the votes. It’s only ordinary people who mourn the mounting deaths.
 
-*Frontline,* October 12 – 25, 2002 <a href=”http://www.hinduonnet.com/fline/fl1921/stories/20021025006900900.htm
-“>Also available here****
+*Frontline,* October 12 – 25, 2002****

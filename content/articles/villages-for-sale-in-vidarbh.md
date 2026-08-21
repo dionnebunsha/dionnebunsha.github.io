@@ -62,4 +62,4 @@ Shivni Rasulapur, next to Shingnapur, has also said that they will mortgage the 
 
 How much longer before the threats and protests to sell land and kidneys become a grim reality?
 
-*Frontline,* March 11 – 24, 2006 [ Also available here](http://www.hinduonnet.com/fline/fl2305/stories/20060324002304300.htm)****
+*Frontline,* March 11 – 24, 2006****

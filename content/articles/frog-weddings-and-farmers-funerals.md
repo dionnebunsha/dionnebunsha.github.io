@@ -70,4 +70,4 @@ When her husband died, he left a suicide note asking Arun to look after his fami
 
 Seven years after Ramdas’ death, the situation in Vidarbha’s countryside has not changed much. Even today, a couple of suicides are being reported everyday. There are several widows like Saraswati who are struggling with the legacy of loans that their husbands have left behind.
 
-*Frontline,* July 31 to August 13, 2004 [ Also available here](http://www.hinduonnet.com/fline/fl2116/stories/20040813003003600.htm)****
+*Frontline,* July 31 to August 13, 2004****

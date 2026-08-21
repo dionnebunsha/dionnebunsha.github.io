@@ -24,5 +24,4 @@ While some went back home for the voting, others fled their homes. In Naroda Pat
 
 Contrary to popular opinion, their determination to vote is not driven by any fatwa. It’s pure survival instinct.
 
-*Frontline,* December 21, 2002 – January 3, 2003<a href=”http://www.hinduonnet.com/fline/fl1926/stories/20030103008012700.htm
-“> Also available here****
+*Frontline,* December 21, 2002 – January 3, 2003****

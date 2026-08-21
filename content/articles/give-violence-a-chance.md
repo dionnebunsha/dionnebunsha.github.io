@@ -41,5 +41,4 @@ Although there is little doubt that the entire pogrom was well planned, no polic
 
 As new tragedies like the Ghachi massacre keep unfolding in Gujarat, it seems the Prime Minister can do little to keep the violence or his Parivar under check.
 
-*Frontline,* April 13 – 26, 2002 <a href=”http://www.hinduonnet.com/fline/fl1908/19080210.htm
-“>Also available here****
+*Frontline,* April 13 – 26, 2002****

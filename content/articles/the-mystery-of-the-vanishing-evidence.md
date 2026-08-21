@@ -51,5 +51,4 @@ No conspiracy case has been filed in the Naroda Patiya or Chamanpura cases, whic
 
 Until the big fish are caught, people like Sharifa may have to keep hiding. She is still hoping that the day will come when there will be a role reversal – that those who attacked her will be put behind bars, and it will be safe for her to roam the streets. 
 
-*Frontline,* March 15 – 28, 2003 <a href=”http://www.hinduonnet.com/fline/fl2006/stories/20030328003703900.htm
-“> Also available here****
+*Frontline,* March 15 – 28, 2003****
