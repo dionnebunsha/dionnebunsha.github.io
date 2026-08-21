@@ -52,4 +52,4 @@ Local farmers and economies in western Maharashtra benefited from the infrastruc
 
 Krishna Pawar, a worker who has migrated within Kolhapur district puts it eloquently, “We cut the cane, but we don’t get to taste any sugar, not even a pinch.”
 
-*Frontline,* Feb 02 – 15, 2002 [ Also available here](http://www.hinduonnet.com/fline/fl1903/19031020.htm)****
+*Frontline,* Feb 02 – 15, 2002****

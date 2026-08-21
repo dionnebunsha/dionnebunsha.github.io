@@ -47,4 +47,4 @@ While the municipal corporation has chosen the softest target, they have spared 
 
 As the demolition squad tries to destroy this spirit of enterprise, and dampen Mumbai’s relentless energy, it is also crushing opportunity and hitting the city’s self-employed straight in the stomach.
 
-*Frontline* Jan. 19 – Feb. 1, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1902/19020940.htm)****
+*Frontline* Jan. 19 – Feb. 1, 2002****

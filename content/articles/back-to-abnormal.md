@@ -39,4 +39,4 @@ The silver lining for refugees has been a sudden spurt in mass marriages inside 
 
 It may be a long road home for Gujarat’s refugees, but they are eager to start the journey. If only the government were more willing to help them on their way.
 
-*Frontline,* June 22 – July 5, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1913/19130390.htm)****
+*Frontline,* June 22 – July 5, 2002****

@@ -34,4 +34,4 @@ But both Naidu and Keshubhai may be jumping the gun by assuming that the BJP wil
 
 Modi’s insults are a cover-up for his failures. They are attempts at rabble-rousing to deflect focus from the real issues that confront Gujarat’s voters. He is desperately trying to fan hatred. Rather than bolstering Gujarat’s pride, he is becoming an embarrassment for the state. Didn’t someone say pride comes before a fall?
 
-*Frontline,* October 12 – 25, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1920/stories/20021011003802600.htm)****
+*Frontline,* October 12 – 25, 2002****

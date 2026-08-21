@@ -44,4 +44,4 @@ The VHP also used new media technology to further their cause. It distributed CD
 
 But, undoubtedly, the powerful Gujarati print media, with its wide reach, had the most lasting impact. Its anti-minority (not only anti-Muslim) and casteist venom, even during peaceful times, has ensured a slow and sustained indoctrination of the Hindutva ideology. The key role it plays in the fascist propaganda machinery ensures it immunity from the law. It can continue to twist reality and keep the wheels of hate turning. 
 
-*Frontline,* July 20 – August 2, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1915/19150130.htm)****
+*Frontline,* July 20 – August 2, 2002****

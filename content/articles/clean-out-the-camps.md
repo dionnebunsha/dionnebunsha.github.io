@@ -41,4 +41,4 @@ But rehabilitation still seems a long way off with the violence continuing. The 
 
 Hounded out of their homes and now with attempts being made to push them out of relief camps, the nightmare doesn’t seem to end for refugees in Gujarat’s relief camps more than a month after it began on February 27th 2002. 
 
-*Frontline,* April 13 – 26, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1908/19080210.htm)****
+*Frontline,* April 13 – 26, 2002****

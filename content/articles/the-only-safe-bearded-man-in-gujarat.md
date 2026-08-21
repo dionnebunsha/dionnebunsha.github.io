@@ -24,4 +24,4 @@ Known for being rude, arrogant and egoistic, in the short while that he was chie
 
 Says an insider, “So far he has had it easy. He hasn’t had to deal much with MLAs. Even in that short span of time, he has rubbed up many the wrong way. Of his one year term, he had to deal with MLAs for only six months, of which three months were during the riots. After that, he dissolved the assembly. Now, will be the true test of how he manages to keep MLAs happy. Knowing his autocratic style of functioning, Vaghela may not need to engineer defections. Modi may drive them away himself.”
 
-*Frontline,* December 21, 2002 – January 3, 2003 [Also available here](http://www.hinduonnet.com/fline/fl1926/stories/20030103007400800.htm)****
+*Frontline,* December 21, 2002 – January 3, 2003****

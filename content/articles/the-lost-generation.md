@@ -59,4 +59,4 @@ Amongst tribal children, 83 per cent are anaemic.
 
 39.7 per cent of women in Maharashtra are underweight.
 
-*Frontline,* May 25 – June 07, 2002[ Also available here](http://www.hinduonnet.com/fline/fl1911/19110460.htm)****
+*Frontline,* May 25 – June 07, 2002****

@@ -48,4 +48,4 @@ The manner in which the main evidence was handled also raises questions. Several
 
 The investigation into the Godhra incident throws up more questions than answers. The SIT’s story still has some gaps that are not adequately explained. With the Modi government keen to portray itself as strong against terrorists, the truth of what really happened may never be known.
 
-*Frontline,* March 15 – 28, 2003 [ Also available here](http://www.hinduonnet.com/fline/fl2006/stories/20030328003203700.htm)****
+*Frontline,* March 15 – 28, 2003****

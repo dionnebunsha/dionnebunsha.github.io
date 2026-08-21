@@ -49,4 +49,4 @@ A cheaper alternative exists. Although rarely spoken about because it doesn’t 
 
 While the government is still groping in the dark, stumbling in its efforts to regulate the use of GM seeds, the Navbharat seed scam has opened up a can of worms. It needs more than Bt to deal with them.
 
-Frontline, Nov 24 – Dec 7, 2001 [ Also available here](http://www.hinduonnet.com/fline/fl1824/18240480.htm)****
+Frontline, Nov 24 – Dec 7, 2001****
