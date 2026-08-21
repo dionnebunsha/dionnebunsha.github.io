@@ -22,7 +22,7 @@ Chandrakant had a bank loan of Rs 1.05 lakh. He had pawned jewellery worth Rs 30
 
 There have been 680 suicides up to August 2006 – more than three per day – in Vidarbh, the north-eastern and most neglected region of Maharashtra. The rich, black soil is ideal for cotton – once called ‘white gold’. For a decade, Vidarbh is experiencing a desperate farm crisis. Since 2001, there have been 2,279 suicides. Cotton is no longer profitable. In 1970, one quintal of cotton had the same value as 12 grams of gold. Now, it is a harvest of death.
 
-[![](images/Mah+farm+crisis-+vidarbh+map.jpg)](http://bp1.blogger.com/_gMPVUAVwmpI/RoY-8pwXsrI/AAAAAAAAAFQ/L8D-qqba7Lk/s1600-h/Mah+farm+crisis-+vidarbh+map.jpg)
+<a href="http://bp1.blogger.com/_gMPVUAVwmpI/RoY-8pwXsrI/AAAAAAAAAFQ/L8D-qqba7Lk/s1600-h/Mah+farm+crisis-+vidarbh+map.jpg"><img src="images/Mah+farm+crisis-+vidarbh+map.jpg" style="width:50%; height:auto;"></a>
 
 Vidarbh borders the cotton belt of Andhra Pradesh, where peasants’ suicides have also spiralled. The suicides are the most desperate sign of a much larger agrarian crisis. “There’s not much difference between those who killed themselves and those of us who are still living. Everyone is in the same distress,” said Jitendra Tatte, a cotton and orange farmer, with a huge farm of 60 acres in Lehegaon village, Amravati.
 
