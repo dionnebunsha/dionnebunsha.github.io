@@ -42,5 +42,4 @@ Corruption cases reported increased by 45 % in the three years up to 2000. The m
 **Earthquake Rehabilitation**
 Around 25-30,000 families in the towns of Bhuj, Bachau and Anjar are still without homes. The government Comptroller and Auditor General found several instances of corruption in earthquake relief. There have also been allegations of upper castes cornering the benefits of relief and rehabilitation while Dalits and Muslims have been left out.
 
-*Frontline,* December 07 – 20, 2002 <a href=”http://www.hinduonnet.com/fline/fl1925/stories/20021220007601400.htm
-“>Also available here****
+*Frontline,* December 07 – 20, 2002****

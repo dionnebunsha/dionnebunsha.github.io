@@ -60,4 +60,4 @@ Often GE technology is pushed as the solution to India’s food security problem
 
 Judging by the way field trials are being conducted, it seems like it’s not only the farmers like Rangaraju on whose plots the tests are underway, but also the Indian public, who are left in the dark, clueless of the dangers that GE technology could unleash.
 
-*Frontline,* Nov. 18-Dec. 01, 2006 [ Also available here](http://www.hinduonnet.com/fline/fl2323/stories/20061201003603000.htm)****
+*Frontline,* Nov. 18-Dec. 01, 2006****

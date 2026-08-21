@@ -41,4 +41,4 @@ Narendra Modi’s latest gimmick – doing the rounds of peace marches – has c
 
 It will clearly take more than token public relations measures to get Gujarat back on track. Unless firm steps are taken to restore peace, the violence seems set to stay. But since hate is the BJP’s trump card right now, it is unlikely to do anything that may reduce the emotions of fear and insecurity that it hopes will bring it back to power soon. 
 
-*Frontline,* May 11-24, 2002 [Also available here](http://www.flonnet.com/fl1910/19100040.htm)****
+*Frontline,* May 11-24, 2002****

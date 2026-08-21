@@ -35,5 +35,4 @@ Some of the damage could have been averted if the dam’s flood danger area had 
 
 But many like Dastagir, marooned in their village, never knew they were in the way of the elephant.
 
-*Frontline,* August 13 – 26, 2005 <a href=”http://www.hinduonnet.com/fline/fl2217/stories/20050826004902200.htm
-“>Also available here****
+*Frontline,* August 13 – 26, 2005****

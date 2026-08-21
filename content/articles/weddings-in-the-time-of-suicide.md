@@ -48,4 +48,4 @@ Inside, the couples are finally called on stage, after enduring the speeches. At
 
 To many families in distress the mass marriages have brought some desperately needed joy. And to the grinning groom Kishan who may not have otherwise been able to take home his bride proudly.
 
-*Frontline,* July 1-14, 2006 [ Also available here](http://www.flonnet.com/fl2313/stories/20060714002303600.htm)****
+*Frontline,* July 1-14, 2006****

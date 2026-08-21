@@ -42,5 +42,4 @@ The SC has taken up only 10 of the major massacres that occurred in Gujarat. Loo
 
 For people like Bilkish and Nanubhai, who have been shoved to the margins, the recent rumblings in the judiciary are a reminder that they do still have rights. Even if their voices aren’t heard at home. 
 
-*Frontline,* 6 – 19 December, 2003 <a href=”http://www.hinduonnet.com/fline/fl2025/stories/20031219004003900.htm
-“> Also available here****
+*Frontline,* 6 – 19 December, 2003****

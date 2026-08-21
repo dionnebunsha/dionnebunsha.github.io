@@ -69,8 +69,7 @@ Only when the poorest are happy, then we can be free and life begins.
 
 When people ask me, where do you stay, I say I am nowhere. It has two meanings: nowhere and now here. I left home when I was 20 and since then have never had a home.”
 
-*Frontline* April 23 – May 6, 2005 <a href=”http://www.hinduonnet.com/fline/fl2209/stories/20050506002211400.htm
-“>Also available here****
+*Frontline* April 23 – May 6, 2005****
 
 —————————-
 

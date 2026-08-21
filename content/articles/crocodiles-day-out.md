@@ -47,5 +47,4 @@ The ‘Golden Corridor’, a chemical industrial zone that runs from Vadodara to
 
 The most telling photograph of the floods is the picture of joint commissioner of police, K.Kumaraswamy, sitting on the back of a constable while he waded through the shoulder-high water. This image is also symbolic of the plight of Gujarat’s people today. The crocodiles and snakes rule.
 
-*Frontline,* July 16 – 29, 2005 <a href=”http://www.hinduonnet.com/fline/fl2215/stories/20050729003703400.htm
-“>Also available here****
+*Frontline,* July 16 – 29, 2005****

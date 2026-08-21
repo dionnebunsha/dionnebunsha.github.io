@@ -64,4 +64,4 @@ Yet, other costs like those of either buying water from borewells or paying for 
 
 When I visited Malak Nes village, a group of farmers were eager to show me their chappals. They threw their chappals on the floor and told me, “Our chappals have gaping holes and are broken. Can you please send them to Narendra Modi? And ask him which farmer in Gujarat has a Maruti? We can’t even afford a new pair of chappals.”
 
-[![](images/Guj+farmers+suicides+4+IMG_0085.JPG)](http://bp1.blogger.com/_gMPVUAVwmpI/RoZY9pwXs9I/AAAAAAAAAHg/s3ppF6pCn3o/s1600-h/Guj+farmers+suicides+4+IMG_0085.JPG) *Frontline,* June 2-15, 2007 [ Also available here](http://www.hinduonnet.com/fline/fl2411/stories/20070615001604100.htm)****
+[![](images/Guj+farmers+suicides+4+IMG_0085.JPG)](http://bp1.blogger.com/_gMPVUAVwmpI/RoZY9pwXs9I/AAAAAAAAAHg/s3ppF6pCn3o/s1600-h/Guj+farmers+suicides+4+IMG_0085.JPG) *Frontline,* June 2-15, 2007****
