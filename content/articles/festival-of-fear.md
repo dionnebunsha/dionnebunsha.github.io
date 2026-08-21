@@ -46,4 +46,4 @@ Adivasis in the villages surrounding the site of the Kumbh mela know that the en
 
 The Shabari Kumbh Mela is just the start of the Sangh’s work in Dang. Hill stations, intimidation…Locals fear there’s much more to follow.
 
-*Frontline,* Feb. 25 – Mar. 10, 2006 [ Also available here](http://www.hinduonnet.com/fline/fl2304/stories/20060310002803900.htm)****
+*Frontline,* Feb. 25 – Mar. 10, 2006****

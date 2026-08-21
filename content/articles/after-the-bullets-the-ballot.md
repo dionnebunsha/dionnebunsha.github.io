@@ -35,4 +35,4 @@ Even before the economy was ruined by the communal carnage, the state had alread
 
 Modi’s pretending that all these tragedies don’t exist will not make the hard realities in Gujarat disappear. His government even denies that people like Asiabibi exist. Their camp is has been scratched off government records. They remain displaced in their own homeland. The next few months will tell whether Modi’s blinkered and bloody-minded saffron approach to the polls will also make the BJP’s votes vanish.
 
-*Frontline,* August 3 – 16, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1916/19160300.htm)****
+*Frontline,* August 3 – 16, 2002****

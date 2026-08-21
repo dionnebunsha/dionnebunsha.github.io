@@ -35,4 +35,4 @@ Behind the Sheikh family’s constant shifts between fact and fiction seems to b
 
 The grand irony would be if, in this tangled mess of contradictions, the accused are freed, and the Sheikhs are jailed for perjury. 
 
-*Frontline,* Jan. 1 – 14, 2005 [ Also available here](http://www.hinduonnet.com/fline/fl2201/stories/20050114005801700.htm)****
+*Frontline,* Jan. 1 – 14, 2005****

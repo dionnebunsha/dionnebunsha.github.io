@@ -41,4 +41,4 @@ The BJP’s gory, cynical strategy seems to be working. By creating a fear psych
 
 The BJP intends to go full steam ahead with the Godhra issue. The Congress(I) will have to work fast to prevent the election debate from being railroaded. Before theatrics completely takes over politics.
 
-*Frontline,* December 7 – 20, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1925/stories/20021220008000900.htm)****
+*Frontline,* December 7 – 20, 2002****

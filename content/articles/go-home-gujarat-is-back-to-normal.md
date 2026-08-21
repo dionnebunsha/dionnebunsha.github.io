@@ -33,4 +33,4 @@ Although the government insists that Gujarat is back to normal, stray incidents 
 
 Gujarat’s refugees may have disappeared from government lists, but they are still hanging about the relief camps and relatives’ houses, waiting to go back home. Only genuine help, rather than coercion, will actually reduce their numbers. 
 
-*Frontline,* July 6 – 19, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1914/19140970.htm)****
+*Frontline,* July 6 – 19, 2002****

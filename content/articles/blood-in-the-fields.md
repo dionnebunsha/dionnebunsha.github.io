@@ -41,4 +41,4 @@ Yet, the over-riding motive was communal frenzy, effectively stirred up to fever
 
 The recent attacks were a culmination of their strategy. It seems to have paid off for the VHP. Many Muslim bastis are deserted. People are shattered both emotionally and economically. Muslims have been left with nothing but the clothes on their back. Mission accomplished, the Sangh Parivar still refuses to put away their trishuls and loudspeakers, and forget about cow slaughter. Even after the butchering hundreds of people has been completed.
 
-*Frontline* Mar. 16 – 29, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1906/19060150.htm)****
+*Frontline* Mar. 16 – 29, 2002****

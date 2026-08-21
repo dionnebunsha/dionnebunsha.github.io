@@ -31,4 +31,4 @@ Even Haren Pandya’s family is wary of the arrests. “I am of the firm opinion
 
 Ironically, the dreaded ‘terrorists’ seem to keep coming to Narendra Modi’s rescue. His campaign promise to wipe out terrorism from Gujarat helped him win the elections. Now, the arrests of ‘ISI terrorists’ are easing him out of an embarrassing situation.
 
-*Frontline,* May 10 – 23, 2003 [ Also available here](http://www.hinduonnet.com/fline/fl2010/stories/20030523003403900.htm)****
+*Frontline,* May 10 – 23, 2003****

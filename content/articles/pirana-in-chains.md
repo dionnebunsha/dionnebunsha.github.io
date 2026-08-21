@@ -41,4 +41,4 @@ When I met the present religious head, known as Nanakdas Kaka, who calls himself
 
 The durgah administration is adamant on discarding its 600-year-old historian. But many devotees won’t let them forget the past. The chains now binding Imam Shah Bawa’s devotee’s are man-made. It would take a miracle to free them.
 
-*Frontline,* Aug. 28 – Sep. 10, 2004 [ Also available here](http://www.hinduonnet.com/fline/fl2118/stories/20040910002704300.htm)****
+*Frontline,* Aug. 28 – Sep. 10, 2004****

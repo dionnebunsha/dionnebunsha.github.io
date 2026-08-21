@@ -33,4 +33,4 @@ But he still hopes of returning to Ahmedabad. “Gujarat is my desh (country). I
 
 The face that defined the riots also symbolises the situation in Gujarat today. Law and order may be back to normal. But riot victims are still living in fear. Many haven’t returned to their homes. Others like Qutubuddin are running – as far away as possible. 
 
-*Frontline* August 16 – 29, 2003 [Also available here](http://www.hinduonnet.com/fline/fl2017/stories/20030829006101100.htm)****
+*Frontline* August 16 – 29, 2003****

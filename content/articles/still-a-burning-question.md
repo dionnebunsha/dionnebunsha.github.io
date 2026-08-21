@@ -43,4 +43,4 @@ The sequence of events:
 8.05 a.m.: The train stopped again, when the vacuum brakes were applied. Local Muslims, armed with weapons, rushed to catch up with the train. They crowd in separate groups outside the compartment. They started pelting stones and shouting slogans. Coach S6 caught fire.
 8.25 a.m.: Police arrived at the scene and fired to disperse Muslim mob.
 
-*Frontline,* Jan 29 – Feb 11, 2005 [ Also available here](http://www.hinduonnet.com/fline/fl2203/stories/20050211004203200.htm)****
+*Frontline,* Jan 29 – Feb 11, 2005****

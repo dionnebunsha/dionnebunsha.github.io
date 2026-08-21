@@ -32,4 +32,4 @@ The CBI arrested all 12 accused who Bilkis named. Among them were local BJP lead
 
 For Bilkis, who has been fighting the Gujarat administration single-handedly until now, the SC and the CBI have entered like knights in shining armor. Finally, someone listening is to her story. In the last two months, the CBI has done more than the Gujarat police did in almost two years. By digging up the dead, the CBI has exposed the Gujarat police’s complicity. The conspiracy to bury the truth and deny her justice is finally coming to light. Her dear departed are speaking.
 
-*Frontline,* February 28 – March 12, 2004 [ Also available here](http://www.hinduonnet.com/fline/fl2105/stories/20040312002804100.htm)****
+*Frontline,* February 28 – March 12, 2004****

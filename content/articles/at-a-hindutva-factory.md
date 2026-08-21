@@ -78,4 +78,4 @@ After that, the organisers told me they had changed their plans. Instead of the 
 
 As we drove out, the guards had put down their rifles and were napping near the gate. But for the young men inside the camp, it was an awakening…
 
-*Frontline,* June 7 – 20, 2003 [ Also available here](http://www.hinduonnet.com/fline/fl2012/stories/20030620003210000.htm)****
+*Frontline,* June 7 – 20, 2003****

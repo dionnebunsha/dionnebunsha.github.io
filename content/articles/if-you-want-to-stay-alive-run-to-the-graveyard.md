@@ -38,4 +38,4 @@ While refugees are still too scared to venture beyond the camps, although desper
 
 Long-term rehabilitation is still a big question mark, which no one knows how to grapple with. Left with nothing except the clothes on their back, it remains uncertain how the 60,000-odd refugees in Ahmedabad’s relief camps and the thousands of others stranded in rural camps will start their life from scratch again.
 
-*Frontline* Mar. 16 – 29, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1906/19060160.htm)****
+*Frontline* Mar. 16 – 29, 2002****

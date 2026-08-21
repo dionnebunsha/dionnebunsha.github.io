@@ -114,4 +114,4 @@ Salim was at his restaurant when his house in Paldi, a mixed neighbourhood in Ah
 
 Salim and Naeem are reluctant to leave behind their life in Ahmedabad, despite their close brush with death. But they may have no choice. Next time, the mob may bring the matchbox.
 
-*Frontline,* November 9 – 22, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1923/stories/20021122003603500.htm)****
+*Frontline,* November 9 – 22, 2002****

@@ -62,4 +62,4 @@ I want the case to be re-opened but I don’t want to fight it in Gujarat. I am 
 When I came back to Gujarat everyone knew I was back. The media also came to my house. I had to speak.
 Now I am not in Gujarat. I’m in Bombay so now I am not scared. 
 
-*Frontline* July 19 – August 1, 2003 [Also available here](http://www.hinduonnet.com/fline/fl2015/stories/20030801004802600.htm)****
+*Frontline* July 19 – August 1, 2003****

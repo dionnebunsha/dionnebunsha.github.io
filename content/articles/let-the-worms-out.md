@@ -40,4 +40,4 @@ The Srikrishna report recommended that the ‘A’ summary cases should be reope
 
 The re-opening of over 2,000 cases that were closed in Gujarat may expose a Pandora’s box of police complicity and manipulation. The truth is catching up.  
 
-*Frontline,* Aug. 28 – Sep. 10, 2004 [ Also available here](http://www.hinduonnet.com/fline/fl2118/stories/20040910007213200.htm)****
+*Frontline,* Aug. 28 – Sep. 10, 2004****

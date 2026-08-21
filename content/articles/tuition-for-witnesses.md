@@ -44,4 +44,4 @@ Human rights activist Chinu Srinivasan puts it succintly, “Riot victims have g
 
 With the government launching an inquiry into police tutoring, it’s a most unusual situation where a government inquiry is being launched into the workings of a judicial commission of inquiry. Now, whose door will the police knock on next?
 
-*Frontline,* July 5 – 18, 2003 [ Also available here](http://www.hinduonnet.com/fline/fl2014/stories/20030718003502900.htm)****
+*Frontline,* July 5 – 18, 2003****

@@ -47,4 +47,4 @@ Shankar Pawar, the man at the centre of the controversy, explains, “It’s all
 
 Their struggle for both political and economic opportunities may be bitter. But the fact that denotified tribals are attaining and fighting for their piece of the pie is itself a sign of change. It’s becoming more difficult for the powerful to keep them marginalised. Even labels have a shelf life.
 
-*Frontline,* Nov. 10 – 23, 2001 [Also available here](http://www.hinduonnet.com/fline/fl1823/18230480.htm)****
+*Frontline,* Nov. 10 – 23, 2001****

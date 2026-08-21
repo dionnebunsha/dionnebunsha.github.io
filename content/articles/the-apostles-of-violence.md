@@ -41,4 +41,4 @@ While an FIR has been filed by victims of the Naroda Patia massacre against the 
 
 Gujarat’s chief minister declared that that there was a conspiracy to ruin the state, which was jointly hatched in Dubai and Kolkata. But, Modi need not look any further than his own backyard. Things seem to be going according to plan in what the BJP describes as its ‘model state’, a Hindutva experiment that they would like to replicate all over the country. The perpetrators of state-supported terror seem to be getting away scot-free. They continue to keep violence simmering enough to make sure people like Munnabhai never go back home alive.
 
-*Frontline,* March 16 – 29, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1907/19070280.htm)****
+*Frontline,* March 16 – 29, 2002****

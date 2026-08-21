@@ -52,4 +52,4 @@ With land at such a premium, the spaces for the poor are shrinking in every way.
 
 The marginalisation is so acute that it pushes some workers over the edge. To the point where they would rather kill themselves. The economy has become so flexible that some have keeled over.
 
-*Frontline* October 25 – November 7, 2003 [Also available here](http://www.hinduonnet.com/fline/fl2022/stories/20031107004303000.htm)****
+*Frontline* October 25 – November 7, 2003****

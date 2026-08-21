@@ -45,4 +45,4 @@ Modi has tried reviving the party’s flagging popularity using a militant Hindu
 
 The continuing violence seems to be laying the ground for the big fight ahead. It’s time for free and unfair elections in India’s Wild West.
 
-*Frontline,* Apr. 27 – May 12, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1909/19091250.htm)****
+*Frontline,* Apr. 27 – May 12, 2002****

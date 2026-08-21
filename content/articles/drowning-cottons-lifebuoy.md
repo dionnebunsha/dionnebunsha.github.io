@@ -41,4 +41,4 @@ Deriding the free trade argument, Jawandhia points out no such thing exists. Int
 
 While farmers struggle to keep their head above water, whether Indian agriculture sinks or not finally depends on what policies the government chooses to adopt. Only by turning the tide on liberalisation can the government prevent small farmers like Nirmala from being left to brave the winds alone.
 
-*Frontline,* Jan 19 – Feb 1, 2002 [ Also available here](http://www.hinduonnet.com/fline/fl1902/19020430.htm)****
+*Frontline,* Jan 19 – Feb 1, 2002****

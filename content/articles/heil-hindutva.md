@@ -45,4 +45,4 @@ A valid question, considering the mess the BJP government has created over the l
 
 Now, comes Modi’s real test. He can’t cry about the Godhra martyrs anymore. The riot strategy has been exhausted. Hindutva has taken him as far as it could. It’s now time for him to show his stuff. This is Modi’s full monty. 
 
-*Frontline,* December 21, 2002 – January 03, 2003 [Also available here](http://www.hinduonnet.com/fline/fl1926/stories/20030103005900400.htm)****
+*Frontline,* December 21, 2002 – January 03, 2003****

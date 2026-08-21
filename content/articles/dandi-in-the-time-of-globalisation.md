@@ -41,7 +41,7 @@ The start and end of the Yatra were particularly chaotic since Congress(I) presi
 
 The Dandi March 2005 may have been chaotic, some might call it a Gandhian ritual, but the goodwill it generated and the crowds it attracted proves that in the hearts of thousands like Rajkumar, the Mahatma lives on.
 
-*Frontline* April 23 – May 6, 2005 [Also available here](http://www.hinduonnet.com/fline/fl2209/stories/20050506001811200.htm)****
+*Frontline* April 23 – May 6, 2005****
 
 ———————————————————————————
 
@@ -88,4 +88,4 @@ The British government spent weeks deliberating whether they should arrest Gandh
 
 *(Sources: www.mahatma.org.in, www.mkgandhi.org, http://en.wikipedia.org/wiki/Main_Page)*
 
-*Frontline* April 23 – May 6, 2005 [Also available here](http://www.hinduonnet.com/fline/fl2209/stories/20050506001811300.htm)****
+*Frontline* April 23 – May 6, 2005****

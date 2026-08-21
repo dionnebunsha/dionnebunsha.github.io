@@ -35,4 +35,4 @@ Haven’t political parties tried to gain control over this co-operative? “The
 
 The Hutatma model may baffle management gurus who believe that only men in suits are qualified to manage corporations. The co-operative’s 8,000 members have crafted a different brand of business. They know what’s best for them. Their final aim is prosperity, not profit. 
 
-*Frontline,* September 13 – 26, 2003 [ Also available here](http://www.hinduonnet.com/fline/fl2019/stories/20030926002304000.htm)****
+*Frontline,* September 13 – 26, 2003****

@@ -36,4 +36,4 @@ Some involved in the riots have even been rewarded with tickets. The most promin
 
 The communal carnage has been a wake-up call for the Muslim community. This time, they are braving the threats to vote for their survival. They are determined not to waste a single vote. As Rashid from Maninagar puts it, “This time, we don’t care. Even if our houses are burning, we will go to cast our vote.”
 
-*Frontline,* December 7 – 20, 2002 [Also available here](http://www.hinduonnet.com/fline/fl1925/stories/20021220007301300.htm)****
+*Frontline,* December 7 – 20, 2002****
