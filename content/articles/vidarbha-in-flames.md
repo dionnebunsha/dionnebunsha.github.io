@@ -12,8 +12,6 @@ DIONNE BUNSHA
 
 In Vidarbha, Maharashtrax
 
-http://dionnebunsha.wordpress.com/
-
 It was time for a reality check. In the safe confines of the legislative assembly, Maharashtra’s politicians witnessed a dose of the real world last week. Gulabrao Gavande, a Shiv Sena legislator, wanted them to wake up to the daily tragedy of the Vidarbha countryside. So, he rushed to the floor of the assembly and poured a bottle of kerosene on himself. Then, he opened a bottle of pesticide and was about to swallow it when other legislators rushed to stop him. Gavande was banned from attending the rest of the session.
 
 His recklessness could have set the entire house on fire – literally. But his shocking suicide attempt ignited a fiery debate about the government’s neglect of the agricultural crisis in the underdeveloped Vidarbha region of eastern Maharashtra. Farmers’ suicides are on the rise. Everyday, a few more deaths are reported in local newspapers. But so far the state has not addressed this alarming tragedy. A defensive chief minister promised to announce a ‘package’ for Vidarbha’s farmers, but was not willing to say anything more. The opposition too has no creative solutions to offer. Shiv Sena leader Uddhav Thackeray rushed to Vidarbha and assured farmers his party’s muscle power to bash up moneylenders and bank officials who harass them.
