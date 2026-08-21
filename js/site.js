@@ -180,7 +180,8 @@ function markdownToHtml(md) {
       const nextIsTag = next && (next.startsWith('<h') || next.startsWith('<ul') ||
         next.startsWith('<blockquote') || next.startsWith('<hr') ||
         next.startsWith('<img') || (next.startsWith('<a') && next.includes('<img')));
-      if (next && !nextIsTag) {
+      const isLikelyCaption = next && !nextIsTag && next.length < 250;
+      if (isLikelyCaption) {
         result.push(`<figure>${block}<figcaption>${next.replace(/\n/g, '<br>')}</figcaption></figure>`);
         i++; // skip caption block
       } else {
