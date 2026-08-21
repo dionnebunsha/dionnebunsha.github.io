@@ -4,9 +4,7 @@
     { src: 'images/ClayoquotSound.jpg',  caption: 'Clayoquot Sound, British Columbia' },
     { src: 'images/Himalaya.jpg',        caption: 'Himalaya' },
     { src: 'images/GangotriMtns.jpg',    caption: 'Gangotri' },
-    { src: 'images/danti4.jpg',          caption: 'Coastal Gujarat' },
     { src: 'images/himalaya2.jpg',       caption: 'Himalayan Landscape' },
-    { src: 'images/sugarcane1.jpg',      caption: 'Sugarcane Fields' },
   ];
   var slide = document.querySelector('.gallery-slide');
   var captionEl = slide && slide.querySelector('.gallery-caption');
@@ -24,11 +22,11 @@
       current = next;
       if (dots[current]) dots[current].classList.add('active');
       slide.style.opacity = '1';
-    }, 600);
+    }, 1000);
   }
 
   function startTimer() {
-    timer = setInterval(function() { goto(current + 1); }, 5500);
+    timer = setInterval(function() { goto(current + 1); }, 6000);
   }
 
   window.galleryGoto = function(n) { clearInterval(timer); goto(n); startTimer(); };
