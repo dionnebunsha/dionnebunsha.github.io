@@ -18,7 +18,9 @@ After spending almost Rs 70,000 on his land holding of 28 acres his returns were
 With a massive crop loss in the last year, 82 suicides by farmers were reported in the state. Sixty of these were in the Vidarbha region, where more than half the crop was ravaged by unseasonal rains and hail during the harvest season. Attributing most of the deaths to extraneous factors like “family problems”, the state government has given monetary compensation to only 10 of the victims’ families.
 
 While the state government nitpicks over doling out compensation, defects underlying the agricultural economy, which push farmers to the edge, say observers. By attributing the crisis to a ‘natural calamity’, the government has conveniently shrugged off responsibility for its failure to tackle the real problems – meagre bank credit, reliance on moneylenders, faulty agricultural practices and exploitation by traders.
+
 [![](images/1998-07-01 Bitter Harvest 1.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/1998-07-01%20Bitter%20Harvest%201.jpg)
+
 Marginal support from the mainstream banking sector has led to an overweaning dependence on money lenders. According to estimates of the Vidarbha Shekari Janandolan Samiti, banks lend only 10 per cent of Vidarbha’s credit requirements. “Banks favour big farmers. Others are forced to rely on the money lenders, who charge interest ranging from 60 to 120 per cent per year. In addition, some people have to mortgage their land or house,” says Dilip Ikhad, a marginal farmer from Anjangaon Bari in Amravati district.
 
 According to farmers, the amount disbursed by the ban does not even cover half the cost of agricultural inputs like seeds, fertilisers and labour. “this has resulted in unscientific agricultural practices,” says B.T. Talhande, joint director of agriculture, Amravati.

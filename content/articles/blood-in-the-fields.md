@@ -18,6 +18,7 @@ Akhtar Husain Sayyed, who survived the Pandharvada attack, narrates this chillin
 The elderly Nathubhai Sheikh saw his two sons hacked to death. When a mob attacked the Muslims in Pandharvada, he ran into the fields and saw his two sons being attacked by people with swords. His third son is still missing. “I hid in the wilderness for a few days, until the military found me and took me to Lunawada relief camp. From there, one of my relatives from Godhra brought me to his house,” he said. 
 
 [![](images/2002-03-16 guj 1 rural violence pic 10001.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/2002-03-16%20guj%201%20rural%20violence%20pic%2010001.jpg)
+
 **Survivors of the Pandharvada village massacre in hiding in Godhra**
 In the violence which followed the burning of a compartment on the Sabarmati Express near Godhra, rural Gujarat has, for the first time, witnessed heinous attacks on Muslims. Throughout Gujarat’s gory history of communal clashes, cities and small towns have had their fair share of communal violence. But rural Gujarat remained untouched. This time, however, since the attacks are part of the Sangh Parivar’s diabolic design, Gujarat’s villages have been included in the saffron ‘cleansing’ process. Most cases of violence were not riots, but well-orchestrated attacks. They did not involve a clash between two communities. It was the systematic hunting out of Muslims.
 
@@ -28,6 +29,7 @@ Rural Gujarat has never witnessed such a brutal and calculated witch-hunt. In Pa
 Children and women have also been targets. In Anjanva village in Panchmahal, 11 people, died when they were thrown into a well. Four of them were children. Maksooda and Hanif Rahim lost their young children, aged three and two years, in the attack. Along with Maksooda, the infants were thrown into the well by a mob that attacked the village’s Muslim basti. “People came from other villages and started burning our houses. We all ran, but some of us were caught and thrown into the well,” says Maksooda who was the only one rescued from the well by the police. The rest were already dead. She suffered head injuries and is being treated at the Godhra general hospital. They are safe for now, but Hanif and Maksooda have nowhere to go after Maksooda has been discharged from hospital.
 
 [![](images/2002-03-16 Guj 1 rural violence pic 4.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/2002-03-16%20Guj%201%20rural%20violence%20pic%204.jpg)
+
 **Survivors of the Anjanva village massacre recovering in Godhra civil hospital**
 In some villages, local Sangh Parivar activists even warned the Muslims of their impending doom. “On the night before the VHP bandh, the sarpanch and RSS chief of the village came to my house and told me that we (Muslims) should leave by morning or there would be trouble,” says Himmat Khan, a resident of Sundarpura village in Mehsana. But the community decided to stay on. “There was a bandh. We were scared there would be trouble outside. When the mob came in the evening and burned our houses, we all ran to our Muslim friends in Sardarpura village nearby. They were also attacked within a few hours,” he says.
 

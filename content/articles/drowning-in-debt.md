@@ -24,6 +24,7 @@ Manjurabai Thakur found her husband Hari (60) lying dead in the fields two days 
 Manjurabai was forced to lease out her tiny plot. “I try to find work in the fields to run the house,” she says. “When the school term begins, I will request the schoolmaster to give my grandchildren note books. There is not enough food in the house and we wait for the khichdi that the younger one brings back from his balwadi.”
 
 [![](images/1998+Bitter+Harvest+3+pic.jpg)](http://bp3.blogger.com/_gMPVUAVwmpI/Rd7zEuNpNcI/AAAAAAAAAAk/599CEkdsO3s/s1600-h/1998+Bitter+Harvest+3+pic.jpg)
+
 Repaying debts to moneylenders at interest rates of 60 to 120 per cent has pushed several families like Manjura’s to the brink. At the root of the problem is the weak rural banking system here, which caters only to a small section. Bank credit accounts for a mere Rs 256 crore of Vidarbha’s total credit requirement of Rs 2,456 crore, according to Kishor Tiwari, a local BJP activist.
 
 Banks seems unlikely to increase their credit in the near future since they have recovered only 5 to 13 per cent of crop loans, due to last year’s climatic crisis. The few large farmers who do receive credit say that the amount of money given per hectare does not meet all expenses. It is less than half the amount recommended by the agriculture department and the National Bank for Agriculture and Development (NABARD).

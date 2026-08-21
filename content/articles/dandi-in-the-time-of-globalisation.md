@@ -35,7 +35,9 @@ In some sections of the media and amongst a few of the yatris, there was critici
 The yatra may not have been held if not for the Congress(I). Tushar Gandhi, organiser of the event and also Gandhiji’s great grandson, could not find any sponsors and hence approached the Congress(I). They took care of a large part of the expenses, their volunteers and party workers arranged for food and accommodation at every stop. The Yatris, foreign or Indian, didn’t have to pay a penny. 
 
 The start and end of the Yatra were particularly chaotic since Congress(I) president Sonia Gandhi, accompanied by heavy security, joined the march. The day after the march ended, the Congress(I) held a huge public meeting on the shores of Dandi attended by Mrs. Gandhi and Prime Minister Manmohan Singh. The rally had an estimated two to three lakh crowd, one of the biggest ever witnessed in Gujarat, far greater than the BJP’s various Ram Yatras and Modi’s Gaurav Yatra. Only the Mahatma’s name could attract such a vast gathering. The entire road to Dandi was jammed, the beach crowded. People coming in trucks couldn’t reach in time for the meeting. In Gujarat, where the Congress(I) is weak compared to the BJP, the response to the yatra made the BJP nervous. On the day after the yatra left Sabarmati Ashram , the BJP swept and washed the ashram to ‘purify and cleanse’ it after the Congress’ yatris set foot inside.
+
 [![](images/dandi photo 1.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/dandi%20photo%201.jpg)
+
 **Sonia Gandhi at Dandi 2005**
 “Why shouldn’t the Congress(I) be part of this march? In Gujarat, if we want to defeat communal forces like the BJP, the only legitimate force is the Congress(I),” said Tushar Gandhi. But isn’t it hypocritical that a party implementing policies that welcome imperialism should be sponsoring the Dandi March, which was held to defy foreign domination and assert independence? “Some people may call it tokenism but such marches help us focus on certain ideals. It reminds people and makes them aware of what Gandhi stood for. I couldn’t believe it when people would stop their cars on the road and rush to touch the feet of our Gandhi look-alike,” said Tushar Gandhi.
 
@@ -48,7 +50,9 @@ The Dandi March 2005 may have been chaotic, some might call it a Gandhian ritual
 **In the Mahatma’s footsteps**
 
 *Conversation with **Shantibhai Sakarchand Shah **(83), a satyagrahi from Anand, Gujarat*
+
 [![](images/dandi photo 2 old gandhian.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/dandi%20photo%202%20old%20gandhian.jpg)
+
 “I am not going to criticise this march. It’s good that new people come to know who Gandhi was. They know about Amitabh Bachchan but they know nothing about the father of the nation, Mahatma Gandhi. This march may be a drama or whatever, but at least it has triggered interest in children.
 
 It was said that the sun never set on the British empire. Gandhi didn’t even use a stick, but the British feared him. He instilled the thought that man is born free and that we will take Swaraj, our birthright, there is no need to ask for our rights. 
@@ -78,7 +82,9 @@ When people ask me, where do you stay, I say I am nowhere. It has two meanings: 
 On 26th January 1930, the Indian National Congress led by Gandhi and Nehru issued a Declaration of Independence and decided to launch a mass Civil Disobedience movement.  Gandhi decided to make the salt tax the rallying point for the satyagraha, as salt was an essential commodity and the salt tax on it affected all classes, especially the poor. The salt tax gave the British government a monopoly on the production and sale of salt. It was a criminal offence for anyone else to produce salt. Even though salt was readily available on the coast, people could not pick it up and consume it.
 
 Before setting out on his march, Gandhiji sent the Viceroy a letter asking him to revoke the law, but it had no effect. On March 12, 1930, he set out from Sabarmati Ashram in Ahmedabad with 78 other male satyagrahis on a 386 km walk to Dandi. Hundreds joined them while they walked. En route, they stopped at villages and mobilised people for the civil disobedience movement. They encouraged government employees to quit their jobs, students to leave school and college and join the revolution. In villages along the way, 227 villages headmen resigned from their jobs. Gandhiji told them that the salt satyagraha was only one battle on the road to Swaraj (self rule). All over the country, meetings were held in response to the march, salt was produced, British goods were boycotted. 
+
 [![](images/dandi photo 3 gandhi.jpg)](http://photos1.blogger.com/blogger2/480/4442/1600/dandi%20photo%203%20gandhi.jpg)Photo: Mahatma Gandhi Foundation
+
 “Today we are defying the salt law. Tomorrow we shall have to consign other laws to the waste paper basket. Doing so we shall practise such severe non-cooperation that finally it will not be possible for the administration to be carried on at all. Let the government then carry on its rule, use guns against us, send us to prison, hang us. But how many can be given such punishment? Try and calculate how much time it will take a lakh of Britishers to hang 30 crore persons,” said the Mahatma.
 
 On 6th April, they reached the shores of Dandi where Gandhi picked up a handful of sand and salt and said, “With this, I am shaking the foundations of the British Empire.” His satyagrahis then boiled sea water to make salt, which was later auctioned for the cause.

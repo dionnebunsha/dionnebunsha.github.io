@@ -10,13 +10,16 @@ description: "On February 27, 2002, the Sabarmati Express was torched in Godhra 
 The violence has died down, but the wounds remain. The communal divide has widened. The Sangh Parivar’s propaganda machine has worked to feed the prejudices against the minority community. By creating a wave of hatred and insecurity, Chief Minister Narendra Modi won a big victory in the Assembly elections held in December 2002. The State is still not fully free of communal violence. The tension is palpable. Small incidents of violence keep occurring. A year after, **Dionne Bunsha** travels around Gujarat to meet people still reeling from the aftermath.
 
  Pictures: Ashima Narain*
+
 [![](images/guj-merged-1.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/105898/2003-03-01%20G%2B1%20-%20MERGED%20photo%201.jpg)**Inside the coach of the Sabarmati Express that was burnt at Godhra on February 27, 2002. **
 
 *SIGNAL FALIA*
 **Notorious**
 
 “Look! All of India’s mosquitoes congregate here,” says Mohsin Pathan, a motor parts shop owner. “People are constantly falling ill. At a time when we have no money for food, we are paying hefty medical bills. I recovered from malaria just three days ago. The municipal workers do not clear the garbage or the drains. We are living in a gutter.” 
+
 [![](images/guj-merged-2.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/644912/2003-03-01%20G%2B1%20-%20MERGED%20photo%202.jpg)**Branded criminals, Signal Falia’s residents still live with the stigma. **
+
 Mohsin lives in Signal Falia, the now-notorious neighbourhood in Godhra where a mob assembled to attack the Sabarmati Express. Since then all the residents of Signal Falia have been branded `criminals’. 
 
 It has been tough living with the label. “The municipal authorities do not bother to clean up this neighbourhood. There is hardly any water supply. We have to fill water from a hand pump situated 3 km away. For the past 10 days, we have been getting power supply only for two to three hours. When I called up the electricity board to complain, they said, `Go back to Pakistan. What are you still doing here?’ This is our condition today. They want to harass us, destroy our businesses. They want us to leave,” says Mohsin. 
@@ -24,7 +27,9 @@ It has been tough living with the label. “The municipal authorities do not bot
 “For months on end, people have been starving,” says Anwar Kurkur (27), a computer operator at a local maternity hospital. “Most people in the neighbourhood are daily wage earners. They are scared to go out for fear of being arrested. People have stopped coming to shops owned by Muslims. If this continues, the local economy will collapse.” 
 
 Frequent raids and arbitrary arrests have made the local youth experts at quick escape. “When the police come, all the local men run into the nearby bushes. We never had to run like this earlier. Now the entire neighbourhood has been blamed. Politicians have spoiled our name. They forget to mention that during the post-Babri Masjid riots, our town was calm,” says Anwar. 
+
 [![](images/guj-merged-3.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/358546/2003-03-01%20G%2B1%20-%20MERGED%20photo%203.jpg)
+
 Godhra has a long history of communal discord. However, in the last decade, it remained free of violence and business ties between the large Ghachi Muslim and the Sindhi communities strengthened. 
 
 Within Godhra, ghettoisation is complete. “Most of my friends are Hindus. But we can’t visit each other’s houses anymore. I hardly meet them. Sometimes, I bump into them on the street,” explains Anwar. “For months I have not been to the main market, which is a Hindu area. Muslim children have been shifted out of schools in Hindu localities.” 
@@ -37,7 +42,9 @@ Godhra’s residents are trying hard to brush off the black paint that has tarni
 **Twice Bitten**
 
 “They (local Vishwa Hindu Parishad members) have not shown us their faces since my husband’s funeral. He worked for them. They talk of protecting Hindus. It is ironic that two members of our family died because they were involved in their work,” says Bela Rawal. Her husband, Ashwin (42), a VHP worker, was stabbed during the riots. 
+
 [![](images/guj-merged-4.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/204790/2003-03-01%20G%2B1%20-%20MERGED%20photo%204.jpg)**Bela Rawal at her home in Ramol, Ahmedabad.**
+
 The family suffered a double blow in the Gujarat violence. Bela’s mother-in-law, Sudhaben (75), was one of the Ramsevaks who were killed in the Sabarmati Express fire. Sudhaben went to Ayodhya as part of the VHP’s delegation from Ramol in Ahmedabad. The trip was a freebie – all expenses paid. Each VHP worker in Ramol sent a family member as part of the Ramsevak contingent. Around 11 victims of the Godhra violence were from Ramol. 
 
 The neighbourhood remained peaceful during the VHP-sponsored bandh. Later, on April 16, Ashwin and his VHP friends were killed by a mob while they were walking home from work. 
@@ -56,7 +63,9 @@ The families of those who died in the Godhra violence do not want revenge. Why i
 **Rent for Refuge**
 
 In the day, it buzzes with activity. But at night, it looks like a ghost town. This is Naroda Patiya, known nationwide as the place where a blood-thirsty mob slit a pregnant woman’s belly. More than 83 people were killed here in one of the most gory massacres in Gujarat. It may not be safe to live here again. 
+
 [![](images/guj-merged-5.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/166570/2003-03-01%20G%2B1%20-%20MERGED%20photo%205.jpg)**Boys of Naroda Patiya playing marbles. They don’t want to go back to school after they were taunted by the teachers.**
+
 “My children are not willing to live here. They are scared. They saw what happened,” says Allauddin Mansoori, a mechanic. Like many others, he comes here for work but does not feel it is safe to live here. “In the evenings we go to Shah Alam, where we have rented a room. It has a large Muslim population. Here, we are surrounded on all sides by Hindu bastis.” The drive to Shah Alam takes 45 minutes. But many families feel it is worth the effort and the expenses incurred. 
 
 “Come here after 9 p.m. and you will see how many people have left, how many doors are shut. People are still scared to sleep here,” says Allauddin. 
@@ -83,12 +92,15 @@ The relief camps have closed. Now Naroda Patiya’s residents are paying rent fo
 **The Grind**
 
 [![](images/guj-merged-6.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/249927/2003-03-01%20G%2B1%20-%20MERGED%20photo%206.jpg)
+
 They would win the Survivor, reality show on TV, hands down. Except, their life is no game show. The last remains of Ahmedabad’s refugees. Nineteen families lived in a few tents pitched on a dusty field in Jehangirnagar at Vatva, on the outskirts of Ahmedabad, for almost a year. 
 
 Four families crammed in each tent, they endured heavy rains, sweltering heat and biting cold. They suffered curses as they collected a few cans of water from a tap in the neighbouring colony. Sometimes, they sneaked a bath behind a sheet of tarpaulin. 
 
 Just when they thought it could not get much worse, they were denied even this much. On February 10, they were forced to vacate the camp. The owner of the plot felt he could not extend his generosity any longer. This correspondent reached the camp site on the day they had to leave. 
+
 [![](images/guj-merged-7.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/932735/2003-03-01%20G%2B1%20-%20MERGED%20photo%207.jpg)**A boy flying a kite at the Vatva camp on the day the refugees were to be evicted.**
+
 Panic prevailed. Where next? “We’ve spent sleepless nights wondering where to go. The local relief committees told us to rent rooms until they built houses for us nearby. But we barely have any money for food. Paying rent is impossible. That is why we are here,” said Parvin Banu Memon, one of the refugees. “We can’t go back home. We were just a few Muslim houses in a Hindu basti. It is not safe for us now.” Parvin had a textile trading business. Now, she earns barely Rs.300 a month by washing dishes. “I have not been able to pay my son’s school fees for four months. We get leftovers from our employers or food from the relief committee. That is life in the camp. Days go by without us lighting the stove to cook,” she says. 
 
 The Vatva refugees’ anxieties were relieved later that day. The relief committee managed to shift them to rented houses in the area. Two families have fled from these rented rooms. They felt it was too close to the Hindu colony. 
@@ -99,13 +111,17 @@ How long can they continue to live like gypsies in their own neighbourhood? With
 **Ghettoes in the countryside**
 
 A cinema hall is probably the last place you’d find refugees. But in Vadali town in Sabarkantha district, exiles from six nearby villages have been camping in a cinema for almost a year. 
+
 [![](images/guj-merged-8.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/45728/2003-03-01%20G%2B1%20-%20MERGED%20photo%208.jpg)**Driven away from their villages, refugees have lived in tents at the Vadali camp for almost a year.** 
+
 These are people who are still intimidated by the powerful Patels and Vishwa Hindu Parishad members in their villages. They have been living in tents – six people crammed into a small tent – in the most difficult conditions, under the scorching sun or in heavy downpour. But it is safer than going back home. A local relief committee has bought a plot of land here and is building homes for the refugees. 
 
 The refugees – victims of communal cleansing – have been banished from their villages. “What can we go back to? Everything is burned to ashes. It is dangerous for us even to enter the village,” says Mohammedbhai Mansoori from Lakshmipura village. A few months ago, four women went back to check their homes. They were hounded out. Eventually, the police had to rescue them. The upper-caste people put up posters proclaiming a “Muslim-free village”. The posters were brought down after others complained to the police. 
 
 Representatives from a charitable organisation that attempted to rebuild broken houses were chased away. “They have instructed jeep/taxi drivers not to bring Muslims into the village,” says Mohammed. 
+
 [![](images/guj-merged-9.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/143130/2003-03-01%20G%2B1%20-%20MERGED%20photo%209.jpg)**At the Vadali camp.**
+
 Refugees have survived for a year not only without a roof over their heads, but also without work. While barely managing a subsistence wage, many of them have taken loans from moneylenders. The interest rates vary from 60 to 120 per cent per annum. 
 
 Mohammed owned a mattress shop in his village, which was destroyed. Now he hawks in streets near the camp. “There is no work. Somehow we try to make ends meet. The relief committee has helped us with rations. Once we get a house, we shall think how to start life again,” he says. 
@@ -116,7 +132,9 @@ If the government is to be believed, all relief camps closed in June. And the re
 **Social boycott **
 
 After living as a refugee for months on end, Sattarbhai returned to his home in Kariadra village in Sabarkantha distrcit, four months ago. Yet, there are times when he has to run back to the relief camp in Vadali town. 
+
 [![](images/guj-merged-10.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/489279/2003-03-01%20G%2B1%20-%20MERGED%20photo%2010.jpg)**One of the few who have dared to go back to their village, Derol.**
+
 “The powerful Patels want to empty the village of Muslims. They try to pick a fight and create trouble. They just quarrelled with a Muslim shopkeeper. I have come here (the camp) to ask for police security,” says Sattarbhai. Sangh Parivar activists in his village have enforced a boycott of Muslims. 
 
 “For two months, they wouldn’t let anyone sell us groceries or milk. The relief committee had to send us rations. They threaten anyone who buys from a Muslim shop. In school, Muslim children are asked why they are going for namaaz (prayers),” says Sattarbhai. 
@@ -129,7 +147,9 @@ In Derol village in Sabarkantha, 18 of the 28 Muslim families have returned home
 
 **Uncommon heroes **
 “WHILE the rest of Gujarat burned, we knew we would remain untouched. Even though we are surrounded by Hindu houses, we were sure we wouldn’t be attacked. In the colony just behind us, there were riots, but they didn’t affect us,” says Hisam Bootwala from Momnavad in Ahmedabad. 
+
 [![](images/guj-merged-11.jpg)](http://photos1.blogger.com/x/blogger2/480/4442/1600/406921/2003-03-01%20G%2B1%20-%20MERGED%20photo%2011.jpg)**Hisam Bootwala from Momnavad. **
+
 Hisam’s neighbourhood is in the Shahpur area of Ahmedabad’s old city. Over the years, there have been riots just across the fence, but not in their basti. “We have lived together peacefully for almost a century,” says Hisam. “This time, our Hindu neighbours gave us food because we couldn’t leave our homes. They used to remind us to go for namaaz. But we didn’t want to venture out because of the curfew.” 
 
 Neighbourhoods such as Momnavad were the positive stories at a time when there were deliberate efforts at inciting hatred and violence. Adversity brought out the best in people. In Fatehpura village of Sabarkantha, women sarpanches Daniben Vankar and Taraben Baraiya took the lead in ensuring that their village remained peaceful. In fact, while other villages organised funerals, these villages celebrated weddings. Daniben even organised the nikaah of a girl from her village who was to get married but fled to Surat fearing violence. “We called her back. The entire village helped arrange the wedding. I was one of the witnesses,” says Daniben. 
