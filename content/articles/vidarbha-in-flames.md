@@ -24,7 +24,9 @@ A son of the soil, Gavande uses the methods he knows best. “Only I have the st
 
 Mounting debts are just a symptom of the crisis in agriculture. The crux of the problem is profitability, not only for the cotton crop, but also for others like oranges, soya, wheat, jowar, chillies or paddy. “The prices of all products have risen dramatically over the years. Our input costs have also shot up. But for the last 10 years, the price we get for our crop has remained the same,” says Jitendra Tatte, a large cotton and orange farmer from Lehegaon in Amravati. Input costs for his 60-acre farm have drowned him in debt. The more he cultivates the more his losses. “Everyone is in the same distress. Some have committed suicide. The rest of us live in agony.”
 
-[![](images/2005-12-17+vidarbha+suicides+pic.jpg)](http://bp2.blogger.com/_gMPVUAVwmpI/Rg5LoHpOvnI/AAAAAAAAADw/EEm_tXtAaLQ/s1600-h/2005-12-17+vidarbha+suicides+pic.jpg)**At a cotton farm****Photo: Dionne Bunsha**
+[![](images/vidarbha-cotton-field.jpg)](images/vidarbha-cotton-field.jpg)
+
+At a cotton farm. Photo: Dionne Bunsha
 
 Tatte rattles off several statistics to prove his point. “In the last ten years, the price of soya oil has increased from Rs 25 per litre to Rs 45. But have been selling soyabean at the same price of Rs 900 per quintal since then. How do you expect us to survive?” he asks. “Why doesn’t inflation apply to our produce? Why do farmers have to starve so that the rest of the country gets cheap food?”
 
