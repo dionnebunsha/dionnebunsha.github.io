@@ -24,7 +24,7 @@ There have been 680 suicides up to August 2006 – more than three per day – i
 
 <a href="http://bp1.blogger.com/_gMPVUAVwmpI/RoY-8pwXsrI/AAAAAAAAAFQ/L8D-qqba7Lk/s1600-h/Mah+farm+crisis-+vidarbh+map.jpg"><img src="images/Mah+farm+crisis-+vidarbh+map.jpg" style="width:50%; height:auto;"></a>
 
-Vidarbh borders the cotton belt of Andhra Pradesh, where peasants’ suicides have also spiralled. The suicides are the most desperate sign of a much larger agrarian crisis. “There’s not much difference between those who killed themselves and those of us who are still living. Everyone is in the same distress,” said Jitendra Tatte, a cotton and orange farmer, with a huge farm of 60 acres in Lehegaon village, Amravati.
+<p>Vidarbh borders the cotton belt of Andhra Pradesh, where peasants’ suicides have also spiralled. The suicides are the most desperate sign of a much larger agrarian crisis. “There’s not much difference between those who killed themselves and those of us who are still living. Everyone is in the same distress,” said Jitendra Tatte, a cotton and orange farmer, with a huge farm of 60 acres in Lehegaon village, Amravati.</p>
 
 Killing debt is just the consequence, not the cause of the farm crisis. The crux of Chandrakant’s problem was something beyond his control – high costs, low produce prices. The minimum support price for cotton (Rs 1,750) fetches less than one-fourth the cost of cultivation in Maharashtra. “In the last 10 years, the prices of farm inputs have risen dramatically. Urea was Rs 80 per bag, it’s now Rs 280. A bottle of pesticide was Rs 40, but now it’s Rs 240. But, the state government lowered the procurement price from 2,250 last year to Rs 1,750 per quintal. How can we survive?” asked Prahlad.
 

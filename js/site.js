@@ -178,7 +178,7 @@ function markdownToHtml(md) {
       // Check if next block is a caption (plain text, not another tag/image)
       const next = blocks[i + 1];
       const nextIsTag = next && (next.startsWith('<h') || next.startsWith('<ul') ||
-        next.startsWith('<blockquote') || next.startsWith('<hr') ||
+        next.startsWith('<blockquote') || next.startsWith('<hr') || next.startsWith('<p') ||
         next.startsWith('<img') || (next.startsWith('<a') && next.includes('<img')));
       const isLikelyCaption = next && !nextIsTag && next.length < 250;
       if (isLikelyCaption) {
@@ -188,7 +188,7 @@ function markdownToHtml(md) {
         result.push(`<figure>${block}</figure>`);
       }
     } else if (block.startsWith('<h') || block.startsWith('<ul') || block.startsWith('<blockquote') ||
-      block.startsWith('<hr')) {
+      block.startsWith('<hr') || block.startsWith('<p')) {
       result.push(block);
     } else {
       result.push(`<p>${block.replace(/\n/g, '<br>')}</p>`);
