@@ -4,7 +4,6 @@ date: "2015-06-08"
 categories: ["Environment", "Globalization", "Human Rights"]
 publication: "Frontline"
 description: "New Internationalist, December 2014."
-cardDescription: "India's rightwing government attacks NGOs in an attempt to undermine people's movements."
 ---
 
 **DIONNE BUNSHA**

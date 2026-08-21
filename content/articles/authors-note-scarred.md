@@ -4,7 +4,6 @@ date: "2014-05-16"
 categories: ["Gujarat Violence", "Human Rights"]
 publication: "Frontline"
 description: "A compartment of the Sabarmati Express from Varanasi to Ahmedabad is set on fire at 8.05 a.m. after a fight at the Godhra station platform between Hindu activists on the train and a Muslim tea vend..."
-cardDescription: "During the VHP bandh the next day, mobs target Muslims in Ahmedabad, Baroda and villages in 20 of Gujarat’s 26 districts, but mainly in north and central Gujarat. More than 1,000 people were killed."
 
 ---
 
