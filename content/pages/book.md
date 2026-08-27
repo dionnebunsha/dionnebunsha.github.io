@@ -32,3 +32,5 @@ What exactly happened in Gujarat in February 2002? Why did the country's politic
 – **JUST BOOKS, NDTV**, Sunil Sethi
 
 [Buy Now](http://www.amazon.com/gp/product/0144000768/103-6867771-3367839?v=glance&n=283155)
+
+[Watch the Interview](https://www.youtube.com/watch?v=F3JFVMPkIOc)
