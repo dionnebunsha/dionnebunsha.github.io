@@ -45,7 +45,7 @@ const ARTICLES = [
   { slug: "gone-with-the-waves", title: "Gone with the Waves", date: "2013-10-16", categories: ["Climate Change", "Environment", "Human Rights"], description: "Rapid sea invasion along the Gujarat coast is forcing families of fishermen to abandon the sea and their homes.", image: "images/danti1.jpg", featured: true },
   { slug: "the-wettest-place-on-earth-gets-even-wetter-with-climate-change", title: "The Wettest Place on Earth Gets Even Wetter with Climate Change", date: "2008-08-01", categories: ["Climate Change", "Environment"], description: "The world's wettest place, Cherrapunjee, now does not get regular rains and its agricultural economy is in great danger.", featured: false },
   { slug: "sikkim-heating-up-but-losing-its-spice", title: "Sikkim: Heating Up But Losing Its Spice", date: "2008-05-01", categories: ["Climate Change", "Environment"], description: "As global warming reshapes India's smallest state, a blight epidemic driven by shifting temperatures and rainfall is wiping out Sikkim's cardamom crop and the farmers who depend on it.", image: "images/sikkim-forest-undergrowth.jpg", featured: false },
-  { slug: "seeds-soldier", title: "Seeds Soldier", date: "2008-02-01", categories: ["Climate Change", "Environment"], description: "Vijay Jardhari is on a mission to create a bank of indigenous seeds to share with other farmers.", image: "images/beejbachao2.jpg", featured: false },
+  { slug: "seeds-soldier", title: "Seeds Soldier", date: "2008-02-01", categories: ["Climate Change", "Environment"], description: "Vijay Jardhari is on a mission to create a bank of indigenous seeds to share with other farmers.", image: "images/beejbachao2.jpg", imagePosition: "center 15%", featured: false },
   { slug: "vanishing-snow", title: "Vanishing Snow", date: "2007-12-21", categories: ["Climate Change", "Environment"], description: "Rising temperature is changing the climate and the lives of the people in the villages of Tehri Garhwal.", image: "images/tehri-garhwal-village-path.jpg", featured: false },
   { slug: "elections-in-vibrant-gujarat", title: "Elections in ‘Vibrant’ Gujarat", date: "2007-12-21", categories: ["Gujarat Violence"], description: "The communal divide and the growing urban-rural disparities will be the deciding factors in the upcoming Gujarat state elections.", featured: false },
   { slug: "melting-mountains", title: "Melting Mountains", date: "2007-12-07", categories: ["Climate Change", "Environment"], description: "Will global warming dry up the Ganga, which supports 500 million people?", image: "images/gangotri-glacier-snout.jpg", featured: false },
@@ -236,7 +236,7 @@ function renderArticleCards(filter = 'All') {
 
   container.innerHTML = filtered.map(a => `
     <div class="article-card fade-in visible" onclick="navigateToArticle('${a.slug}')">
-      ${a.image ? `<img class="thumb" src="${a.image}" alt="${a.title}" loading="lazy">` : ''}
+      ${a.image ? `<img class="thumb" src="${a.image}" alt="${a.title}" loading="lazy"${a.imagePosition ? ` style="object-position: ${a.imagePosition}"` : ''}>` : ''}
       <div class="card-body">
         <span class="tag">${a.categories[0]}</span>
         <h3>${a.title}</h3>
