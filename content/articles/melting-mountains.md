@@ -20,15 +20,7 @@ The path to Gaumukh crackles with expectation. Each step over the boulders bring
 
 In the valley below, the Bhagirathi gushes past pine and deodar trees. As you approach the glacier, the landscape becomes sparse. There are only rocks and boulders. But even here, tiny mandirs (temples) and dhabas (food carts) have colonised a few corners. In India, not even the holy Mother Ganga can escape land grab.
 
-![The Bhagirathi river winding through pine and deodar forest](images/gangotri-bhagirathi-river-forest.jpg)
-
-**The Bhagirathi gushes past pine and deodar forest downstream of Gangotri.**
-
 Gaumukh, at 4,000 metres, is the source of the Bhagirathi, which joins the Alaknanda at Devprayag to form the Ganga. When you finally reach the glacier, you realise it is not a huge sheet of white ice — it is just a bunch of rocks covered in ice; a mountain face that is melting. The anticipation fizzles.
-
-![The snout of the Gangotri glacier at Gaumukh](images/gangotri-glacier-snout.jpg)
-
-**The glacier's snout at Gaumukh, where meltwater emerges to become the Bhagirathi.**
 
 The Gangotri glacier is receding. Along the trail, ominous rocks are like tombstones marking its retreat. “Gangotri in 1891... Gangotri in 1961... Gangotri in 1991.” Its shrinking length is recorded on the rocks that once were part of the glacier.
 
@@ -44,6 +36,10 @@ But scientists studying the Gangotri glacier feel this prediction is alarmist. �
 
 “The pace of glacier melting is slowing down, which suggests that the rate of temperature rise is also declining,” says A.K. Tangri, a glaciologist at the Remote Sensing Application Centre in Lucknow. No studies on temperature change in the Himalayas exist. In fact, proper temperature records over decades for the upper Himalayas are difficult to find. Scientists need data for more than 30-40 years to establish any clear trend. Only seven years ago, a few automated weather stations were set up.
 
+![The Bhagirathi river winding through pine and deodar forest](images/gangotri-bhagirathi-river-forest.jpg)
+
+**The Bhagirathi gushes past pine and deodar forest downstream of Gangotri.**
+
 In the rest of India (except the Himalayas), studies show that annual air temperature rose by 0.42°C to 0.57°C per 100 years. The earth has warmed by 0.74°C, according to the IPCC report.
 
 “Himalayan glaciers are not melting at an abnormal rate,” says C. Sangewar from the Geological Survey of India, which is monitoring Indian glaciers. “The rate of recession in different climatic zones varies in different years. It can fluctuate due to several factors such as micro and macroclimate, mountain geography, size of the glacier, nature of nourishment, and so on.”
@@ -53,6 +49,10 @@ It is still unclear how the melting of the Gangotri glacier is affecting the Gan
 “Snow cover in the Bhagirathi basin has been diminishing since the 1980s, which means that less snow is feeding the river. The difference between peak accumulation (after winter) and peak ablation (after melting in summer) snow cover is declining, so less melt water from the watershed area is being discharged into the Bhagirathi river,” says Tangri.
 
 The Ganga is not totally dependent on glaciers for its water. “Most of the river’s catchment area up to West Bengal is rain-fed. Only 20,000 sq km (7 per cent) of the river basin up to Devprayag is fed by the glacier,” says Arora. “Snow and glacier melt contribute only 48 per cent to the annual flow at Gangotri and 29 per cent at Devprayag, where the Bhagirathi meets the Alaknanda to form the Ganga river. The rest is from rain water.”
+
+![The snout of the Gangotri glacier at Gaumukh](images/gangotri-glacier-snout.jpg)
+
+**The glacier's snout at Gaumukh, where meltwater emerges to become the Bhagirathi.**
 
 “In the last few years, we have noticed that one major river channel, Raktwarn, is flowing on the surface of the glacier. This is unusual. It indicates that the melting may be quickening. Earlier, water was flowing from inside the glacier,” says Arora. “As warming continues, the entire agricultural pattern may change and our dam design parameters and flood control measures will have to be altered.”
 
@@ -74,11 +74,11 @@ If there is one thing on which all scientists and local environmentalists agree,
 
 The Pala Maneri and Lohari Nag Pala dams are being built just 90 km from Gangotri. The blasting and tunnelling has damaged houses in this earthquake-prone area. In 1991, an earthquake in Uttarkashi killed 769 people, and there are still frequent tremors and landslides. Dams only increase the risk of earthquakes, and there are already two major dam projects on the Ganga — Maneri Bali (phase 1 and 2) and Tehri. The new dams will submerge acres of forest and agricultural and grazing lands. Already, the Tehri dam has caused widespread damage. And the government has not yet provided adequate resettlement to those ousted by the dam since the 1970s.
 
+Still, the Uttarakhand government is on a dam-building spree, with almost a hundred projects planned across the State. “Instead of developing water conservation projects, the government just keeps building dams, which disturb this fragile ecology. Most dams do not even work in the winter because there isn’t enough water, so there are power cuts,” says Harshvanti Bisht of the Clean Ganga Campaign.
+
 ![A landslide-scarred slope above the Bhagirathi valley](images/gangotri-bhagirathi-valley-landslide.jpg)
 
 **A scree slope scars the forested Bhagirathi valley — the kind of unstable terrain that dam blasting and tunnelling has made more fragile.**
-
-Still, the Uttarakhand government is on a dam-building spree, with almost a hundred projects planned across the State. “Instead of developing water conservation projects, the government just keeps building dams, which disturb this fragile ecology. Most dams do not even work in the winter because there isn’t enough water, so there are power cuts,” says Harshvanti Bisht of the Clean Ganga Campaign.
 
 Smaller sources of water such as springs and glacierets are drying up because snowfall has reduced — not only in Gangotri but all over the Himalayas. Smaller glaciers are receding faster than the larger ones.
 
