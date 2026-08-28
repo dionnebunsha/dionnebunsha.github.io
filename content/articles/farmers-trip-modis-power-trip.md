@@ -1,7 +1,7 @@
 ---
 title: "Farmers trip Modi’s power trip"
 date: "2006-11-18"
-categories: ["Gujarat Violence", "Farm Crisis"]
+categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "It isn’t Muslim riot victims but the ryots of Gujarat who are the first vocal protestors against  Narendra Modi and his policies. Puncturing the hype surrounding the chief minister’s ‘achievements’..."
 ---
