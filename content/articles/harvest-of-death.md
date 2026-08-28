@@ -1,5 +1,5 @@
 ---
-title: "Harvest of death"
+title: "Harvest of Debt"
 date: "2007-06-30"
 categories: ["Farm Crisis"]
 publication: "Frontline"
