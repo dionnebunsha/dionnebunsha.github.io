@@ -10,6 +10,10 @@ description: "As global warming reshapes India's smallest state, a blight epidem
 
 *In Sikkim*
 
+![A farmer in the Sikkim hills](images/sikkim-farmer-portrait.jpg)
+
+**A farmer outside his home in the Sikkim hills, where the cardamom crop that has sustained families for generations is failing.**
+
 Wherever there is an Alder tree in Sikkim, there’s bound to be a cardamom plantation. The forests of these rugged mountains offer shade to cardamom plants, the staple cash crop of Sikkim. But now, the shade of the trees isn’t enough to protect this precious spice. The lifeline for farmers has been wiped out by an epidemic of the fungus, blight.
 
 A decade ago, Sikkim was the world’s biggest producer of large cardamom, growing 75% of the world’s cardamom crop. Now, it produces only 30-40%. Sikkim’s cardamom crop has been wiped out by the blight, ruining farmers and the local economy.
@@ -20,9 +24,17 @@ The cardamom blight epidemic has reduced self-sufficient farmers to daily wage w
 
 As the impacts of global warming become more apparent, Sikkim, India’s smallest state, is perhaps most attuned to the signs of change. Sandwiched between the kingdoms of Nepal in the west and Bhutan in the east and Tibetan plateau in the north, Sikkim stretches from low tropical forests to rugged mountains. It has the sacred Kanchenjunga, the third highest peak in the world, and is known as the land of orchids, with over 450 varieties.
 
+![Terraced valley in the Sikkim hills](images/sikkim-terraced-valley.jpg)
+
+**Terraced fields cut into a forested valley in the Sikkim hills, sandwiched between Nepal, Bhutan and the Tibetan plateau.**
+
 Within a distance of 114 km, you can travel through five climatic zones – from tropical to alpine forests to glaciers and cold deserts. Sikkim has 26% of India’s flora and fauna species, although it occupies only 0.5% of the country’s land area. Sikkim’s people, particularly the Buddhist minority, worship nature and are intimately linked to the land. They narrate revealing insights on how global warming is affecting them.
 
 “It has become hotter, so our vegetables don’t grow well. The leaves dry up. In the last 2-3 years, my yield has fallen by half,” says Dawa Bhutia, from Khamtang village, close to Yuksam in West Sikkim. Dawa’s village is on the fringes of the Kanchenjunga National Park, a mine of biodiversity. It’s from here that treks to the Kanchenjunga begin. Yuksam has a grand history. It was once the capital of Sikkim. And, just a few kilometers away is the Dubdi monastery, the oldest monastery in Sikkim.
+
+![A sacred lake near Yuksam, West Sikkim](images/sikkim-sacred-lake.jpg)
+
+**A sacred lake fringed with prayer flags near Yuksam, West Sikkim — a landscape its Buddhist communities regard as intimately linked to their lives.**
 
 “Earlier, the summer temperature in Gangtok (the capital city) would be 15°C. Now, in spring, it’s already 18°C,” says Dipankar Ghose, from the World Wildlife Fund (WWF) Sikkim.
 
@@ -49,6 +61,10 @@ High up in the Lachung valley (8,600 to 9,000 feet) of North Sikkim, which borde
 “Earlier, people used to migrate down slope from the high altitude areas in winter. Now that it’s warmer, they don’t have to migrate,” says Chezung. “Warming is also changing our culture. We used to weave thick, netted woolen shawls called Purup which were water and wind resistant. Now, people don’t make them in the villages anymore.”
 
 Vegetation is also moving up the mountains. “In Lachung, the staple crop, maize, was normally sown only till 8,000 feet. But now, it grows in 9,000 feet. The Utis (Indian Alder) tree would not grow beyond 7,500 feet. Now, you can find it above 9,000 feet. This is a clear indicator of climate change,” explains Chezung.
+
+![Forest undergrowth in the Sikkim hills](images/sikkim-forest-undergrowth.jpg)
+
+**Dense undergrowth in a Sikkim forest — the kind of tree cover that shelters cardamom plantations and is itself shifting upslope as the climate warms.**
 
 “The distribution of snow used to be uniform over six months. Now, we get two or three months of snowfall. We have late winter snowfall, which is not good for vegetation growth and water sources,” says Chezung. “At that time, the ground is warm, so snow melts faster and moisture is not retained in the soil for long. Trees and vegetation don’t grow in time and so the entire mountain landscape is affected.”
 
