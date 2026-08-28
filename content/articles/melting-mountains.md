@@ -12,13 +12,29 @@ description: "Will global warming dry up the Ganga, which supports 500 million p
 
 *in Gangotri, Uttarakhand*
 
+![The valley on the trail to Gaumukh](images/gangotri-gaumukh-trail-valley.jpg)
+
+**The trail to Gaumukh, source of the Bhagirathi, with the snow-capped peaks of the Gangotri range beyond.**
+
 The path to Gaumukh crackles with expectation. Each step over the boulders brings you closer to the glacier — the source of the mighty Ganga. Pilgrims who cannot walk make their way on horses. Hikers and tourists move about enamoured of the mysticism in the mountains. A sprinkling of sadhus whets their curiosity and spices up the trail.
 
 In the valley below, the Bhagirathi gushes past pine and deodar trees. As you approach the glacier, the landscape becomes sparse. There are only rocks and boulders. But even here, tiny mandirs (temples) and dhabas (food carts) have colonised a few corners. In India, not even the holy Mother Ganga can escape land grab.
 
+![The Bhagirathi river winding through pine and deodar forest](images/gangotri-bhagirathi-river-forest.jpg)
+
+**The Bhagirathi gushes past pine and deodar forest downstream of Gangotri.**
+
 Gaumukh, at 4,000 metres, is the source of the Bhagirathi, which joins the Alaknanda at Devprayag to form the Ganga. When you finally reach the glacier, you realise it is not a huge sheet of white ice — it is just a bunch of rocks covered in ice; a mountain face that is melting. The anticipation fizzles.
 
+![The snout of the Gangotri glacier at Gaumukh](images/gangotri-glacier-snout.jpg)
+
+**The glacier's snout at Gaumukh, where meltwater emerges to become the Bhagirathi.**
+
 The Gangotri glacier is receding. Along the trail, ominous rocks are like tombstones marking its retreat. “Gangotri in 1891... Gangotri in 1961... Gangotri in 1991.” Its shrinking length is recorded on the rocks that once were part of the glacier.
+
+![A rock marking the glacier's former extent near Gaumukh](images/gangotri-glacier-marker-rock.jpg)
+
+**A boulder marked “Gaumukh in 1966” shows how far the glacier's snout has retreated since then.**
 
 What will remain of the Ganga? Will global warming dry up a river that supports 500 million people? The impact of the melting glaciers is still unclear. The Himalayan glaciers form the largest body of ice outside the polar caps. They are the source of seven major river systems including the Yamuna, the Brahmaputra and the Indus.
 
@@ -48,11 +64,19 @@ A Gorkha commander, Amar Singh Thapa, built the Gangotri temple in the early 18t
 
 Gangotri town itself is a tourist trap — unplanned, with dingy hotels and shops springing up in tiny corners of the landscape. Though the Gangotri National Park is a protected area where cars are not allowed, tourist traffic has destroyed the forest. The trail is littered with biscuit wrappers and water bottles. In the Shravan month, in July, Gaumukh has the most number of visitors. Bhojvasa, the base camp where trekkers and pilgrims halt for the night, was named after the bhoj (birch) forests here. It is believed that the Mahabharata was written on the bark of bhoj trees. Now, Bhojvasa is bare. It is difficult to find a bhoj tree there. The local dhabas have cut them down for firewood.
 
+![A bharal (blue sheep) in the Gangotri National Park](images/gangotri-bharal-wildlife.jpg)
+
+**A bharal, or blue sheep, in the Gangotri National Park — habitat that scientists and environmentalists say unregulated tourism is degrading.**
+
 If there is one thing on which all scientists and local environmentalists agree, it is that tourism here has to be stopped or strictly regulated. “Tourists should not be allowed beyond Gangotri. Right now, it is a free-for-all. People bathe in the water, cook, litter the place, leave their clothes, walk on top of the glacier. It is harming the environment,” says Arora.
 
 “All the sewage is dumped straight into the river without treatment. This year, 12,000 chappals (flip flops) were left on the path to the glacier. Plastic bags are dumped without a thought,” says S.S. Tariyal of the Clean Ganga Campaign. It is believed that the Ganga’s waters remain pure for decades, but it is being polluted at the source itself. Gangotri is far from the pure, spiritual place it is supposed to be.
 
 The Pala Maneri and Lohari Nag Pala dams are being built just 90 km from Gangotri. The blasting and tunnelling has damaged houses in this earthquake-prone area. In 1991, an earthquake in Uttarkashi killed 769 people, and there are still frequent tremors and landslides. Dams only increase the risk of earthquakes, and there are already two major dam projects on the Ganga — Maneri Bali (phase 1 and 2) and Tehri. The new dams will submerge acres of forest and agricultural and grazing lands. Already, the Tehri dam has caused widespread damage. And the government has not yet provided adequate resettlement to those ousted by the dam since the 1970s.
+
+![A landslide-scarred slope above the Bhagirathi valley](images/gangotri-bhagirathi-valley-landslide.jpg)
+
+**A scree slope scars the forested Bhagirathi valley — the kind of unstable terrain that dam blasting and tunnelling has made more fragile.**
 
 Still, the Uttarakhand government is on a dam-building spree, with almost a hundred projects planned across the State. “Instead of developing water conservation projects, the government just keeps building dams, which disturb this fragile ecology. Most dams do not even work in the winter because there isn’t enough water, so there are power cuts,” says Harshvanti Bisht of the Clean Ganga Campaign.
 
