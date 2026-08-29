@@ -27,9 +27,11 @@ In the Ambejogai co-operative they suspect that Munde would like their factory s
 To gain control over a co-operative means to establish a fiefdom, to capture a ‘vote bank’. Politicians from the ruling centrist alliance government control 99 per cent of Maharashtra’s sugar industry. The rival BJP is still trying to break into the syndicate.
 
 Corruption
+
 Today, the industry is in trouble – 56 of Maharashtra’s 163 sugar mills are bankrupt, ruined by corruption and nepotism. Second and third generation politicians have squeezed out all profits, leaving the state government to bail them out. The state government contributed a 30-per-cent redeemable stake in the equity of these co-operatives, but few have repaid the equity. It also stood guarantee for the 60-percent equity taken as loans, some of which haven’t been repaid either.
 
 Last season 19 factories took loans to crush cane. They started production for a short while and then stopped. The aim never was to operate them – merely to take the money and run. They didn’t repay the bank or the few farmers whose cane was crushed.
+
 Are the mills really broke, or have they been made so? ‘The management wants to show losses. Or else how will they make money?’ asks Ramgonda Patil, a small farmer in Kolhapur district. ‘They inflate expenses and siphon off funds. Then they keep borrowing from the banks to pay farmers. The money never reaches us. But we have to bear the burden of those loans. If run properly, the business is profitable.’
 
 Farmers get a very small part of the revenue. Sugar sells at Rs12 ($0.26) per kilo on the domestic market and Rs10 ($0.21) internationally. But farmers get only Rs6.25 ($0.14) or less.
@@ -63,6 +65,7 @@ Many, like Shivaji, barely get a few hours’ sleep during the cutting season. Y
 Trapped in a cycle of loans, workers keep coming back to the sugar factories every year. The need for a lump-sum advance for consumption, to marry their children or pay medical bills, makes workers approach the contractor. Families repay the advances by cutting between one to two tonnes of cane per day, at the rate of Rs100-115 ($2.5) per tonne for bullock-cart owners and Rs65 ($1.41) for tractor workers. Often workers are given less, as their unpaid loans are offset against this advance.
 
 In fact Uttam Siserao, a landless labourer from Parbhani, worked for free in the 2001-02 season. He explained: ‘My wife was ill last year and could not work. We had taken Rs10,000 ($217) from the contractor. I worked off Rs5,000 ($107) and the other half was due. After that, she passed away. This year I am repaying her advance.’
+
 Most workers use up their advances in the village itself and buy their daily rations by selling the sugarcane leaves as fodder. They leave with nothing and return home still empty-handed.
 
 Ironically, while millions of sugarcane farmers and workers are starving, the warehouses are overflowing with sugar. Overproduction has resulted in swelling stocks. Factories are desperate to sell them off. To offload stocks, the Government has offered an export subsidy – paying producers to get rid of their sugar. But no-one seems bothered whether the farmers or workers will get a share of the profits.
