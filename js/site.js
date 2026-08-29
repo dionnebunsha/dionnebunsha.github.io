@@ -39,10 +39,10 @@
 // This manifest maps slugs to metadata. Content is loaded from markdown files.
 const ARTICLES = [
   { slug: "melting-mountains", title: "Melting Mountains", date: "2007-12-07", categories: ["Climate Change", "Environment"], description: "Will global warming dry up the Ganga, which supports 500 million people?", image: "images/gangotri-glacier-snout.jpg", featured: false },
+  { slug: "red-carpet-for-lions", title: "Red carpet for lions, red card for people", date: "2006-10-24", categories: ["Environment", "Human Rights"], description: "Some of the Gir lions needed another home. The adivasis in Kuno forest gave up theirs on promises of a better life. But were given little more than stony land", image: "images/kuno pic 1-card.jpg", imagePosition: "center 25%", featured: true },
   { slug: "sikkim-heating-up-but-losing-its-spice", title: "Sikkim: Heating Up But Losing Its Spice", date: "2008-05-01", categories: ["Climate Change", "Environment"], description: "As global warming reshapes India's smallest state, a blight epidemic driven by shifting temperatures and rainfall is wiping out Sikkim's cardamom crop and the farmers who depend on it.", image: "images/sikkim-forest-undergrowth.jpg", featured: false },
-  { slug: "red-carpet-for-lions", title: "Red carpet for lions, red card for people", date: "2006-10-24", categories: ["Environment", "Human Rights"], description: "Some of the Gir lions needed another home. The adivasis in Kuno forest gave up theirs on promises of a better life. But were given little more than stony land", image: "images/kuno pic 1.jpg", featured: true },
-  { slug: "the-holes-in-our-chappals", title: "The Holes in our Chappals", date: "2007-06-30", categories: ["Environment", "Farm Crisis"], description: "Farmers are killing themselves in Gujarat.", image: "images/guj-farmers-suicides.jpg", featured: true },
   { slug: "if-you-want-to-stay-alive-run-to-the-graveyard", title: "If you want to stay alive, run to the graveyard", date: "2006-10-21", categories: ["Gujarat Violence"], description: "Overnight, thousands were made homeless during the Gujarat massacres. Their only refuge were dargahs, schools, and even graveyards.", image: "images/Sabarkantha.jpg", featured: false },
+  { slug: "the-holes-in-our-chappals", title: "The Holes in our Chappals", date: "2007-06-30", categories: ["Environment", "Farm Crisis"], description: "Farmers are killing themselves in Gujarat.", image: "images/Guj+farmers+suicides+4+IMG_0085.JPG", featured: true },
   { slug: "the-truth-behind-zahiras-lies", title: "The truth behind Zahira's lies", date: "2006-11-18", categories: ["Gujarat Violence"], description: "Yes, Zahira lied. But can you blame her when the local MLA was threatening to kill her family? With no protection, witnesses have to choose between guarding the truth or their lives.", image: "images/2005-01-01 Zaheera - The price of silence photo 1.jpg", featured: false },
   { slug: "contested-territory", title: "Contested territory", date: "2015-06-08", categories: ["Environment", "Globalization", "Human Rights"], description: "", image: "images/anti-nuke-demo.png", featured: false },
   { slug: "authors-note-scarred", title: "Author's Note for the book 'Scarred: Experiments with Violence in Gujarat'", date: "2014-05-16", categories: ["Gujarat Violence", "Human Rights"], description: "", image: "images/Scarred-cover.jpg", featured: true },
@@ -226,15 +226,26 @@ function getCategories() {
 }
 
 // ── Render article cards ──
+const INITIAL_VISIBLE_COUNT = 6;
+let currentCategoryFilter = 'All';
+let visibleArticleCount = INITIAL_VISIBLE_COUNT;
+
 function renderArticleCards(filter = 'All') {
   const container = document.getElementById('article-cards');
   if (!container) return;
+
+  if (filter !== currentCategoryFilter) {
+    currentCategoryFilter = filter;
+    visibleArticleCount = INITIAL_VISIBLE_COUNT;
+  }
 
   const filtered = filter === 'All'
     ? ARTICLES
     : ARTICLES.filter(a => a.categories.includes(filter));
 
-  container.innerHTML = filtered.map(a => `
+  const toShow = filtered.slice(0, visibleArticleCount);
+
+  container.innerHTML = toShow.map(a => `
     <div class="article-card fade-in visible" onclick="navigateToArticle('${a.slug}')">
       ${a.image ? `<img class="thumb" src="${a.image}" alt="${a.title}" loading="lazy"${a.imagePosition ? ` style="object-position: ${a.imagePosition}"` : ''}>` : ''}
       <div class="card-body">
@@ -245,6 +256,22 @@ function renderArticleCards(filter = 'All') {
       </div>
     </div>
   `).join('');
+
+  renderMoreArticlesControl(filtered.length);
+}
+
+// ── "More Articles" control ──
+function renderMoreArticlesControl(totalCount) {
+  const control = document.getElementById('more-articles-control');
+  if (!control) return;
+  control.innerHTML = visibleArticleCount < totalCount
+    ? `<button onclick="showMoreArticles()">More Articles</button>`
+    : '';
+}
+
+function showMoreArticles() {
+  visibleArticleCount = ARTICLES.length;
+  renderArticleCards(currentCategoryFilter);
 }
 
 // ── Render category filters ──
