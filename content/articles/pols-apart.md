@@ -1,6 +1,6 @@
 ---
 title: "Pols apart"
-date: "2006-11-18"
+date: "2003-09-27"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "In Ahmedabad, a patchwork of ghettos, even real estate is dictated by religion."

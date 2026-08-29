@@ -1,6 +1,6 @@
 ---
 title: "The Gujarati press: Rumour or news?"
-date: "2006-10-31"
+date: "2002-07-20"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The regional press had no small role in fanning the flames. Goebbels in Gujarat?"

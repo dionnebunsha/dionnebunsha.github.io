@@ -1,6 +1,6 @@
 ---
 title: "Vines of Debt"
-date: "2007-06-30"
+date: "2006-08-26"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "Onion or grape farmers of Nashik in north Maharashtra have very little to choose to escape debt, and now death."

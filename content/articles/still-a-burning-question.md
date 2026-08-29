@@ -1,6 +1,6 @@
 ---
 title: "Still A Burning Question"
-date: "2006-11-19"
+date: "2005-01-29"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Rejecting the police’s conspiracy theory, the Justice Banerjee Committee has called the Godhra tragedy “an accident”. But will it absolve an entire community that has been branded as terrorists?"

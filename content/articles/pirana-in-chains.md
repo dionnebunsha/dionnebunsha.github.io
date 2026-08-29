@@ -1,6 +1,6 @@
 ---
 title: "Pirana in chains"
-date: "2006-11-18"
+date: "2004-08-28"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "A Gujarat village that follows a Sufi-inspired faith, a blend of Islam and Hinduism, is in danger of being swamped by Hindu fundamentalism."

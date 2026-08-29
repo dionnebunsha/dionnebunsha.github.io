@@ -1,6 +1,6 @@
 ---
 title: "Go home. Gujarat is back to normal"
-date: "2006-10-31"
+date: "2002-07-06"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The government wants the camps closed. Chased away, refugees are even living under trees."

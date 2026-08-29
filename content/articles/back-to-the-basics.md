@@ -1,6 +1,6 @@
 ---
 title: "Back to the Basics"
-date: "2007-06-30"
+date: "2006-07-16"
 categories: ["Environment", "Farm Crisis"]
 publication: "Frontline"
 description: "Organic farming is not the only solution to the problems contributing to the farm crisis. However, it is the only one within the farmer’s control."

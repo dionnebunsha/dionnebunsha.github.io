@@ -1,6 +1,6 @@
 ---
 title: "After the bullets, the ballot"
-date: "2006-10-31"
+date: "2002-08-03"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Chief Minister Narendra Modi is a man in a hurry—to cash in on the hate at the hustings. Will it pay? "

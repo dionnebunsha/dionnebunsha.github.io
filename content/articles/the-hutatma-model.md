@@ -1,6 +1,6 @@
 ---
 title: "The Hutatma Model"
-date: "2007-03-31"
+date: "2003-09-13"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "Corruption, mismanagement, political fiefdoms – these are the words usually associated with sugar co-operatives in Maharashtra. Here’s one that’s different."

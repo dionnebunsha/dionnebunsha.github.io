@@ -1,6 +1,6 @@
 ---
 title: "Garv se kaho…"
-date: "2006-11-17"
+date: "2002-12-07"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Narendra Modi wants Gujarat to be proud of all that is Gujarati. Does that include the  recession, unemployment and drought? Here are some of the real problems silenced by the political rhetoric"

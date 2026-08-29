@@ -1,6 +1,6 @@
 ---
 title: "Heil Hindutva!"
-date: "2006-11-17"
+date: "2003-01-03"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "After dividing the state, it’s time to rule. Narendra Modi and his men are swept in on a post-Godhra vote. "

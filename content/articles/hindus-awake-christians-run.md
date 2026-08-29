@@ -1,6 +1,6 @@
 ---
 title: "Hindus awake, Christians run"
-date: "2006-11-22"
+date: "2006-01-28"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Traditionally, India has four Kumbh Melas. The Sangh has just created a fifth in Dangs with the sole aim of scaring off Christian missionaries in the region."

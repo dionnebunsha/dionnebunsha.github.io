@@ -1,6 +1,6 @@
 ---
 title: "Why Gujarat voted saffron"
-date: "2006-11-17"
+date: "2003-01-03"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Narendra Modi  has cleverly pulled off the Goebbelesian trick of projecting himself not as instigator of violence, but protector of Hindus."

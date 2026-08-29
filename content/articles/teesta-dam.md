@@ -1,6 +1,6 @@
 ---
 title: "Teesta’s Tears"
-date: "2014-05-16"
+date: "2008-06-07"
 categories: ["Environment", "Human Rights"]
 publication: "Frontline"
 description: "Students and young people are at the forefront of a protest against hydel projects that are being planned in Sikkim."

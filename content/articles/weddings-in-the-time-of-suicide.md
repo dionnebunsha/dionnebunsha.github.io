@@ -1,6 +1,6 @@
 ---
 title: "Weddings in the time of suicide"
-date: "2007-06-30"
+date: "2006-07-01"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "On the mass weddings in Vidarbha, a phenomenon that has grown due to the agrarian crisis."

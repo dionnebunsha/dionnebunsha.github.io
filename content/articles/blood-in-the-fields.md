@@ -1,6 +1,6 @@
 ---
 title: "Blood in the fields"
-date: "2006-10-21"
+date: "2002-03-16"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "They were chased from their homes. Hacked in the fields. Thrown into wells. Rural Gujarat had never seen such widespread brutality—and all planned in cold blood.."

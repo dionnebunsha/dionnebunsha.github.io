@@ -1,6 +1,6 @@
 ---
 title: "Private water, public thirst"
-date: "2006-10-22"
+date: "2006-04-08"
 categories: ["Globalization"]
 publication: "Frontline"
 description: "Maharashtra’s first experiment in privatisation of drinking water supply has left Chandrapur high and dry"

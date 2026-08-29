@@ -1,6 +1,6 @@
 ---
 title: "Free and Unfair Elections in the Wild West"
-date: "2006-10-31"
+date: "2002-04-27"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Even as the attacks on the minorities continue relentlessly, the BJP government’s priority in Gujarat appears to be holding Assembly elections rather than providing relief and rehabilitation. "

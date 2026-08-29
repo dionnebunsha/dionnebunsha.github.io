@@ -1,6 +1,6 @@
 ---
 title: "Wild ass in the wild west"
-date: "2006-10-28"
+date: "2006-04-22"
 categories: ["Environment"]
 publication: "Frontline"
 description: "The Little Rann of Kutch is hot, dry and salty but it has a wild ass. This barren landscape is teeming with life. The Agarias also live in this desolate mudflat to make salt."

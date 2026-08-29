@@ -1,6 +1,6 @@
 ---
 title: "Voting to stay alive"
-date: "2006-11-17"
+date: "2003-01-03"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The refugees of Gujarat woke up early. They huddled into trucks. And went back home: to vote."

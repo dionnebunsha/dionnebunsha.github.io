@@ -1,6 +1,6 @@
 ---
 title: "The Gujarat Gaali Yatra"
-date: "2006-11-17"
+date: "2002-10-12"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Gujarat Chief Minister Narendra Modi rides on, spewing venom all the way. But will his game plan, with an eye on the elections, work?"

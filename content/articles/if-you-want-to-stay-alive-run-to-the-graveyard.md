@@ -1,6 +1,6 @@
 ---
 title: "If you want to stay alive, run to the graveyard"
-date: "2006-10-21"
+date: "2002-03-16"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Overnight, thousands were made homeless during the Gujarat massacres. Their only refuge were dargahs, schools, and even graveyards."

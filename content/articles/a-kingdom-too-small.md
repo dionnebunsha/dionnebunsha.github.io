@@ -1,6 +1,6 @@
 ---
 title: "A kingdom too small"
-date: "2006-10-22"
+date: "2005-05-07"
 categories: ["Environment"]
 publication: "Frontline"
 description: "Lions in Gir look for new territories as the sanctuary is not large enough for their population"

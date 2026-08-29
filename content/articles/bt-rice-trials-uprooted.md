@@ -1,6 +1,6 @@
 ---
 title: "Bt rice trials uprooted"
-date: "2007-06-30"
+date: "2006-11-18"
 categories: ["Environment", "Farm Crisis"]
 publication: "Frontline"
 description: "By uprooting Bt rice trials in Tamil Nadu, farm activists and Greenpeace have stirred up the debate on GM food testing. And they have support from unlikely quarters – rice exporters."

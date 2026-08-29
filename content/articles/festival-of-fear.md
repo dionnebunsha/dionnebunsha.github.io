@@ -1,6 +1,6 @@
 ---
 title: "Festival of Fear"
-date: "2006-11-22"
+date: "2006-02-25"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "After all the hype and anti-Christian propaganda, the Shabari Kumbh Mela may have been a damp squib, with more outsiders ferried here for a day-out while fearful locals stayed home.  But is this th..."

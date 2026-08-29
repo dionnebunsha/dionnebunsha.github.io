@@ -1,6 +1,6 @@
 ---
 title: "Hounded by an image : Qutubuddin Ansari"
-date: "2006-10-22"
+date: "2003-08-16"
 categories: ["People"]
 publication: "Frontline"
 description: "![](http://photos1.blogger.com/blogger2/480/4442/1600/qutubuddin.jpg)"

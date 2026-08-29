@@ -1,6 +1,6 @@
 ---
 title: "A Year in the Land of Prejudice"
-date: "2006-11-17"
+date: "2003-03-01"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "On February 27, 2002, the Sabarmati Express was torched in Godhra killing 59 people. That horrific tragedy was used by Gujarat’s Sangh Parivar to unleash widespread violence. Hindu extremist forces..."

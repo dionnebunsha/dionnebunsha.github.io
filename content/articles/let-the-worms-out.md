@@ -1,6 +1,6 @@
 ---
 title: "Let the worms out"
-date: "2006-11-18"
+date: "2004-08-28"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The Supreme Court directive to review more than 2,000 “true but undetected” cases in Gujarat is bound to expose police complicity."

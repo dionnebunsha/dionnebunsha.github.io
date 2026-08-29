@@ -1,6 +1,6 @@
 ---
 title: "The Mystery of the Vanishing Evidence"
-date: "2006-11-18"
+date: "2003-03-15"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The Gujarat police have left no stone unturned to ensure that the rapists and their instigators escape justice. More than half the 4,252 riot cases have been summarily closed."

@@ -1,6 +1,6 @@
 ---
 title: "Gone with the Waves"
-date: "2013-10-16"
+date: "2007-07-14"
 categories: ["Climate Change", "Environment", "Human Rights"]
 publication: "Frontline"
 description: "Rapid sea invasion along the Gujarat coast is forcing families of fishermen to abandon the sea and their homes."

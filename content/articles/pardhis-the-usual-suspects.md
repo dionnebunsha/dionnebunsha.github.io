@@ -1,6 +1,6 @@
 ---
 title: "Pardhis: the usual suspects"
-date: "2006-10-22"
+date: "2001-11-10"
 categories: ["Human Rights"]
 publication: "Frontline"
 description: "Despite the repeal of the Criminal Tribe Act in 1949 ‘denotified’ tribes  are still branded criminals and illegally detained by the police. Should the community apply for anticipatory bail?"
