@@ -226,15 +226,26 @@ function getCategories() {
 }
 
 // ── Render article cards ──
+const INITIAL_VISIBLE_COUNT = 6;
+let currentCategoryFilter = 'All';
+let visibleArticleCount = INITIAL_VISIBLE_COUNT;
+
 function renderArticleCards(filter = 'All') {
   const container = document.getElementById('article-cards');
   if (!container) return;
+
+  if (filter !== currentCategoryFilter) {
+    currentCategoryFilter = filter;
+    visibleArticleCount = INITIAL_VISIBLE_COUNT;
+  }
 
   const filtered = filter === 'All'
     ? ARTICLES
     : ARTICLES.filter(a => a.categories.includes(filter));
 
-  container.innerHTML = filtered.map(a => `
+  const toShow = filtered.slice(0, visibleArticleCount);
+
+  container.innerHTML = toShow.map(a => `
     <div class="article-card fade-in visible" onclick="navigateToArticle('${a.slug}')">
       ${a.image ? `<img class="thumb" src="${a.image}" alt="${a.title}" loading="lazy"${a.imagePosition ? ` style="object-position: ${a.imagePosition}"` : ''}>` : ''}
       <div class="card-body">
@@ -245,6 +256,22 @@ function renderArticleCards(filter = 'All') {
       </div>
     </div>
   `).join('');
+
+  renderMoreArticlesControl(filtered.length);
+}
+
+// ── "More Articles" control ──
+function renderMoreArticlesControl(totalCount) {
+  const control = document.getElementById('more-articles-control');
+  if (!control) return;
+  control.innerHTML = visibleArticleCount < totalCount
+    ? `<button onclick="showMoreArticles()">More Articles</button>`
+    : '';
+}
+
+function showMoreArticles() {
+  visibleArticleCount = ARTICLES.length;
+  renderArticleCards(currentCategoryFilter);
 }
 
 // ── Render category filters ──

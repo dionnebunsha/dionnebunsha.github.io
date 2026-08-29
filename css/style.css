@@ -188,6 +188,14 @@ section { padding: 6rem 2rem; }
 .article-card p { font-size: 0.88rem; color: var(--text-light); line-height: 1.7; flex: 1; }
 .article-card .meta { font-size: 0.75rem; color: var(--text-lighter); margin-top: 1.2rem; }
 
+.more-articles-control { display: flex; justify-content: center; margin-top: 2.5rem; }
+.more-articles-control button {
+  font-family: var(--sans); font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase;
+  padding: 0.75rem 2rem; border: 1px solid var(--border); border-radius: 100px;
+  color: var(--text-light); background: transparent; cursor: pointer; transition: 0.2s;
+}
+.more-articles-control button:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-light); }
+
 /* Category filter */
 .category-filter { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
 .category-filter button {
