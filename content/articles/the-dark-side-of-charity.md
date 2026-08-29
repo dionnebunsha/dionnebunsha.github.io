@@ -1,6 +1,6 @@
 ---
 title: "The dark side of charity"
-date: "2006-11-18"
+date: "2004-04-10"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Lord Patel wrote a cheque for the earthquake victims but was horrified when he found out that his money was actually going to the RSS. Charity is the best revenue stream for the Hindu right."

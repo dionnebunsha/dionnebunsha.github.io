@@ -1,6 +1,6 @@
 ---
 title: "Harvest of Debt"
-date: "2007-06-30"
+date: "2006-08-26"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "Everyday in Vidarbh, there are three suicides reported. Farmers are living only because they are not dying."

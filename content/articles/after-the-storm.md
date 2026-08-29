@@ -1,6 +1,6 @@
 ---
 title: "After the Storm"
-date: "2006-11-17"
+date: "2002-11-09"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Gujarat’s communal violence claimed more than 1,000 lives and left around 150,000 people homeless. Eight months after, Dionne Bunsha takes a look at how different people are dealing with the after-..."

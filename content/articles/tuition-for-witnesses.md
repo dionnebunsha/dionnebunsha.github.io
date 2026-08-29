@@ -1,6 +1,6 @@
 ---
 title: "Tuition for Witnesses"
-date: "2006-11-18"
+date: "2003-07-05"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The police have been making the rounds of riot victims’ home, and telling them to put in  a good word for them before the Nanavati-Shah Commission."

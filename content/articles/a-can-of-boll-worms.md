@@ -1,6 +1,6 @@
 ---
 title: "A can of boll worms"
-date: "2007-02-23"
+date: "2001-11-24"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "Many farmers in Gujarat didn’t know they were sold pirated Bt cotton seeds. Now, the government threatens to burn their crop."

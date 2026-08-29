@@ -1,6 +1,6 @@
 ---
 title: "Clean out the camps"
-date: "2006-10-31"
+date: "2002-04-13"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "With the PM visiting, government officials have suddenly appeared in relief camps. They want to clean them up…and clear them out."

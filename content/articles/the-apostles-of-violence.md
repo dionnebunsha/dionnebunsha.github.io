@@ -1,6 +1,6 @@
 ---
 title: "The apostles of violence"
-date: "2006-10-31"
+date: "2002-03-16"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The violence continues in Gujarat abetted by the state. The mobs rule."

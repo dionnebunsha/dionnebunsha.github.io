@@ -1,6 +1,6 @@
 ---
 title: "The lost generation"
-date: "2006-10-22"
+date: "2002-05-25"
 categories: ["Human Rights"]
 publication: "Frontline"
 description: "Nine out of 100 tribal children die of hunger in Maharashtra. Though Adivasis live in the most resource-rich areas, they are India’s most deprived people."

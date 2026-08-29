@@ -1,6 +1,6 @@
 ---
 title: "Dandi in the time of globalisation"
-date: "2006-10-22"
+date: "2005-04-23"
 categories: ["Globalization"]
 publication: "Frontline"
 description: "Gandhiji’s march to Dandi was the beginning of the end for the British. The 75th anniversary march was a bizarre political pilgrimage with a motley mix of foreigners, Pakistanis, old Gandhians and ..."

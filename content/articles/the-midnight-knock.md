@@ -1,6 +1,6 @@
 ---
 title: "The Midnight Knock"
-date: "2006-11-18"
+date: "2003-05-10"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "BJP leader Haren Pandya has been assassinated. It’s the ISI. Let’s raid the Muslim bastis. "

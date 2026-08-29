@@ -1,6 +1,6 @@
 ---
 title: "Vote for phobia"
-date: "2006-11-17"
+date: "2002-12-07"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "In Gujarat, fear is not a four-letter word. In fact, it’s the centrepiece of the BJP’s election campaign, effectively obscuring the real issues."

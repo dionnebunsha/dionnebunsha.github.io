@@ -1,6 +1,6 @@
 ---
 title: "Crocodile’s day out"
-date: "2006-10-24"
+date: "2005-07-16"
 categories: ["Environment"]
 publication: "Frontline"
 description: "Central Gujarat went under. Was it a freak downpour or did Baroda sink under the weight of its own development? "

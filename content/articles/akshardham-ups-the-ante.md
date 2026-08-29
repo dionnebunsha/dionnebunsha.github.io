@@ -1,6 +1,6 @@
 ---
 title: "Akshardham ups the ante"
-date: "2006-11-17"
+date: "2002-10-12"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Gujarat Chief Minister Narendra Modi sets off on his `Gujarat Gaurav Yatra’. Will the Akshardham temple terrorist attack fuel his chariot? "

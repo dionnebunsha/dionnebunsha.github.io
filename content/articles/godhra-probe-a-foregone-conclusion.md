@@ -1,6 +1,6 @@
 ---
 title: "Godhra probe: A foregone conclusion?"
-date: "2006-10-31"
+date: "2002-07-20"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Investigations into the burning of the Sabarmati Express at Godhra on February 27 seem to be directed to prove that it was a pre-planned terrorist act in line with the official script."

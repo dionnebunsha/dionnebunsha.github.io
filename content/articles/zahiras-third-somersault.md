@@ -1,6 +1,6 @@
 ---
 title: "Zahira’s third somersault"
-date: "2006-11-18"
+date: "2005-01-01"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "For the second time Zahira Sheikh, prime witness of the Best Bakery case, has turned hostile. And this, after appealing for a retrial. What is going on here?"

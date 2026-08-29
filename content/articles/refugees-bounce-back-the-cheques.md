@@ -1,6 +1,6 @@
 ---
 title: "Refugees bounce back the cheques"
-date: "2006-10-31"
+date: "2002-05-11"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Disgusted by the pittance being handed out, riot victims reject the government’s token compensation."

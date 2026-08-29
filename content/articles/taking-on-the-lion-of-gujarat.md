@@ -1,6 +1,6 @@
 ---
 title: "Taking on The Lion of Gujarat"
-date: "2006-11-22"
+date: "2006-07-15"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The wife of slain Member of Parliament Ahsan Jafri files a complaint against Narendra Modi and other top leaders for the pogrom of 2002."

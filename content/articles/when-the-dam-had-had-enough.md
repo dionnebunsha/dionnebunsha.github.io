@@ -1,6 +1,6 @@
 ---
 title: "When the dam had had enough"
-date: "2006-10-28"
+date: "2005-08-13"
 categories: ["Environment"]
 publication: "Frontline"
 description: "It was like an elephant hurtling towards them, yet many of the huts on the banks of the rivers couldn’t move out of its way when the dams swelled"

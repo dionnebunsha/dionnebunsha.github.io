@@ -1,6 +1,6 @@
 ---
 title: "Red carpet for lions, red card for people"
-date: "2006-10-24"
+date: "2005-05-21"
 categories: ["Environment", "Human Rights"]
 publication: "Frontline"
 description: "Some of the Gir lions needed another home. The adivasis in Kuno forest gave up theirs on promises of a better life. But were given little more than stony land"

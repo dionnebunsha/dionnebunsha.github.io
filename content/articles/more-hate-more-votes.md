@@ -1,6 +1,6 @@
 ---
 title: "More hate, more votes"
-date: "2006-10-31"
+date: "2002-05-11"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Keep the Godhra Ghost alive. Keep the hate going till the elections."

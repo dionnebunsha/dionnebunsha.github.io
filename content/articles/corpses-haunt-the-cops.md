@@ -1,6 +1,6 @@
 ---
 title: "Corpses haunt the cops"
-date: "2006-11-18"
+date: "2004-02-28"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Bilkis  was gang raped and left for dead. The police buried the evidence and shut the case. But the bodies  of the 14 others who died in the attack  were exhumed, exposing the police complicity in ..."

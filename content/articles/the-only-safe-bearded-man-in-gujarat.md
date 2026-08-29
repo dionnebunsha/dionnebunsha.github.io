@@ -1,6 +1,6 @@
 ---
 title: "The only safe bearded man in Gujarat"
-date: "2006-11-17"
+date: "2003-01-03"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "A profile of Gujarat chief minister Narendra Modi"

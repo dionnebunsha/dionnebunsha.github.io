@@ -1,6 +1,6 @@
 ---
 title: "Drowning Cotton’s Lifebuoy"
-date: "2007-03-31"
+date: "2002-01-19"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "The Maharashtra government has refused to pay the full cotton procurement price immediately. This has left farmers at the mercy of trader-moneylenders. In a region where farmers suicides are freque..."

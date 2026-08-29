@@ -1,6 +1,6 @@
 ---
 title: "Machines that Mow down Migrants"
-date: "2007-03-31"
+date: "2002-02-02"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "The arrival of imported cane-harvesting machines in sugarcane fields may push migrant cane cutters deeper in bondage."

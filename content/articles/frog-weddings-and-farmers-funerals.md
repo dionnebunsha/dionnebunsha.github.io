@@ -1,6 +1,6 @@
 ---
 title: "Frog Weddings and Farmers’ Funerals"
-date: "2007-03-31"
+date: "2004-08-13"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "Bad rains, family problems, alcoholism, gambling – the government continues to find different reasons for the farmers’ suicides rather than address the crisis. Everyday, a few farmers kill themselv..."

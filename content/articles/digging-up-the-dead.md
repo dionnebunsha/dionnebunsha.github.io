@@ -1,6 +1,6 @@
 ---
 title: "Digging up the Dead"
-date: "2006-11-19"
+date: "2006-01-14"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Looking for a dead relative? Get your shovel. Uncover a mass grave. You may expose the cops’ cover-up —but you will be arrested."

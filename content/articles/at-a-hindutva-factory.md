@@ -1,6 +1,6 @@
 ---
 title: "At a Hindutva factory"
-date: "2006-11-18"
+date: "2003-06-07"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Rifle shooting, lathi combat and how to fight anti-nationals. All part of the Vishwa Hindu Parishad’s training camp at Patan.  An account of a visit to a training camp run by the Vishwa Hindu Paris..."

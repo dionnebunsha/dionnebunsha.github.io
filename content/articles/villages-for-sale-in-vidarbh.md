@@ -1,6 +1,6 @@
 ---
 title: "Villages for Sale in Vidarbh"
-date: "2007-06-30"
+date: "2006-03-11"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "To draw attention to their desperation, many villages in the suicide-ridden Vidharbh region have declared that their land and kidneys are up for sale."

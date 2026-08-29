@@ -1,6 +1,6 @@
 ---
 title: "Their only voice is their vote"
-date: "2006-11-17"
+date: "2002-12-07"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The Muslims may have been broken and silenced. But they still have the most powerful democratic weapon—the vote. And they are determined to wield it."

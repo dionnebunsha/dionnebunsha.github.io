@@ -1,6 +1,6 @@
 ---
 title: "Poking through the embers of Godhra"
-date: "2006-11-18"
+date: "2003-03-15"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "One year after the Sabarmati Express burning in Godhra, the investigation throws up more questions than answers. "

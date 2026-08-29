@@ -1,6 +1,6 @@
 ---
 title: "The truth behind Zahira’s lies"
-date: "2006-11-18"
+date: "2003-07-19"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "Yes, Zahira lied. But can you blame her when the local MLA was threatening to kill her family? With no protection, witnesses have to choose between guarding the truth or their lives."

@@ -1,6 +1,6 @@
 ---
 title: "‘I want the case to be reopened’ : Zaheera"
-date: "2006-10-22"
+date: "2003-07-19"
 categories: ["People"]
 publication: "Frontline"
 description: "![](http://photos1.blogger.com/blogger2/480/4442/1600/zaheera%20interview.jpg)"

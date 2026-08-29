@@ -1,6 +1,6 @@
 ---
 title: "Biotech Brinjal"
-date: "2007-06-30"
+date: "2006-06-17"
 categories: ["Environment", "Farm Crisis"]
 publication: "Frontline"
 description: "Union Agriculture Minister Sharad Pawar had a rather unusual bunch of visitors last week – Greenpeace protesters dressed up as sheep and cattle, who camped outside his office. The “animals” were as..."

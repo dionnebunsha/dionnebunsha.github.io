@@ -1,6 +1,6 @@
 ---
 title: "Contract killing workers"
-date: "2006-10-22"
+date: "2003-10-25"
 categories: ["Mumbai"]
 publication: "Frontline"
 description: "Two unemployed workers set themselves on fire outside India’s most respected industrial house in Bombay. Their tragedy mirrors the desperation of Mumbai’s working class trapped in an economy where ..."

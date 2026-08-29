@@ -1,6 +1,6 @@
 ---
 title: "Back to Abnormal"
-date: "2006-10-31"
+date: "2002-06-22"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "It’s a long road back home when there’s no home to go back to. With the monsoon approaching, people may be stranded in relief camps for longer than they imagined."

@@ -1,6 +1,6 @@
 ---
 title: "Give violence a chance"
-date: "2006-10-31"
+date: "2002-04-13"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The government shows no desire to put out the fires. In fact, it even appears that it wants to keep the flames burning."

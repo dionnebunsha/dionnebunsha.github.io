@@ -1,6 +1,6 @@
 ---
 title: "Bulldozing Bombay’s Belly"
-date: "2006-10-22"
+date: "2002-01-19"
 categories: ["Mumbai"]
 publication: "Frontline"
 description: "It’s a Rs 1,600 crore street economy that employs 200,000 people. Why is the municipality bent on uprooting Mumbai’s hawkers?"

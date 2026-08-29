@@ -1,6 +1,6 @@
 ---
 title: "The Holes in our Chappals"
-date: "2007-06-30"
+date: "2007-06-02"
 categories: ["Environment", "Farm Crisis"]
 publication: "Frontline"
 description: "Farmers are killing themselves in Gujarat. "

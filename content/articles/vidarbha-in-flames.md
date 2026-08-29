@@ -1,6 +1,6 @@
 ---
 title: "Vidarbha in Flames"
-date: "2007-03-31"
+date: "2005-12-17"
 categories: ["Farm Crisis"]
 publication: "Frontline"
 description: "A local legislator attempted suicide in the legislative assembly, frustrated by all other methods to alert the state to the farmers suicides"

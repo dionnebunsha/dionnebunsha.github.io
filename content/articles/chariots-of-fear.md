@@ -1,6 +1,6 @@
 ---
 title: "Chariots of Fear"
-date: "2006-10-31"
+date: "2002-07-20"
 categories: ["Gujarat Violence"]
 publication: "Frontline"
 description: "The Jagannath rath yatra passes without incident, but for Gujarat’s Muslims it is life on the edge, for the fifth month running. "
