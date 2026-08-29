@@ -8,8 +8,7 @@ description: "Sugarcane has fuelled the corruption of political power in some st
 
 *Sugarcane has fuelled the corruption of political power in some states of India – the world’s largest sugar producer. But, as **Dionne Bunsha** reveals, it’s the small farmers who pay the price.*
 
-Meet Balasaheb Shinde. He’s wondering how he will abandon his children. Balasaheb is 
-a small farmer of sugarcane in Beed, Maharashtra. He’s so deep in debt that this year he and his wife will have to migrate to find work as cane cutters. His youngest son will drop out of school and go with them. But his three older children can’t stop their education. He will have to leave them alone in the village.
+Meet Balasaheb Shinde. He’s wondering how he will abandon his children. Balasaheb is a small farmer of sugarcane in Beed, Maharashtra. He’s so deep in debt that this year he and his wife will have to migrate to find work as cane cutters. His youngest son will drop out of school and go with them. But his three older children can’t stop their education. He will have to leave them alone in the village.
 
 ‘There’s no-one to look after them. For the first time, I am leaving to work as a labourer, even though I have my own farm. It’s not profitable to grow sugarcane any longer,’ says Balasaheb. ‘The loans keep piling up. The moneylenders are demanding repayments. How will I manage?’
 
